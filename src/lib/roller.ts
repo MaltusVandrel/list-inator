@@ -1,7 +1,7 @@
 import type { List, Context, Scenario, Item, NestedRoll } from "../types/index";
 import { getList } from "../data/index";
 
-const MAX_TRIGGER_DEPTH = 2;
+const MAX_TRIGGER_DEPTH = 6;
 
 /**
  * Select random item from a list (excluding locked items)
