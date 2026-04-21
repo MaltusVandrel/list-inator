@@ -40,14 +40,7 @@ const resolveTriggeredRolls = (
   }
 
   return item.triggers
-    .filter((trigger) => {
-      const triggerId = `${trigger.listDefs}`;
-      if (visitedTriggers.has(triggerId)) {
-        console.warn(`Circular trigger detected: ${triggerId}`);
-        return false;
-      }
-      return true;
-    })
+
     .map((trigger) => {
       const triggerId = `${trigger.listDefs}`;
       const newVisited = new Set(visitedTriggers);
