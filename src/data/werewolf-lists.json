@@ -1,0 +1,406 @@
+[
+  {
+    "id": "werewolf-animal",
+    "title": "Werewolf Animal",
+    "items": [
+      {
+        "id": "animal-wolf",
+        "title": "Wolf",
+        "description": "Classic Garou form; pack-oriented predator"
+      },
+      {
+        "id": "animal-dire-wolf",
+        "title": "Dire Wolf",
+        "description": "Larger, more primal and ancient wolf aspect"
+      },
+      {
+        "id": "animal-dog",
+        "title": "Dog",
+        "description": "Domesticated canine, tied to human environments"
+      },
+      {
+        "id": "animal-coyote",
+        "title": "Coyote",
+        "description": "Adaptable scavenger and trickster"
+      },
+      {
+        "id": "animal-fox",
+        "title": "Fox",
+        "description": "Cunning, stealthy, and elusive"
+      },
+
+      {
+        "id": "animal-bear",
+        "title": "Bear",
+        "description": "Massive strength, endurance, and ferocity"
+      },
+      {
+        "id": "animal-wolverine",
+        "title": "Wolverine",
+        "description": "Small but extremely aggressive and resilient"
+      },
+      {
+        "id": "animal-hyena",
+        "title": "Hyena",
+        "description": "Pack scavenger with eerie intelligence"
+      },
+
+      {
+        "id": "animal-lion",
+        "title": "Lion",
+        "description": "Dominant apex predator, symbol of authority"
+      },
+      {
+        "id": "animal-tiger",
+        "title": "Tiger",
+        "description": "Solitary, powerful ambush hunter"
+      },
+      {
+        "id": "animal-panther",
+        "title": "Panther",
+        "description": "Stealth-focused predator of the night"
+      },
+
+      {
+        "id": "animal-eagle",
+        "title": "Eagle",
+        "description": "Keen sight, dominance of the skies"
+      },
+      {
+        "id": "animal-raven",
+        "title": "Raven",
+        "description": "Associated with death, secrets, and trickery"
+      },
+      {
+        "id": "animal-owl",
+        "title": "Owl",
+        "description": "Silent hunter, tied to wisdom and the night"
+      },
+
+      {
+        "id": "animal-snake",
+        "title": "Snake",
+        "description": "Subtle, patient, and often symbolic of corruption or wisdom"
+      },
+      {
+        "id": "animal-spider",
+        "title": "Spider",
+        "description": "Weaver of traps, patience, and control"
+      },
+
+      {
+        "id": "animal-stag",
+        "title": "Stag",
+        "description": "Nobility, nature, and territorial dominance"
+      },
+      {
+        "id": "animal-boar",
+        "title": "Boar",
+        "description": "Stubborn resilience and raw aggression"
+      },
+
+      {
+        "id": "animal-shark",
+        "title": "Shark",
+        "description": "Relentless predator of the depths"
+      },
+      {
+        "id": "animal-crocodile",
+        "title": "Crocodile",
+        "description": "Ancient ambush predator"
+      },
+
+      {
+        "id": "animal-rat",
+        "title": "Rat",
+        "description": "Survival, infestation, and urban adaptation"
+      },
+      {
+        "id": "animal-bat",
+        "title": "Bat",
+        "description": "Night creature with heightened perception"
+      }
+    ]
+  },
+  {
+    "id": "werewolf-gift",
+    "title": "Gift",
+    "items": [
+      {
+        "id": "werewolf-gift-sense-wyrm",
+        "title": "Sense Wyrm",
+        "description": "Detects corruption, taint, or supernatural evil"
+      },
+      {
+        "id": "werewolf-gift-heightened-senses",
+        "title": "Heightened Senses",
+        "description": "Enhances sight, smell, or hearing"
+      },
+      {
+        "id": "werewolf-gift-truth-of-gaia",
+        "title": "Truth of Gaia",
+        "description": "Reveals lies or deception"
+      },
+
+      {
+        "id": "werewolf-gift-rage-strength",
+        "title": "Rage Strength",
+        "description": "Temporarily increases physical power"
+      },
+      {
+        "id": "werewolf-gift-claws-of-the-spirit",
+        "title": "Spirit Claws",
+        "description": "Allows attacks to harm supernatural beings"
+      },
+      {
+        "id": "werewolf-gift-berserk",
+        "title": "Berserk Fury",
+        "description": "Enter a controlled rage for combat advantage"
+      },
+
+      {
+        "id": "werewolf-gift-resist-pain",
+        "title": "Resist Pain",
+        "description": "Ignore wound penalties"
+      },
+      {
+        "id": "werewolf-gift-tough-hide",
+        "title": "Tough Hide",
+        "description": "Increase resistance to damage"
+      },
+      {
+        "id": "werewolf-gift-healing",
+        "title": "Rapid Healing",
+        "description": "Accelerates natural regeneration"
+      },
+
+      {
+        "id": "werewolf-gift-speed",
+        "title": "Burst of Speed",
+        "description": "Move at supernatural velocity"
+      },
+      {
+        "id": "werewolf-gift-leap",
+        "title": "Great Leap",
+        "description": "Jump great distances"
+      },
+      {
+        "id": "werewolf-gift-travel-umbra",
+        "title": "Step Sideways",
+        "description": "Enter the spirit world (Umbra)"
+      },
+
+      {
+        "id": "werewolf-gift-command",
+        "title": "Commanding Voice",
+        "description": "Force obedience or attention"
+      },
+      {
+        "id": "werewolf-gift-calm",
+        "title": "Calm the Beast",
+        "description": "Reduce rage or aggression in others"
+      },
+      {
+        "id": "werewolf-gift-fear",
+        "title": "Instill Fear",
+        "description": "Cause supernatural terror"
+      },
+
+      {
+        "id": "werewolf-gift-spirit-speech",
+        "title": "Spirit Speech",
+        "description": "Communicate with spirits"
+      },
+      {
+        "id": "werewolf-gift-bind-spirit",
+        "title": "Bind Spirit",
+        "description": "Force a spirit into service or containment"
+      },
+      {
+        "id": "werewolf-gift-spirit-blessing",
+        "title": "Spirit Blessing",
+        "description": "Gain temporary power from spirits"
+      },
+
+      {
+        "id": "werewolf-gift-control-weather",
+        "title": "Weather Control",
+        "description": "Influence local weather conditions"
+      },
+      {
+        "id": "werewolf-gift-command-animals",
+        "title": "Command Animals",
+        "description": "Influence or control beasts"
+      },
+      {
+        "id": "werewolf-gift-earth-call",
+        "title": "Earth Call",
+        "description": "Manipulate soil, roots, or terrain"
+      },
+
+      {
+        "id": "werewolf-gift-blend",
+        "title": "Blend",
+        "description": "Become difficult to notice in natural surroundings"
+      },
+      {
+        "id": "werewolf-gift-silence",
+        "title": "Silent Movement",
+        "description": "Move without making noise"
+      },
+      {
+        "id": "werewolf-gift-shapeshift-variant",
+        "title": "Alternate Form",
+        "description": "Take on unusual or enhanced forms"
+      },
+      {
+        "id": "werewolf-gift-pack-bond",
+        "title": "Pack Bond",
+        "description": "Strengthen supernatural connection between allies"
+      },
+      {
+        "id": "werewolf-gift-gaia-wrath",
+        "title": "Gaia's Wrath",
+        "description": "Channel destructive natural force against enemies"
+      },
+      {
+        "id": "werewolf-gift-taint",
+        "title": "Wyrm Taint",
+        "description": "Tainted by wyrm, the protector becomes the corruptor",
+        "triggers": [
+          {
+            "listDefs": "werewolf-gift-wyrm-gift"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "werewolf-gift-wyrm-gift",
+    "title": "Wyrm-Corrupted Gift",
+    "items": [
+      {
+        "id": "werewolf-gift-wyrm-taint-touch",
+        "title": "Tainting Touch",
+        "description": "Infuses a target with Wyrm corruption, weakening their spirit or causing moral decay"
+      },
+      {
+        "id": "werewolf-gift-wyrm-corrupt-spirit",
+        "title": "Corrupt Spirit",
+        "description": "Twists or enslaves spirits, turning them hostile or unstable"
+      },
+      {
+        "id": "werewolf-gift-wyrm-mark",
+        "title": "Mark of the Wyrm",
+        "description": "Brands a target, making them easier to track and more vulnerable to corruption"
+      },
+
+      {
+        "id": "werewolf-gift-wyrm-rot",
+        "title": "Accelerated Rot",
+        "description": "Causes organic matter to decay rapidly, including flesh and plant life"
+      },
+      {
+        "id": "werewolf-gift-wyrm-decay-body",
+        "title": "Withering Body",
+        "description": "Weakens a target physically, draining vitality and strength"
+      },
+      {
+        "id": "werewolf-gift-wyrm-blight",
+        "title": "Blight",
+        "description": "Corrupts land or environment, making it toxic and lifeless"
+      },
+
+      {
+        "id": "werewolf-gift-wyrm-mutate-self",
+        "title": "Warp Flesh",
+        "description": "Mutates the user’s body into a more monstrous or powerful form"
+      },
+      {
+        "id": "werewolf-gift-wyrm-mutate-target",
+        "title": "Twist Form",
+        "description": "Forces grotesque mutations onto another being"
+      },
+      {
+        "id": "werewolf-gift-wyrm-toxic-blood",
+        "title": "Toxic Blood",
+        "description": "Turns blood into a poisonous or corrosive substance"
+      },
+
+      {
+        "id": "werewolf-gift-wyrm-madness",
+        "title": "Induce Madness",
+        "description": "Drives a target into paranoia, fear, or insanity"
+      },
+      {
+        "id": "werewolf-gift-wyrm-nightmare",
+        "title": "Nightmare Infliction",
+        "description": "Assaults a target’s mind with horrific visions"
+      },
+      {
+        "id": "werewolf-gift-wyrm-whispers",
+        "title": "Whispers of the Wyrm",
+        "description": "Implants corrupting thoughts or compulsions"
+      },
+
+      {
+        "id": "werewolf-gift-wyrm-dominate",
+        "title": "Corrupt Command",
+        "description": "Forces obedience through fear and spiritual domination"
+      },
+      {
+        "id": "werewolf-gift-wyrm-pack-control",
+        "title": "Break the Pack",
+        "description": "Disrupts bonds between allies, causing distrust and conflict"
+      },
+
+      {
+        "id": "werewolf-gift-wyrm-corrosive-strike",
+        "title": "Corrosive Strike",
+        "description": "Attacks inflict additional decay or acid-like damage"
+      },
+      {
+        "id": "werewolf-gift-wyrm-frenzy",
+        "title": "Unleashed Frenzy",
+        "description": "Enter a violent, uncontrollable rage with increased power"
+      },
+      {
+        "id": "werewolf-gift-wyrm-aura",
+        "title": "Aura of Corruption",
+        "description": "Damages or weakens nearby beings over time"
+      },
+
+      {
+        "id": "werewolf-gift-wyrm-umbra-taint",
+        "title": "Tainted Umbra",
+        "description": "Corrupts the spirit world around the user"
+      },
+      {
+        "id": "werewolf-gift-wyrm-summon-bane",
+        "title": "Summon Bane",
+        "description": "Calls a Wyrm-spirit to aid or serve temporarily"
+      },
+      {
+        "id": "werewolf-gift-wyrm-bind-bane",
+        "title": "Bind Bane",
+        "description": "Forces a corrupted spirit into service"
+      },
+
+      {
+        "id": "werewolf-gift-wyrm-avatar",
+        "title": "Avatar of the Wyrm",
+        "description": "Transforms the user into a powerful corrupted entity"
+      },
+      {
+        "id": "werewolf-gift-wyrm-devour-spirit",
+        "title": "Devour Spirit",
+        "description": "Consumes spirits to gain power"
+      },
+      {
+        "id": "werewolf-gift-wyrm-apocalypse",
+        "title": "Seed of Ruin",
+        "description": "Spreads large-scale corruption across an area"
+      }
+    ]
+  }
+]

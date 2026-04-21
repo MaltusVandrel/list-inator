@@ -1,0 +1,167 @@
+[
+  {
+    "id": "ravenous-type",
+    "title": "Ravenous Type",
+    "items": [
+      {
+        "id": "ravenous-bird",
+        "title": "Bird",
+        "description": "Capable of control their own blood, to shoot, manifest habilities, use as crude weapons and even fly",
+        "triggers": [
+          {
+            "listDefs": "ravenous-bird-type"
+          },
+          {
+            "listDefs": "ravenous-bird-quirk"
+          }
+        ]
+      },
+      {
+        "id": "ravenous-insect",
+        "title": "Insect",
+        "description": "They have a hidden organ that sprouts into a specialized pseudopod, their form varies greatly",
+        "triggers": [
+          {
+            "listDefs": "ravenous-insect-type"
+          },
+          {
+            "listDefs": "ravenous-insect-quirk"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ravenous-bird-type",
+    "title": "Bird Type",
+    "items": [
+      {
+        "id": "ravenous-bird-feather",
+        "title": "Feathers",
+        "description": "Use their blood as projectiles, usually with a secondary effect"
+      },
+      {
+        "id": "ravenous-bird-talons",
+        "title": "Talons",
+        "description": "Use their blood as tendrils or tools with dangerous power"
+      },
+
+      {
+        "id": "ravenous-bird-bones",
+        "title": "Bones",
+        "description": "Focus into imbue their body with strenght, having an incredible strength, speed and regeneration"
+      }
+    ]
+  },
+  {
+    "id": "ravenous-bird-quirk",
+    "title": "Bird Quirk",
+    "items": [
+      {
+        "id": "ravenous-bird-quirk-mimicry",
+        "title": "Mimicry",
+        "description": "Emulate other supernatural they saw beings habilities within a limit"
+      },
+      {
+        "id": "ravenous-bird-quirk-egg",
+        "title": "Egg",
+        "description": "Seeds ravenous organ into a normal mortal and empowers other ravenous"
+      },
+      {
+        "id": "ravenous-bird-quirk-wings",
+        "title": "Wings",
+        "description": "Control their body to fly"
+      },
+      {
+        "id": "ravenous-bird-quirk-eyes",
+        "title": "Eyes",
+        "description": "Supress and hurt the blood flow of another"
+      }
+    ]
+  },
+  {
+    "id": "ravenous-insect-type",
+    "title": "Insect Type",
+    "items": [
+      {
+        "id": "ravenous-insect-wings",
+        "title": "Wings",
+        "description": "Sproting out their shoulder length, it's high range a speed type that can sprout wings to fly and attack and shoot with razor sharp feathers"
+      },
+      {
+        "id": "ravenous-insect-carapace",
+        "title": "Carapace",
+        "description": "Sproting out their shoulder plate length, a low range defensive type, it has a tough outer shell that provides protection and can be used as a weapon"
+      },
+
+      {
+        "id": "ravenous-insect-claws",
+        "title": "Claws",
+        "description": "Sproting out their middle back length, a offensive type, usually sprouting into middle range tentacles, powerful and have the highest regeneration"
+      },
+      {
+        "id": "ravenous-insect-stinger",
+        "title": "Stinger",
+        "description": "Sproting out their tail length, all rounder and usually best at surprise attacks"
+      }
+    ]
+  },
+  {
+    "id": "ravenous-insect-quirk",
+    "title": "Insect Type Quirk",
+    "items": [
+      {
+        "id": "ravenous-insect-quirk-resilience",
+        "title": "Resilience",
+        "description": "Even for a revenous, the body far exceds the limits of punishment"
+      },
+      {
+        "id": "ravenous-insect-quirk-potence",
+        "title": "Potence",
+        "description": "Much stronger, faster and agressive than other ravenous"
+      },
+      {
+        "id": "ravenous-insect-quirk-venom",
+        "title": "Venom",
+        "description": "The sprout is capable to produce a secondary effect, usually a poision with various simptoms but not limited by it"
+      },
+      {
+        "id": "ravenous-insect-quirk-detatchment-wall",
+        "title": "Detatchment - Wall",
+        "description": "A piece imbeds and spreads through an area and block it"
+      },
+      {
+        "id": "ravenous-insect-quirk-detatchment-trap",
+        "title": "Detatchment - Trap",
+        "description": "A piece buries and burst into piercing torns on contact or command"
+      },
+      {
+        "id": "ravenous-insect-quirk-detatchment-signal",
+        "title": "Detatchment - Signal",
+        "description": "A piece turns into a drone and transmits information to another"
+      },
+      {
+        "id": "ravenous-insect-quirk-detatchment-bundle",
+        "title": "Detatchment - Bundle",
+        "description": "A piece turns restraining cords to hold another"
+      },
+      {
+        "id": "ravenous-insect-quirk-detatchment-drone",
+        "title": "Detatchment - Drone",
+        "description": "A piece turns into a drone and attacks the target"
+      },
+      {
+        "id": "ravenous-insect-quirk-completion",
+        "title": "completion",
+        "description": "Has the complete stage, having a carapace body armor and even higher resistence",
+        "triggers": [{ "listDefs": "ravenous-insect-quirk" }]
+      },
+      {
+        "id": "ravenous-insect-quirk-quimera",
+        "title": "Quimera",
+        "description": "Has other sprout",
+        "triggers": [{ "listDefs": "ravenous-insect-type" }]
+      }
+    ]
+  }
+]

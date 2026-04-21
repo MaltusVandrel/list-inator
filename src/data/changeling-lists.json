@@ -1,0 +1,280 @@
+[
+  {
+    "id": "fae-appearance",
+    "title": "Fae Appearance",
+    "items": [
+      {
+        "id": "appearance-humanlike",
+        "title": "Humanlike",
+        "description": "Appears mostly human with subtle uncanny features like glowing eyes, unnatural beauty, or slight asymmetry"
+      },
+
+      {
+        "id": "appearance-animal-trait",
+        "title": "Animal-Touched",
+        "description": "Humanoid form with animal features such as ears, tails, claws, horns, or fur patches"
+      },
+      {
+        "id": "appearance-bestial-hybrid",
+        "title": "Bestial Hybrid",
+        "description": "Strong blend of human and animal, such as digitigrade legs, elongated snouts, or full body fur"
+      },
+
+      {
+        "id": "appearance-animal-folk",
+        "title": "Animal-Folk",
+        "description": "Fully anthropomorphic animal form with human posture and intelligence"
+      },
+      {
+        "id": "appearance-feral",
+        "title": "Feral",
+        "description": "Closer to a natural animal form but with heightened intelligence or unnatural presence"
+      },
+
+      {
+        "id": "appearance-sprite",
+        "title": "Sprite",
+        "description": "Small humanoid with wings, glowing aura, and delicate or exaggerated features"
+      },
+      {
+        "id": "appearance-tiny",
+        "title": "Tiny Folk",
+        "description": "Very small beings, often insect-like or doll-like in scale and proportions"
+      },
+
+      {
+        "id": "appearance-elemental",
+        "title": "Elemental",
+        "description": "Body composed of or infused with elements like fire, water, stone, or air"
+      },
+      {
+        "id": "appearance-nature-bound",
+        "title": "Nature-Bound",
+        "description": "Covered in vines, bark, mushrooms, or flowers; deeply tied to natural environments"
+      },
+
+      {
+        "id": "appearance-mystical-beast",
+        "title": "Mythical Beast",
+        "description": "Takes the form of legendary creatures like dragons, unicorns, or griffins"
+      },
+      {
+        "id": "appearance-chimera",
+        "title": "Chimera",
+        "description": "Combination of multiple animals or unnatural traits fused into one body"
+      },
+      {
+        "id": "appearance-ethereal",
+        "title": "Ethereal",
+        "description": "Partially intangible, glowing, or translucent form"
+      },
+      {
+        "id": "appearance-shadow",
+        "title": "Shadow Form",
+        "description": "Body made of darkness, silhouettes, or shifting void-like matter"
+      },
+      {
+        "id": "appearance-dreamlike",
+        "title": "Dreamlike",
+        "description": "Unstable or surreal appearance that shifts subtly over time"
+      },
+
+      {
+        "id": "appearance-giant",
+        "title": "Giant",
+        "description": "Massive humanoid form with exaggerated size and presence"
+      },
+      {
+        "id": "appearance-doll",
+        "title": "Doll-like",
+        "description": "Porcelain, wooden, or artificial appearance resembling a crafted figure"
+      },
+      {
+        "id": "appearance-mask",
+        "title": "Masked",
+        "description": "Face obscured or replaced by a fixed mask or symbolic visage"
+      },
+
+      {
+        "id": "appearance-corrupted",
+        "title": "Corrupted",
+        "description": "Twisted, decayed, or warped form reflecting dark or broken glamour",
+        "triggers": [
+          {
+            "listDefs": "fae-appearance"
+          }
+        ]
+      },
+      {
+        "id": "appearance-nightmare",
+        "title": "Nightmare",
+        "description": "Designed to inspire fear, with exaggerated, unsettling, or predatory features"
+      },
+
+      {
+        "id": "appearance-construct",
+        "title": "Construct",
+        "description": "Made of clockwork, crystal, or other artificial materials"
+      },
+      {
+        "id": "appearance-fluid",
+        "title": "Fluid Form",
+        "description": "Body constantly shifting like liquid, smoke, or mist"
+      },
+      {
+        "id": "appearance-symbolic",
+        "title": "Symbolic",
+        "description": "Embodies a concept (season, emotion, idea) visually rather than physically"
+      }
+    ]
+  },
+  {
+    "id": "changeling-legacy",
+    "title": "Legacy",
+    "items": [
+      {
+        "id": "legacy-courtier",
+        "title": "Courtier",
+        "description": "Seelie: Upholds tradition, honor, and social order. Unseelie: Manipulates status and politics for personal gain."
+      },
+      {
+        "id": "legacy-paladin",
+        "title": "Paladin",
+        "description": "Seelie: Protects others and defends ideals. Unseelie: Enforces their will through strength and intimidation."
+      },
+      {
+        "id": "legacy-sage",
+        "title": "Sage",
+        "description": "Seelie: Seeks knowledge and wisdom. Unseelie: Hoards secrets and uses them as leverage."
+      },
+      {
+        "id": "legacy-artist",
+        "title": "Artist",
+        "description": "Seelie: Creates beauty and inspires others. Unseelie: Obsesses over expression, often destructively."
+      },
+      {
+        "id": "legacy-wayfarer",
+        "title": "Wayfarer",
+        "description": "Seelie: Explores the world with curiosity. Unseelie: Wanders restlessly, never satisfied."
+      },
+      {
+        "id": "legacy-oracle",
+        "title": "Oracle",
+        "description": "Seelie: Guides others with visions. Unseelie: Delivers cryptic or disturbing truths."
+      },
+      {
+        "id": "legacy-regent",
+        "title": "Regent",
+        "description": "Seelie: Rules with responsibility and duty. Unseelie: Seeks control and domination."
+      },
+      {
+        "id": "legacy-warrior",
+        "title": "Warrior",
+        "description": "Seelie: Fights to defend and protect. Unseelie: Thrives on violence and conflict."
+      },
+
+      {
+        "id": "legacy-rogue",
+        "title": "Rogue",
+        "description": "Seelie: Clever trickster who bends rules. Unseelie: Deceiver who exploits others."
+      },
+      {
+        "id": "legacy-fool",
+        "title": "Fool",
+        "description": "Seelie: Brings humor and perspective. Unseelie: Causes chaos and disruption."
+      },
+      {
+        "id": "legacy-rebel",
+        "title": "Rebel",
+        "description": "Seelie: Challenges unjust authority. Unseelie: Rejects all control and structure."
+      },
+      {
+        "id": "legacy-outlaw",
+        "title": "Outlaw",
+        "description": "Seelie: Breaks rules for a cause. Unseelie: Thrives in lawlessness."
+      },
+      {
+        "id": "legacy-loner",
+        "title": "Loner",
+        "description": "Seelie: Independent and self-reliant. Unseelie: Isolates and distrusts others."
+      },
+      {
+        "id": "legacy-mystic",
+        "title": "Mystic",
+        "description": "Seelie: Seeks spiritual connection. Unseelie: Dives into dangerous or forbidden magic."
+      },
+      {
+        "id": "legacy-schemer",
+        "title": "Schemer",
+        "description": "Seelie: Plans carefully for the future. Unseelie: Manipulates events from the shadows."
+      },
+      {
+        "id": "legacy-monster",
+        "title": "Monster",
+        "description": "Seelie: Struggles to control darker impulses. Unseelie: Embraces fear and monstrous nature."
+      }
+    ]
+  },
+  {
+    "id": "changeling-art",
+    "title": "Art",
+    "items": [
+      {
+        "id": "art-chicanery",
+        "title": "Chicanery",
+        "description": "Illusion, misdirection, and deception affecting perception"
+      },
+      {
+        "id": "art-legerdemain",
+        "title": "Legerdemain",
+        "description": "Telekinesis and manipulation of objects at a distance"
+      },
+      {
+        "id": "art-primal",
+        "title": "Primal",
+        "description": "Control over natural forces like fire, weather, and elements"
+      },
+      {
+        "id": "art-soothsay",
+        "title": "Soothsay",
+        "description": "Divination, prophecy, and reading fate"
+      },
+      {
+        "id": "art-spring",
+        "title": "Spring",
+        "description": "Growth, renewal, healing, and vitality"
+      },
+      {
+        "id": "art-summer",
+        "title": "Summer",
+        "description": "Strength, aggression, and destructive force"
+      },
+      {
+        "id": "art-sovereign",
+        "title": "Sovereign",
+        "description": "Command, authority, and social dominance"
+      },
+      {
+        "id": "art-wayfare",
+        "title": "Wayfare",
+        "description": "Movement, speed, and travel"
+      },
+
+      {
+        "id": "art-fae",
+        "title": "Fae",
+        "description": "Manipulation of raw Glamour and fae essence"
+      },
+      {
+        "id": "art-time",
+        "title": "Chronos",
+        "description": "Manipulation of time and temporal flow"
+      },
+      {
+        "id": "art-contract",
+        "title": "Contract",
+        "description": "Binding oaths, deals, and enforced agreements"
+      }
+    ]
+  }
+]

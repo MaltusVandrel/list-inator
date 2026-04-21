@@ -1,0 +1,297 @@
+[
+  {
+    "id": "tarot-card",
+    "title": "Tarot Card",
+    "items": [
+      {
+        "id": "Draw",
+        "title": "Draw",
+        "triggers": [
+          {
+            "listDefs": "card-direction"
+          },
+          {
+            "listDefs": "card-identity"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "card-direction",
+    "title": "Direction",
+    "items": [
+      {
+        "id": "upright",
+        "title": "Upright"
+      },
+      {
+        "id": "reversed",
+        "title": "Reversed"
+      }
+    ]
+  },
+  {
+    "id": "card-identity",
+    "title": "Identity",
+    "items": [
+      {
+        "id": "Major",
+        "title": "Major",
+        "triggers": [
+          {
+            "listDefs": "major-tarot-card"
+          }
+        ]
+      },
+      {
+        "id": "court",
+        "title": "Court",
+        "triggers": [
+          {
+            "listDefs": "tarot-suit"
+          },
+          {
+            "listDefs": "tarot-court"
+          }
+        ]
+      },
+      {
+        "id": "number",
+        "title": "Number",
+        "triggers": [
+          {
+            "listDefs": "tarot-suit"
+          },
+          {
+            "listDefs": "tarot-number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tarot-suit",
+    "title": "Suit",
+    "items": [
+      {
+        "id": "suit-cups",
+        "title": "Cups",
+        "description": "Emotions, relationships, intuition"
+      },
+      {
+        "id": "suit-wands",
+        "title": "Wands",
+        "description": "Action, ambition, energy"
+      },
+      {
+        "id": "suit-swords",
+        "title": "Swords",
+        "description": "Conflict, intellect, truth"
+      },
+      {
+        "id": "suit-pentacles",
+        "title": "Pentacles",
+        "description": "Material world, work, wealth"
+      }
+    ]
+  },
+  {
+    "id": "tarot-number",
+    "title": "Number Meaning",
+    "items": [
+      {
+        "id": "num-ace",
+        "title": "Ace",
+        "description": "Upright: New beginnings. Reversed: Delays, blocked potential."
+      },
+      {
+        "id": "num-2",
+        "title": "Two",
+        "description": "Upright: Balance, partnership. Reversed: Imbalance, tension."
+      },
+      {
+        "id": "num-3",
+        "title": "Three",
+        "description": "Upright: Growth, collaboration. Reversed: Conflict, delay."
+      },
+      {
+        "id": "num-4",
+        "title": "Four",
+        "description": "Upright: Stability, structure. Reversed: Stagnation."
+      },
+      {
+        "id": "num-5",
+        "title": "Five",
+        "description": "Upright: Conflict, change. Reversed: Resolution, avoidance."
+      },
+      {
+        "id": "num-6",
+        "title": "Six",
+        "description": "Upright: Harmony, recovery. Reversed: Regression."
+      },
+      {
+        "id": "num-7",
+        "title": "Seven",
+        "description": "Upright: Challenge, strategy. Reversed: Deception, confusion."
+      },
+      {
+        "id": "num-8",
+        "title": "Eight",
+        "description": "Upright: Movement, progress. Reversed: Delay, restriction."
+      },
+      {
+        "id": "num-9",
+        "title": "Nine",
+        "description": "Upright: Fulfillment, intensity. Reversed: Anxiety, dissatisfaction."
+      },
+      {
+        "id": "num-10",
+        "title": "Ten",
+        "description": "Upright: Completion, burden. Reversed: Release, failure."
+      }
+    ]
+  },
+  {
+    "id": "tarot-court",
+    "title": "Court Card",
+    "items": [
+      {
+        "id": "court-page",
+        "title": "Page",
+        "description": "Upright: Learning, curiosity. Reversed: Immaturity, lack of progress."
+      },
+      {
+        "id": "court-knight",
+        "title": "Knight",
+        "description": "Upright: Action, pursuit. Reversed: Impulsiveness, recklessness."
+      },
+      {
+        "id": "court-queen",
+        "title": "Queen",
+        "description": "Upright: Mastery, nurture. Reversed: Manipulation, insecurity."
+      },
+      {
+        "id": "court-king",
+        "title": "King",
+        "description": "Upright: Authority, control. Reversed: Tyranny, imbalance."
+      }
+    ]
+  },
+  {
+    "id": "major-tarot-card",
+    "title": "Major Arcana",
+    "items": [
+      {
+        "id": "major-fool",
+        "title": "The Fool",
+        "description": "Upright: Beginnings, innocence, spontaneity. Reversed: Recklessness, naivety, poor judgment."
+      },
+      {
+        "id": "major-magician",
+        "title": "The Magician",
+        "description": "Upright: Willpower, creation, skill. Reversed: Manipulation, illusion, wasted talent."
+      },
+      {
+        "id": "major-high-priestess",
+        "title": "The High Priestess",
+        "description": "Upright: Intuition, mystery, inner knowledge. Reversed: Secrets, disconnection, confusion."
+      },
+      {
+        "id": "major-empress",
+        "title": "The Empress",
+        "description": "Upright: Fertility, growth, nurturing. Reversed: Dependence, stagnation, neglect."
+      },
+      {
+        "id": "major-emperor",
+        "title": "The Emperor",
+        "description": "Upright: Authority, structure, control. Reversed: Tyranny, rigidity, misuse of power."
+      },
+      {
+        "id": "major-hierophant",
+        "title": "The Hierophant",
+        "description": "Upright: Tradition, belief, guidance. Reversed: Rebellion, dogma, restriction."
+      },
+      {
+        "id": "major-lovers",
+        "title": "The Lovers",
+        "description": "Upright: Union, choice, harmony. Reversed: Conflict, imbalance, misalignment."
+      },
+      {
+        "id": "major-chariot",
+        "title": "The Chariot",
+        "description": "Upright: Determination, victory, control. Reversed: Lack of direction, aggression."
+      },
+      {
+        "id": "major-strength",
+        "title": "Strength",
+        "description": "Upright: Courage, patience, compassion. Reversed: Weakness, self-doubt."
+      },
+      {
+        "id": "major-hermit",
+        "title": "The Hermit",
+        "description": "Upright: Reflection, solitude, wisdom. Reversed: Isolation, withdrawal, loneliness."
+      },
+      {
+        "id": "major-wheel",
+        "title": "Wheel of Fortune",
+        "description": "Upright: Change, cycles, fate. Reversed: Bad luck, resistance to change."
+      },
+      {
+        "id": "major-justice",
+        "title": "Justice",
+        "description": "Upright: Fairness, truth, accountability. Reversed: Bias, dishonesty, injustice."
+      },
+      {
+        "id": "major-hanged-man",
+        "title": "The Hanged Man",
+        "description": "Upright: Sacrifice, perspective, pause. Reversed: Stagnation, delay, avoidance."
+      },
+      {
+        "id": "major-death",
+        "title": "Death",
+        "description": "Upright: Transformation, endings, rebirth. Reversed: Resistance, stagnation."
+      },
+      {
+        "id": "major-temperance",
+        "title": "Temperance",
+        "description": "Upright: Balance, harmony, moderation. Reversed: Excess, imbalance."
+      },
+      {
+        "id": "major-devil",
+        "title": "The Devil",
+        "description": "Upright: Bondage, addiction, materialism. Reversed: Freedom, release, awareness."
+      },
+      {
+        "id": "major-tower",
+        "title": "The Tower",
+        "description": "Upright: Sudden upheaval, chaos, revelation. Reversed: Avoidance, delayed disaster."
+      },
+      {
+        "id": "major-star",
+        "title": "The Star",
+        "description": "Upright: Hope, healing, renewal. Reversed: Despair, lack of faith."
+      },
+      {
+        "id": "major-moon",
+        "title": "The Moon",
+        "description": "Upright: Illusion, fear, subconscious. Reversed: Clarity, truth revealed."
+      },
+      {
+        "id": "major-sun",
+        "title": "The Sun",
+        "description": "Upright: Success, joy, vitality. Reversed: Delay, temporary sadness."
+      },
+      {
+        "id": "major-judgement",
+        "title": "Judgement",
+        "description": "Upright: Awakening, reckoning, renewal. Reversed: Doubt, refusal to change."
+      },
+      {
+        "id": "major-world",
+        "title": "The World",
+        "description": "Upright: Completion, achievement, fulfillment. Reversed: Incompletion, delay."
+      }
+    ]
+  }
+]

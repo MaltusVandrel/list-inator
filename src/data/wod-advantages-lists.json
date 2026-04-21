@@ -1,0 +1,668 @@
+[
+  {
+    "id": "wod-advantage",
+    "title": "Advantage",
+    "items": [
+      {
+        "id": "adv-paragon",
+        "title": "Paragon",
+        "description": "Represents perfecly your lineage"
+      },
+      {
+        "id": "adv-allies",
+        "title": "Allies",
+        "description": "Trusted individuals or groups who provide aid and support"
+      },
+      {
+        "id": "adv-contacts",
+        "title": "Contacts",
+        "description": "Sources of information across various fields"
+      },
+      {
+        "id": "adv-influence",
+        "title": "Influence",
+        "description": "Sway over institutions such as media, police, or politics"
+      },
+      {
+        "id": "adv-mentor",
+        "title": "Mentor",
+        "description": "A more powerful vampire who guides and supports you"
+      },
+      {
+        "id": "adv-resources",
+        "title": "Resources",
+        "description": "Wealth and financial means"
+      },
+      {
+        "id": "adv-retainers",
+        "title": "Retainers",
+        "description": "Servants, ghouls, or assistants under your command"
+      },
+      {
+        "id": "adv-status",
+        "title": "Status",
+        "description": "Standing within Kindred society"
+      },
+      {
+        "id": "adv-herd",
+        "title": "Herd",
+        "description": "A group of vessels you can feed from safely"
+      },
+      {
+        "id": "adv-domain",
+        "title": "Domain",
+        "description": "Territory under your control"
+      },
+      {
+        "id": "adv-generation",
+        "title": "Generation",
+        "description": "Proximity to Caine determining blood potency"
+      },
+
+      {
+        "id": "adv-haven",
+        "title": "Haven",
+        "description": "A secure and well-equipped place to reside"
+      },
+      {
+        "id": "adv-alternate-identity",
+        "title": "Alternate Identity",
+        "description": "A legally supported false identity"
+      },
+      {
+        "id": "adv-black-hand-membership",
+        "title": "Black Hand Membership",
+        "description": "Membership in the Tal'Mahe'Ra or Sabbat Black Hand"
+      },
+      {
+        "id": "adv-boon",
+        "title": "Boons",
+        "description": "Owed favors that can be called in"
+      },
+
+      {
+        "id": "adv-acute-sense",
+        "title": "Acute Sense",
+        "description": "One sense is significantly sharper than normal"
+      },
+      {
+        "id": "adv-ambidextrous",
+        "title": "Ambidextrous",
+        "description": "No penalty for using either hand"
+      },
+      {
+        "id": "adv-arcane",
+        "title": "Arcane",
+        "description": "You are difficult to notice, remember, or track"
+      },
+      {
+        "id": "adv-blush-of-health",
+        "title": "Blush of Health",
+        "description": "You appear more lifelike than most vampires"
+      },
+      {
+        "id": "adv-calm-heart",
+        "title": "Calm Heart",
+        "description": "Reduced risk of frenzy"
+      },
+      {
+        "id": "adv-common-sense",
+        "title": "Common Sense",
+        "description": "The Storyteller warns you of obviously bad decisions"
+      },
+      {
+        "id": "adv-daredevil",
+        "title": "Daredevil",
+        "description": "You thrive under risky and dangerous situations"
+      },
+      {
+        "id": "adv-eidetic-memory",
+        "title": "Eidetic Memory",
+        "description": "Perfect recall of what you have seen or read"
+      },
+      {
+        "id": "adv-enchanting-voice",
+        "title": "Enchanting Voice",
+        "description": "Your voice has unnatural persuasive power"
+      },
+      {
+        "id": "adv-friendly-face",
+        "title": "Friendly Face",
+        "description": "You inspire trust and approachability"
+      },
+      {
+        "id": "adv-huge-size",
+        "title": "Huge Size",
+        "description": "You are significantly larger and stronger than average"
+      },
+      {
+        "id": "adv-internal-compass",
+        "title": "Internal Compass",
+        "description": "You always know direction and orientation"
+      },
+      {
+        "id": "adv-iron-will",
+        "title": "Iron Will",
+        "description": "Exceptional resistance to Dominate and mind control"
+      },
+      {
+        "id": "adv-lightning-reflexes",
+        "title": "Lightning Reflexes",
+        "description": "You react faster than most in combat"
+      },
+      {
+        "id": "adv-natural-leader",
+        "title": "Natural Leader",
+        "description": "Others instinctively follow your command"
+      },
+      {
+        "id": "adv-pain-tolerance",
+        "title": "Pain Tolerance",
+        "description": "Reduced penalties from injury"
+      },
+      {
+        "id": "adv-precocious",
+        "title": "Precocious",
+        "description": "You learn disciplines and skills faster early on"
+      },
+      {
+        "id": "adv-self-confident",
+        "title": "Self-Confident",
+        "description": "Gain bonuses when spending Willpower"
+      },
+      {
+        "id": "adv-sleep-unseen",
+        "title": "Sleep Unseen",
+        "description": "You can remain hidden even while resting"
+      },
+      {
+        "id": "adv-true-love",
+        "title": "True Love",
+        "description": "A deep emotional bond that grants strength and motivation"
+      },
+      {
+        "id": "adv-unbondable",
+        "title": "Unbondable",
+        "description": "You cannot be blood bound"
+      },
+
+      {
+        "id": "adv-language",
+        "title": "Additional Language",
+        "description": "Fluency in extra languages beyond your native one"
+      },
+      {
+        "id": "adv-time-sense",
+        "title": "Time Sense",
+        "description": "You have an exact sense of time passing"
+      },
+      {
+        "id": "adv-codes-of-honor",
+        "title": "Code of Honor",
+        "description": "You follow a strict personal code that grants discipline bonuses"
+      },
+      {
+        "id": "adv-concentration",
+        "title": "Concentration",
+        "description": "You can ignore distractions more easily"
+      },
+      {
+        "id": "adv-danger-sense",
+        "title": "Danger Sense",
+        "description": "You instinctively detect threats"
+      },
+
+      {
+        "id": "adv-ghoul",
+        "title": "Ghoul",
+        "description": "You maintain a loyal ghoul servant"
+      },
+      {
+        "id": "adv-rituals",
+        "title": "Rituals",
+        "description": "Access to thaumaturgical or necromantic rituals"
+      },
+
+      {
+        "id": "adv-prestation",
+        "title": "Prestation",
+        "description": "Recognition and leverage within the boon economy"
+      },
+      {
+        "id": "adv-reputation",
+        "title": "Reputation",
+        "description": "A widely known identity within Kindred society"
+      }
+    ]
+  },
+  {
+    "id": "wod-flaw",
+    "title": "Flaw",
+    "items": [
+      {
+        "id": "flaw-bane",
+        "title": "Bane",
+        "description": "You are defined by the behavior of your inherited bane"
+      },
+      {
+        "id": "flaw-compulsion",
+        "title": "Compulsion",
+        "description": "You are driven to act in a specific way regardless of consequences"
+      },
+      {
+        "id": "flaw-addiction",
+        "title": "Addiction",
+        "description": "You are dependent on a substance or behavior"
+      },
+      {
+        "id": "flaw-allergy",
+        "title": "Allergy",
+        "description": "You suffer adverse effects from a specific substance"
+      },
+      {
+        "id": "flaw-amnesia",
+        "title": "Amnesia",
+        "description": "You cannot recall parts of your past"
+      },
+      {
+        "id": "flaw-animal-repulsion",
+        "title": "Animal Repulsion",
+        "description": "Animals react aggressively or fearfully toward you"
+      },
+      {
+        "id": "flaw-bad-sight",
+        "title": "Bad Sight",
+        "description": "Your vision is impaired"
+      },
+      {
+        "id": "flaw-blind",
+        "title": "Blind",
+        "description": "You cannot see"
+      },
+      {
+        "id": "flaw-deaf",
+        "title": "Deaf",
+        "description": "You cannot hear"
+      },
+      {
+        "id": "flaw-hard-of-hearing",
+        "title": "Hard of Hearing",
+        "description": "You have partial hearing loss"
+      },
+
+      {
+        "id": "flaw-berserker",
+        "title": "Berserker",
+        "description": "You frenzy more easily and violently"
+      },
+      {
+        "id": "flaw-blood-bound",
+        "title": "Blood Bound",
+        "description": "You are already bound to another vampire"
+      },
+      {
+        "id": "flaw-prey-exclusion",
+        "title": "Prey Exclusion",
+        "description": "You refuse to feed on certain targets"
+      },
+      {
+        "id": "flaw-vulnerability",
+        "title": "Vulnerability",
+        "description": "You suffer extra damage from a specific source"
+      },
+
+      {
+        "id": "flaw-cursed",
+        "title": "Curse",
+        "description": "You are afflicted by a supernatural or mystical curse"
+      },
+      {
+        "id": "flaw-dark-secret",
+        "title": "Dark Secret",
+        "description": "A hidden truth could destroy you if revealed"
+      },
+      {
+        "id": "flaw-enemy",
+        "title": "Enemy",
+        "description": "Someone actively seeks to harm you"
+      },
+      {
+        "id": "flaw-infamy",
+        "title": "Infamy",
+        "description": "You have a bad reputation among Kindred"
+      },
+
+      {
+        "id": "flaw-hunted",
+        "title": "Hunted",
+        "description": "You are pursued by hunters or enemies"
+      },
+      {
+        "id": "flaw-mistaken-identity",
+        "title": "Mistaken Identity",
+        "description": "You are confused for someone else, often dangerously"
+      },
+      {
+        "id": "flaw-notoriety",
+        "title": "Notoriety",
+        "description": "Your actions are widely known and resented"
+      },
+
+      {
+        "id": "flaw-derangement",
+        "title": "Derangement",
+        "description": "You suffer from mental instability or disorder"
+      },
+      {
+        "id": "flaw-nightmares",
+        "title": "Nightmares",
+        "description": "You suffer disturbing dreams that affect your rest"
+      },
+      {
+        "id": "flaw-phobia",
+        "title": "Phobia",
+        "description": "You have an irrational fear of something specific"
+      },
+
+      {
+        "id": "flaw-slow-healing",
+        "title": "Slow Healing",
+        "description": "You recover from damage more slowly"
+      },
+      {
+        "id": "flaw-weakness",
+        "title": "Weakness",
+        "description": "You are physically weaker than normal"
+      },
+      {
+        "id": "flaw-frail",
+        "title": "Frail",
+        "description": "You suffer increased damage from injuries"
+      },
+
+      {
+        "id": "flaw-cold-blooded",
+        "title": "Cold Blooded",
+        "description": "You struggle to empathize or connect emotionally"
+      },
+      {
+        "id": "flaw-intolerance",
+        "title": "Intolerance",
+        "description": "You harbor strong prejudice against a group"
+      },
+      {
+        "id": "flaw-short-fuse",
+        "title": "Short Fuse",
+        "description": "You anger quickly and lose control"
+      },
+
+      {
+        "id": "flaw-disfigured",
+        "title": "Disfigured",
+        "description": "You have a disturbing or grotesque appearance"
+      },
+      {
+        "id": "flaw-ugly",
+        "title": "Ugly",
+        "description": "You are unattractive and unsettling"
+      },
+      {
+        "id": "flaw-repulsive",
+        "title": "Repulsive",
+        "description": "Your presence causes discomfort or fear"
+      },
+
+      {
+        "id": "flaw-hunted-by-law",
+        "title": "Police Record",
+        "description": "Authorities have records that can identify you"
+      },
+      {
+        "id": "flaw-no-identity",
+        "title": "No Identity",
+        "description": "You lack any legal documentation"
+      },
+
+      {
+        "id": "flaw-bound",
+        "title": "Bound",
+        "description": "You are restricted by obligations or supernatural ties"
+      },
+      {
+        "id": "flaw-oathbound",
+        "title": "Oathbound",
+        "description": "You must obey a specific oath or code"
+      },
+
+      {
+        "id": "flaw-thin-blood",
+        "title": "Thin-Blooded",
+        "description": "Your vitae is weak and carries additional limitations"
+      },
+      {
+        "id": "flaw-weak-blood",
+        "title": "Weak Blood",
+        "description": "Your blood potency is reduced"
+      },
+
+      {
+        "id": "flaw-cant-cross-running-water",
+        "title": "Running Water Weakness",
+        "description": "You cannot cross running water safely"
+      },
+      {
+        "id": "flaw-cant-enter-homes",
+        "title": "Invitation Required",
+        "description": "You cannot enter homes without invitation"
+      },
+
+      {
+        "id": "flaw-day-sleep",
+        "title": "Deep Sleeper",
+        "description": "You are extremely vulnerable during day sleep"
+      },
+      {
+        "id": "flaw-light-sensitive",
+        "title": "Light Sensitivity",
+        "description": "You are more affected by bright light"
+      },
+
+      {
+        "id": "flaw-echoes",
+        "title": "Haunted",
+        "description": "Spirits or memories linger around you"
+      },
+      {
+        "id": "flaw-spirit-tied",
+        "title": "Spirit-Tied",
+        "description": "You are bound to a supernatural entity"
+      }
+    ]
+  },
+  {
+    "id": "wod-background",
+    "title": "Background",
+    "items": [
+      {
+        "id": "bg-regular-worker",
+        "title": "Minial Laborer",
+        "description": "Work with a back breaking or mind numbing job to survive"
+      },
+      {
+        "id": "bg-street-urchin",
+        "title": "Street Urchin",
+        "description": "Raised on the streets, surviving through wit, theft, and instinct"
+      },
+      {
+        "id": "bg-criminal",
+        "title": "Criminal Underworld",
+        "description": "Connected to gangs, organized crime, or illegal operations"
+      },
+      {
+        "id": "bg-homeless",
+        "title": "Homeless Drifter",
+        "description": "Living without stable shelter, moving from place to place"
+      },
+      {
+        "id": "bg-laborer",
+        "title": "Working Class Laborer",
+        "description": "Blue-collar worker with practical skills and endurance"
+      },
+      {
+        "id": "bg-soldier",
+        "title": "Soldier / Veteran",
+        "description": "Trained in combat, shaped by war or military service"
+      },
+      {
+        "id": "bg-police",
+        "title": "Law Enforcement",
+        "description": "Background in policing, investigation, or security"
+      },
+      {
+        "id": "bg-detective",
+        "title": "Investigator",
+        "description": "Skilled in uncovering secrets and solving mysteries"
+      },
+      {
+        "id": "bg-academic",
+        "title": "Academic Scholar",
+        "description": "Educated in universities, focused on knowledge and research"
+      },
+      {
+        "id": "bg-scientist",
+        "title": "Scientist",
+        "description": "Engaged in research, experimentation, or technical innovation"
+      },
+      {
+        "id": "bg-doctor",
+        "title": "Medical Professional",
+        "description": "Trained in medicine, anatomy, and healthcare"
+      },
+      {
+        "id": "bg-lawyer",
+        "title": "Legal Professional",
+        "description": "Experienced in law, courts, and legal manipulation"
+      },
+      {
+        "id": "bg-politician",
+        "title": "Politician",
+        "description": "Operates within systems of governance and public influence"
+      },
+      {
+        "id": "bg-aristocrat",
+        "title": "Aristocrat",
+        "description": "Born into wealth, status, and social privilege"
+      },
+      {
+        "id": "bg-entrepreneur",
+        "title": "Entrepreneur",
+        "description": "Built wealth through business ventures and risk-taking"
+      },
+      {
+        "id": "bg-celebrity",
+        "title": "Celebrity",
+        "description": "Public figure with fame and social visibility"
+      },
+      {
+        "id": "bg-artist",
+        "title": "Artist",
+        "description": "Creative individual expressing through art, music, or performance"
+      },
+      {
+        "id": "bg-journalist",
+        "title": "Journalist",
+        "description": "Seeker of truth, working in media or reporting"
+      },
+      {
+        "id": "bg-hacker",
+        "title": "Hacker",
+        "description": "Technically skilled in computers, networks, and digital intrusion"
+      },
+      {
+        "id": "bg-cultist",
+        "title": "Cult Member",
+        "description": "Part of a secretive or esoteric belief group"
+      },
+      {
+        "id": "bg-clergy",
+        "title": "Religious Clergy",
+        "description": "Raised or working within organized religion"
+      },
+      {
+        "id": "bg-occultist",
+        "title": "Occultist",
+        "description": "Student or practitioner of hidden and forbidden knowledge"
+      },
+      {
+        "id": "bg-conspiracy",
+        "title": "Conspiracy Insider",
+        "description": "Aware of hidden truths behind society or the supernatural"
+      },
+      {
+        "id": "bg-survivor",
+        "title": "Trauma Survivor",
+        "description": "Endured catastrophic events that shaped resilience"
+      },
+      {
+        "id": "bg-experiment",
+        "title": "Test Subject",
+        "description": "Used in scientific or supernatural experimentation"
+      },
+      {
+        "id": "bg-prisoner",
+        "title": "Ex-Convict",
+        "description": "Formerly imprisoned, shaped by incarceration"
+      },
+      {
+        "id": "bg-nomad",
+        "title": "Nomad",
+        "description": "Lives a transient lifestyle, never settling in one place"
+      },
+      {
+        "id": "bg-immigrant",
+        "title": "Immigrant",
+        "description": "Relocated from another country, navigating new culture"
+      },
+      {
+        "id": "bg-refugee",
+        "title": "Refugee",
+        "description": "Fled conflict or disaster, often with little left"
+      },
+      {
+        "id": "bg-orphan",
+        "title": "Orphan",
+        "description": "Grew up without parental support"
+      },
+      {
+        "id": "bg-family-business",
+        "title": "Family Business",
+        "description": "Raised within a family trade or enterprise"
+      },
+      {
+        "id": "bg-corporate",
+        "title": "Corporate Professional",
+        "description": "Worked within large organizations or corporations"
+      },
+      {
+        "id": "bg-fixer",
+        "title": "Fixer",
+        "description": "Middleman who connects people, deals, and opportunities"
+      },
+      {
+        "id": "bg-smuggler",
+        "title": "Smuggler",
+        "description": "Specializes in moving illegal goods or people"
+      },
+      {
+        "id": "bg-mercenary",
+        "title": "Mercenary",
+        "description": "Sells combat skills to the highest bidder"
+      },
+      {
+        "id": "bg-activist",
+        "title": "Activist",
+        "description": "Driven by ideology to enact social or political change"
+      }
+    ]
+  }
+]

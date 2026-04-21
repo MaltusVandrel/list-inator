@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "vampire-clan",
+    "title": "Clan",
+    "items": [
+      {
+        "id": "vampire-clan-toreador",
+        "title": "Toreador",
+        "description": "The Clan of the Rose - aesthetes and artists"
+      },
+      {
+        "id": "vampire-clan-ventrue",
+        "title": "Ventrue",
+        "description": "The Clan of Kings - aristocrats and leaders"
+      },
+      {
+        "id": "vampire-clan-brujah",
+        "title": "Brujah",
+        "description": "The Clan of Horns - rebels and warriors"
+      },
+      {
+        "id": "vampire-clan-malkavian",
+        "title": "Malkavian",
+        "description": "The Clan of the Moon - mad seers and prophets"
+      },
+      {
+        "id": "vampire-clan-nosferatu",
+        "title": "Nosferatu",
+        "description": "The Clan of the Beast - hideous information brokers"
+      },
+      {
+        "id": "vampire-clan-gangrel",
+        "title": "Gangrel",
+        "description": "The Clan of the Hunt - feral survivors"
+      },
+      {
+        "id": "vampire-clan-tremere",
+        "title": "Tremere",
+        "description": "The Clan of the Tower - sorcerers and scholars"
+      },
+
+      {
+        "id": "vampire-clan-lasombra",
+        "title": "Lasombra",
+        "description": "The Clan of Shadows - manipulators of darkness and power"
+      },
+      {
+        "id": "vampire-clan-tzimisce",
+        "title": "Tzimisce",
+        "description": "The Clan of the Dragon - fleshcrafters and fiends"
+      },
+      {
+        "id": "vampire-clan-banu-haqim",
+        "title": "Banu Haqim",
+        "description": "Judges and assassins (formerly Assamites)"
+      },
+      {
+        "id": "vampire-clan-ministry",
+        "title": "The Ministry",
+        "description": "Tempters and corrupters (formerly Followers of Set)"
+      },
+      {
+        "id": "vampire-clan-hecata",
+        "title": "Hecata",
+        "description": "The Clan of Death - necromancers (Giovanni lineage)"
+      },
+      {
+        "id": "vampire-clan-ravnos",
+        "title": "Ravnos",
+        "description": "Tricksters and illusionists"
+      },
+      {
+        "id": "vampire-clan-salubri",
+        "title": "Salubri",
+        "description": "Healers and cursed outcasts"
+      },
+      {
+        "id": "vampire-clan-caitiff",
+        "title": "Caitiff",
+        "description": "Clanless, stray dogs and alley cats"
+      },
+
+      {
+        "id": "vampire-clan-lineage",
+        "title": "Lineage (Bloodline)",
+        "description": "Choose a vampire lineage or bloodline instead of a main clan",
+        "triggers": [
+          {
+            "listDefs": "vampire-clan-lineage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vampire-status",
+    "title": "Status",
+    "items": [
+      {
+        "id": "vampire-status-pariah",
+        "title": "Pariah",
+        "triggers": [
+          {
+            "listDefs": "vampire-role-pariah"
+          }
+        ]
+      },
+      {
+        "id": "vampire-status-regular",
+        "title": "Regular",
+        "triggers": [
+          {
+            "listDefs": "vampire-role-regular"
+          }
+        ]
+      },
+      {
+        "id": "vampire-status-influent",
+        "title": "Influent",
+        "triggers": [
+          {
+            "listDefs": "vampire-role-influent"
+          }
+        ]
+      },
+      {
+        "id": "vampire-status-ace",
+        "title": "Ace",
+        "triggers": [
+          {
+            "listDefs": "vampire-discipline"
+          }
+        ]
+      },
+      {
+        "id": "vampire-status-powerful",
+        "title": "Powerful",
+        "triggers": [
+          {
+            "listDefs": "vampire-discipline"
+          },
+          {
+            "listDefs": "vampire-role-influent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vampire-role-pariah",
+    "title": "Kindred Role",
+    "items": [
+      {
+        "id": "vampire-role-fledgling",
+        "title": "Fledgling",
+        "description": "Newly embraced vampire still under guidance"
+      },
+      {
+        "id": "vampire-role-caitiff",
+        "title": "Caitiff",
+        "description": "Clanless vampire, often marginalized in society"
+      },
+      {
+        "id": "vampire-role-thin-blood",
+        "title": "Thin-Blood",
+        "description": "Weak-blooded vampire with diluted lineage and unique abilities"
+      },
+      {
+        "id": "vampire-role-thin-blood",
+        "title": "Thin-Blood",
+        "description": "Weak-blooded vampire with diluted lineage and unique abilities"
+      },
+      {
+        "id": "vampire-role-infamous",
+        "title": "Infamous",
+        "description": "Vampire with a notorious reputation and a history of criminal activity"
+      },
+      {
+        "id": "vampire-role-hunted",
+        "title": "Hunted",
+        "description": "Vampire who has broken a rule and is being pursued by enforcers or hunters"
+      }
+    ]
+  },
+  {
+    "id": "vampire-role-regular",
+    "title": "Kindred Role",
+    "items": [
+      {
+        "id": "vampire-role-neonate",
+        "title": "Neonate",
+        "description": "Young vampire recently released from their sire"
+      },
+      {
+        "id": "vampire-role-clean-crew",
+        "title": "Clean Crew",
+        "description": "Clean messes and covers tracks for more powerful vampires"
+      },
+      {
+        "id": "vampire-role-adminstrator",
+        "title": "Administrator",
+        "description": "Manages the boring stuff and sometime fights for taxes"
+      },
+      {
+        "id": "vampire-role-errant-runner",
+        "title": "Errant Runner",
+        "description": "Carries out tasks of all kind for anyone with status"
+      },
+      {
+        "id": "vampire-role-paparazzi",
+        "title": "Paparazzi",
+        "description": "Fan over the activities of powerful vampires"
+      },
+      {
+        "id": "vampire-role-adrenaline-junkie",
+        "title": "Adrenaline Junkie",
+        "description": "Seeks out dangerous situations for thrills and excitement"
+      },
+      {
+        "id": "vampire-role-ambitious",
+        "title": "Ambitious",
+        "description": "Strives for power and influence within the vampire hierarchy"
+      },
+      {
+        "id": "vampire-role-kind-soul",
+        "title": "Kind Soul",
+        "description": "Compassionate vampire who seeks to help others and make a positive impact"
+      }
+    ]
+  },
+  {
+    "id": "vampire-role-influent",
+    "title": "Kindred Role",
+    "items": [
+      {
+        "id": "vampire-role-prince",
+        "title": "Prince",
+        "description": "Absolute ruler of a city, enforces the Traditions and maintains order"
+      },
+      {
+        "id": "vampire-role-seneschal",
+        "title": "Seneschal",
+        "description": "Second-in-command who manages the domain and acts in the Prince’s absence"
+      },
+      {
+        "id": "vampire-role-sheriff",
+        "title": "Sheriff",
+        "description": "Enforcer of the Prince’s laws and hunter of criminals"
+      },
+      {
+        "id": "vampire-role-hound",
+        "title": "Hound",
+        "description": "Assistant to the Sheriff, tasked with tracking and capturing targets"
+      },
+      {
+        "id": "vampire-role-harbinger",
+        "title": "Harpy",
+        "description": "Keeper of status and social order through gossip and reputation"
+      },
+      {
+        "id": "vampire-role-keeper-elysium",
+        "title": "Keeper of Elysium",
+        "description": "Maintains neutral grounds and enforces peace within Elysium"
+      },
+      {
+        "id": "vampire-role-scion",
+        "title": "Scourge",
+        "description": "Eliminates unauthorized or dangerous vampires, often targeting thin-bloods"
+      },
+      {
+        "id": "vampire-role-primogen",
+        "title": "Primogen",
+        "description": "Clan representative advising the Prince as part of the ruling council"
+      },
+      {
+        "id": "vampire-role-representative",
+        "title": "Clan Representative",
+        "description": "Clan representative usually trusted by the primogen"
+      },
+      {
+        "id": "vampire-role-famous",
+        "title": "Famous",
+        "description": "The vampire is recognized by the city, trusted or feared, maybe both"
+      },
+      {
+        "id": "vampire-role-archon",
+        "title": "Archon",
+        "description": "Agent of a Justicar, enforcing Camarilla law across domains"
+      },
+      {
+        "id": "vampire-role-justicar",
+        "title": "Justicar",
+        "description": "High-ranking Camarilla authority overseeing entire clans"
+      },
+      {
+        "id": "vampire-role-inner-circle",
+        "title": "Inner Circle Member",
+        "description": "Secretive rulers of the Camarilla at the highest level"
+      },
+
+      {
+        "id": "vampire-role-baron",
+        "title": "Baron",
+        "description": "Anarch leader who controls territory without Camarilla structure"
+      },
+      {
+        "id": "vampire-role-revolutionary",
+        "title": "Anarch Agitator",
+        "description": "Organizer and instigator within Anarch movements"
+      },
+
+      {
+        "id": "vampire-role-regent",
+        "title": "Regent",
+        "description": "Leader of a Sabbat pack or chantry-like structure"
+      },
+      {
+        "id": "vampire-role-priest",
+        "title": "Pack Priest",
+        "description": "Spiritual leader of a Sabbat pack who conducts rituals"
+      },
+      {
+        "id": "vampire-role-templar",
+        "title": "Templar",
+        "description": "Elite bodyguard or agent serving Sabbat leadership"
+      },
+      {
+        "id": "vampire-role-ductus",
+        "title": "Ductus",
+        "description": "Military leader of a Sabbat pack"
+      },
+
+      {
+        "id": "vampire-role-ancilla",
+        "title": "Ancilla",
+        "description": "Mid-aged vampire with influence but not yet an elder"
+      },
+      {
+        "id": "vampire-role-elder",
+        "title": "Elder",
+        "description": "Powerful and ancient vampire with significant influence"
+      }
+    ]
+  },
+  {
+    "id": "vampire-clan-lineage",
+    "title": "Lineage (Bloodline)",
+    "items": [
+      {
+        "id": "vampire-clan-lineage-gargoyle",
+        "title": "Gargoyle",
+        "description": "Artificial warriors created by Tremere from Gangrel, Nosferatu, and Tzimisce stock"
+      },
+      {
+        "id": "vampire-clan-lineage-blue-rose",
+        "title": "Blue Rose",
+        "description": "Adopted bloodline of Toreador and Ventrue, warriors perfectionists, often clan protectors"
+      },
+      {
+        "id": "vampire-clan-lineage-marblemasons",
+        "title": "Marblemasons",
+        "description": "Adopted of Toreador that use arts of turning stone to flesh."
+      },
+      {
+        "id": "vampire-clan-lineage-baali",
+        "title": "Baali",
+        "description": "Demonic cultists devoted to ancient evils"
+      },
+      {
+        "id": "vampire-clan-lineage-daughters-of-cacophony",
+        "title": "Daughters of Cacophony",
+        "description": "Supernatural singers with haunting, maddening voices"
+      },
+      {
+        "id": "vampire-clan-lineage-nagaraja",
+        "title": "Nagaraja",
+        "description": "Cannibalistic necromancers who must consume flesh"
+      },
+      {
+        "id": "vampire-clan-lineage-kiasyd",
+        "title": "Kiasyd",
+        "description": "Fae-touched occultists tied to the Abyss"
+      },
+      {
+        "id": "vampire-clan-lineage-samedi",
+        "title": "Samedi",
+        "description": "Rotting corpses walking among the living, masters of decay"
+      },
+      {
+        "id": "vampire-clan-lineage-true-brujah",
+        "title": "True Brujah",
+        "description": "Cold, emotionless philosophers obsessed with time"
+      },
+      {
+        "id": "vampire-clan-lineage-lamia",
+        "title": "Lamia",
+        "description": "Warrior women bound to protect Cappadocians"
+      },
+      {
+        "id": "vampire-clan-lineage-cappadocian",
+        "title": "Cappadocian",
+        "description": "Ancient clan of death, precursor to Giovanni"
+      },
+      {
+        "id": "vampire-clan-lineage-blood-brothers",
+        "title": "Blood Brothers",
+        "description": "Sabbat-created hive-mind vampires"
+      },
+
+      {
+        "id": "vampire-clan-lineage-abomination",
+        "title": "Abomination",
+        "description": "Vampire-Garou hybrids, cursed and unstable"
+      },
+      {
+        "id": "vampire-clan-lineage-azaneali",
+        "title": "Azaneali",
+        "description": "Dark angels, thaumaturgical bloodline that threads between lasombra and baali"
+      },
+      {
+        "id": "vampire-clan-lineage-einherjar",
+        "title": "Einherjar",
+        "description": "Mythic warrior bloodline who belive they are destined to fight in Ragnarok"
+      },
+      {
+        "id": "vampire-clan-lineage-noiad",
+        "title": "Noiad",
+        "description": "Shamanistic northern vampires, dream interpreters and spirit mediums"
+      },
+      {
+        "id": "vampire-clan-lineage-lhiannan",
+        "title": "Lhiannan",
+        "description": "Dark druids that can sap power from earth and nature, often associated with the tremere and gangrel clans"
+      },
+      {
+        "id": "vampire-clan-lineage-nictuku",
+        "title": "Nictuku",
+        "description": "Legendary hunters of the Nosferatu cursed by slow decay"
+      },
+      {
+        "id": "vampire-clan-lineage-aquarii",
+        "title": "Aquarii",
+        "description": "Waterdwelling gangrel vampires with aquatic traits"
+      },
+      {
+        "id": "vampire-clan-lineage-maeghar",
+        "title": "Maeghar",
+        "description": "As Kiasyd, but the Glamour is much stronger."
+      }
+    ]
+  },
+  {
+    "id": "vampire-discipline",
+    "title": "Signature Power",
+    "items": [
+      {
+        "id": "vampire-discipline-presence",
+        "title": "Presence",
+        "description": "Supernatural charisma and emotional influence"
+      },
+      {
+        "id": "vampire-discipline-protean",
+        "title": "Protean",
+        "description": "Shapeshifting and primal transformation"
+      },
+      {
+        "id": "vampire-discipline-potence",
+        "title": "Potence",
+        "description": "Supernatural strength and physical power"
+      },
+      {
+        "id": "vampire-discipline-auspex",
+        "title": "Auspex",
+        "description": "Heightened senses and extrasensory perception"
+      },
+      {
+        "id": "vampire-discipline-celerity",
+        "title": "Celerity",
+        "description": "Supernatural speed and reflexes"
+      },
+      {
+        "id": "vampire-discipline-dominate",
+        "title": "Dominate",
+        "description": "Direct control over minds and memories"
+      },
+      {
+        "id": "vampire-discipline-animalism",
+        "title": "Animalism",
+        "description": "Control over beasts and the Beast within"
+      },
+      {
+        "id": "vampire-discipline-obfuscate",
+        "title": "Obfuscate",
+        "description": "Stealth, invisibility, and perception distortion"
+      },
+      {
+        "id": "vampire-discipline-fortitude",
+        "title": "Fortitude",
+        "description": "Supernatural resilience and endurance"
+      },
+
+      {
+        "id": "vampire-discipline-obtenebration",
+        "title": "Obtenebration",
+        "description": "Control over supernatural darkness"
+      },
+      {
+        "id": "vampire-discipline-vicissitude",
+        "title": "Vicissitude",
+        "description": "Fleshcrafting and body horror transformation"
+      },
+      {
+        "id": "vampire-discipline-quietus",
+        "title": "Quietus",
+        "description": "Blood-based assassination powers and toxins"
+      },
+      {
+        "id": "vampire-discipline-serpentis",
+        "title": "Serpentis",
+        "description": "Snake-like transformations similar to protean, quietus and obfuscate and dominate."
+      },
+      {
+        "id": "vampire-discipline-dementation",
+        "title": "Dementation",
+        "description": "Madness, insight, and psychic derangement"
+      },
+      {
+        "id": "vampire-discipline-thaumaturgy",
+        "title": "Thaumaturgy",
+        "description": "Blood control and the siphoning power from vitae",
+        "triggers": [
+          {
+            "listDefs": "vampire-magic-thaumaturgy-path"
+          }
+        ]
+      },
+      {
+        "id": "vampire-discipline-vampire-magic-necromancy",
+        "title": "Necromancy",
+        "description": "Control over death, spirits, and the Underworld",
+        "triggers": [
+          {
+            "listDefs": "vampire-magic-necromancy-path"
+          }
+        ]
+      },
+      {
+        "id": "vampire-discipline-koldunic-sorcery",
+        "title": "Koldunic Sorcery",
+        "description": "Old blood magic thaught by a demon",
+        "triggers": [
+          {
+            "listDefs": "vampire-magic-koldunic-way"
+          }
+        ]
+      },
+      {
+        "id": "vampire-discipline-thin-blood-alchemy",
+        "title": "Thin-Blood Alchemy",
+        "description": "Specialized alchemical practices for thin-blooded vampires",
+        "triggers": [
+          {
+            "listDefs": "vampire-magic-thin-blood-alchemy"
+          }
+        ]
+      },
+
+      {
+        "id": "vampire-discipline-chimerstry",
+        "title": "Chimerstry",
+        "description": "Illusion crafting and reality distortion "
+      },
+      {
+        "id": "vampire-discipline-melpominee",
+        "title": "Melpominee",
+        "description": "Supernatural voice and sonic manipulation "
+      },
+      {
+        "id": "vampire-discipline-obeah",
+        "title": "Obeah",
+        "description": "Physical and spiritual healing and purification"
+      },
+      {
+        "id": "vampire-discipline-valeren",
+        "title": "Valeren",
+        "description": "Harness the healing secrets of soul and body to wound deep and strike true "
+      },
+      {
+        "id": "vampire-discipline-abombwe",
+        "title": "Abombwe",
+        "description": "Dark, predatory transformations, canalizing the Beast "
+      },
+      {
+        "id": "vampire-discipline-ahrimanes",
+        "title": "Spiritus",
+        "description": "Spiritual connection and animal control"
+      },
+      {
+        "id": "vampire-discipline-mytherceria",
+        "title": "Mytherceria",
+        "description": "Fae-related magic and trickery"
+      },
+      {
+        "id": "vampire-discipline-temporis",
+        "title": "Temporis",
+        "description": "Manipulation of time and temporal perception."
+      },
+      {
+        "id": "vampire-discipline-sanguinus",
+        "title": "Sanguinus",
+        "description": "Shared fleshcrafting among Blood Brothers"
+      },
+      {
+        "id": "vampire-discipline-thanatosis",
+        "title": "Thanatosis",
+        "description": "Decay, rot, and corpse-like transformation"
+      },
+      {
+        "id": "vampire-discipline-oblivion",
+        "title": "Oblivion",
+        "description": "Shadow and death powers merging Obtenebration and vampire-magic-necromancy"
+      },
+      {
+        "id": "vampire-discipline-Visceratika",
+        "title": "Visceratika",
+        "description": "Turn the body into a stone fortress, flow through stone, and to know all about and protect a place"
+      },
+      {
+        "id": "vampire-discipline-daimonion",
+        "title": "Daimonion",
+        "description": "Fire, fear, sin, plague and corruption of the profane"
+      },
+
+      {
+        "id": "vampire-discipline-bardo",
+        "title": "Bardo",
+        "description": "Restoring humanity, natural order, negating supernatural powers and even healing the corruption and sin from beyond one usually would concieve"
+      }
+    ]
+  },
+  {
+    "id": "vampire-magic-thin-blood-alchemy",
+    "title": "Thin-Blood Alchemy Formula",
+    "items": [
+      {
+        "id": "vampire-magic-tba-athletic-enhancement",
+        "title": "Athletic Enhancement",
+        "description": "Temporarily boosts physical ability and coordination"
+      },
+      {
+        "id": "vampire-magic-tba-sense-the-unseen",
+        "title": "Sense the Unseen",
+        "description": "Grants perception of hidden or supernatural entities"
+      },
+      {
+        "id": "vampire-magic-tba-emotional-influence",
+        "title": "Emotional Influence",
+        "description": "Enhances ability to sway emotions and social interactions"
+      },
+      {
+        "id": "vampire-magic-tba-mental-command",
+        "title": "Mental Command",
+        "description": "Allows limited control over another person's actions"
+      },
+      {
+        "id": "vampire-magic-tba-shadow-cloak",
+        "title": "Shadow Cloak",
+        "description": "Grants temporary concealment and stealth"
+      },
+      {
+        "id": "vampire-magic-tba-rapid-reflexes",
+        "title": "Rapid Reflexes",
+        "description": "Boosts speed and reaction time"
+      },
+      {
+        "id": "vampire-magic-tba-resilient-body",
+        "title": "Resilient Body",
+        "description": "Increases durability and resistance to harm"
+      },
+      {
+        "id": "vampire-magic-tba-beast-communication",
+        "title": "Beast Communication",
+        "description": "Allows communication with and influence over animals"
+      },
+
+      {
+        "id": "vampire-magic-tba-blood-strength",
+        "title": "Blood Strength",
+        "description": "Enhances the potency and effectiveness of vitae"
+      },
+      {
+        "id": "vampire-magic-tba-daylight-adaptation",
+        "title": "Daylight Adaptation",
+        "description": "Reduces or mitigates the harmful effects of sunlight"
+      },
+      {
+        "id": "vampire-magic-tba-feeding-efficiency",
+        "title": "Efficient Feeding",
+        "description": "Improves nourishment gained from blood"
+      },
+
+      {
+        "id": "vampire-magic-tba-toxic-blood",
+        "title": "Toxic Blood",
+        "description": "Turns vitae into a harmful substance to others"
+      },
+      {
+        "id": "vampire-magic-tba-corrosive-touch",
+        "title": "Corrosive Touch",
+        "description": "Inflicts damage through direct contact"
+      },
+      {
+        "id": "vampire-magic-tba-decay-induction",
+        "title": "Induce Decay",
+        "description": "Accelerates rot and deterioration in organic matter"
+      },
+
+      {
+        "id": "vampire-magic-tba-blood-weapon",
+        "title": "Blood Weapon",
+        "description": "Shapes vitae into simple weapons or tools"
+      },
+      {
+        "id": "vampire-magic-tba-animated-servant",
+        "title": "Animated Servant",
+        "description": "Creates a temporary animated corpse or construct"
+      },
+
+      {
+        "id": "vampire-magic-tba-memory-alteration",
+        "title": "Memory Alteration",
+        "description": "Modifies or erases recent memories"
+      },
+      {
+        "id": "vampire-magic-tba-dream-influence",
+        "title": "Dream Influence",
+        "description": "Enters and alters dreams of a target"
+      },
+
+      {
+        "id": "vampire-magic-tba-blood-tracking",
+        "title": "Blood Tracking",
+        "description": "Tracks individuals through their blood connection"
+      },
+      {
+        "id": "vampire-magic-tba-identity-mimicry",
+        "title": "Identity Mimicry",
+        "description": "Temporarily imitates another person's traits or appearance"
+      }
+    ]
+  },
+  {
+    "id": "vampire-magic-necromancy-path",
+    "title": "Necromancy Path",
+    "items": [
+      {
+        "id": "vampire-magic-necromancy-sepulchre",
+        "title": "Sepulchre Path",
+        "description": "Communication, summoning, and control of ghosts"
+      },
+      {
+        "id": "vampire-magic-necromancy-bone",
+        "title": "Bone Path",
+        "description": "Manipulation of corpses and physical remains"
+      },
+      {
+        "id": "vampire-magic-necromancy-ash",
+        "title": "Ash Path",
+        "description": "Interaction with the Underworld and its energies"
+      },
+
+      {
+        "id": "vampire-magic-necromancy-cenotaph",
+        "title": "Cenotaph Path",
+        "description": "Tracking, binding, and locating specific wraiths"
+      },
+      {
+        "id": "vampire-magic-necromancy-grave-dirt",
+        "title": "Path of Grave Dirt",
+        "description": "Using soil, graves, and burial sites as magical conduits"
+      },
+      {
+        "id": "vampire-magic-necromancy-tomb",
+        "title": "Path of the Tomb",
+        "description": "Manipulation of tombs, burial spaces, and deathly sanctuaries"
+      },
+
+      {
+        "id": "vampire-magic-necromancy-nihilistics",
+        "title": "Nihilistics",
+        "description": "Control over entropy, void, and destructive underworld forces"
+      },
+
+      {
+        "id": "vampire-magic-necromancy-morbid-animation",
+        "title": "Morbid Animation",
+        "description": "Animating corpses and creating undead servitors"
+      },
+
+      {
+        "id": "vampire-magic-necromancy-black-blood",
+        "title": "Path of Black Blood",
+        "description": "Corrupting vitae with deathly and necrotic properties"
+      },
+
+      {
+        "id": "vampire-magic-necromancy-four-humors",
+        "title": "Path of the Four Humors",
+        "description": "Manipulation of bodily fluids tied to life and death balance"
+      },
+
+      {
+        "id": "vampire-magic-necromancy-twilight-garden",
+        "title": "Path of the Twilight Garden",
+        "description": "Creation of death-aspected spiritual landscapes"
+      },
+
+      {
+        "id": "vampire-magic-necromancy-mortuus",
+        "title": "Mortuus Path",
+        "description": "Control over decay, rot, and the transition into death"
+      }
+    ]
+  },
+  {
+    "id": "vampire-magic-koldunic-way",
+    "title": "Koldunic Way",
+    "items": [
+      {
+        "id": "vampire-magic-koldunic-way-earth",
+        "title": "Way of Earth",
+        "description": "Control over soil, stone, and the land itself"
+      },
+      {
+        "id": "vampire-magic-koldunic-way-water",
+        "title": "Way of Water",
+        "description": "Manipulation of sea, rivers, lakes, and fluid motion"
+      },
+      {
+        "id": "vampire-magic-koldunic-way-fire",
+        "title": "Way of Fire",
+        "description": "Summoning and shaping flame and heat and conflagation"
+      },
+      {
+        "id": "vampire-magic-koldunic-way-air",
+        "title": "Way of Air",
+        "description": "Command over winds, storms, and the sky"
+      },
+
+      {
+        "id": "vampire-magic-koldunic-way-spirit",
+        "title": "Way of Spirit",
+        "description": "Interaction with spirits and the unseen world"
+      },
+      {
+        "id": "vampire-magic-koldunic-way-sorrow",
+        "title": "Way of Sorrow",
+        "description": "Spoil love, will, hope and warmth itself with the cold of true and soul"
+      },
+
+      {
+        "id": "vampire-magic-koldunic-way-ruler",
+        "title": "Way of Ruler",
+        "description": "Command and impose your territory, be its inhabitants or terrain, above or below"
+      },
+      {
+        "id": "vampire-magic-koldunic-way-torns",
+        "title": "Way of Torns",
+        "description": "Command plant and bone to control your domain"
+      },
+      {
+        "id": "vampire-magic-koldunic-way-well",
+        "title": "Way of the Well",
+        "description": "Breach into the abyss and call allys and demonic powers"
+      },
+      {
+        "id": "vampire-magic-koldunic-way-black-sea",
+        "title": "Way of the Sea",
+        "description": "Corrupt the waters and its inhabitants and have it as an ally"
+      }
+    ]
+  },
+  {
+    "id": "vampire-magic-thaumaturgy-path",
+    "title": "Thaumaturgy Path",
+    "items": [
+      {
+        "id": "vampire-magic-thaumaturgy-blood",
+        "title": "Path of Blood",
+        "description": "Manipulation and control of vitae; core Tremere path"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-conjuring",
+        "title": "Path of Conjuring",
+        "description": "Creation of objects from nothing"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-corruption",
+        "title": "Path of Corruption",
+        "description": "Twisting minds and personalities toward degeneration"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-curses",
+        "title": "Path of Curses",
+        "description": "Inflicting supernatural misfortune and afflictions"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-fathers-vengeance",
+        "title": "Path of the Father's Vengeance",
+        "description": "Amplifies the vampiric curse to punish others"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-bloods-curse",
+        "title": "Path of the Blood's Curse",
+        "description": "Manipulates vampiric weaknesses and frenzy"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-elemental-mastery",
+        "title": "Elemental Mastery",
+        "description": "Control over inanimate objects and elements"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-lure-of-flames",
+        "title": "Lure of Flames",
+        "description": "Creation and control of supernatural fire"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-neptunes-might",
+        "title": "Neptune's Might",
+        "description": "Manipulation of water"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-weather-control",
+        "title": "Weather Control",
+        "description": "Control over atmospheric conditions"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-movement-of-mind",
+        "title": "Movement of the Mind",
+        "description": "Telekinesis and remote manipulation"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-focused-mind",
+        "title": "Focused Mind",
+        "description": "Enhanced concentration and mental action"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-green",
+        "title": "Green Path",
+        "description": "Control and communication with plant life"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-biothaumaturgy",
+        "title": "Biothaumaturgy",
+        "description": "Biological manipulation and experimentation"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-mastery-mortal-shell",
+        "title": "Mastery of the Mortal Shell",
+        "description": "Control and disruption of living bodies"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-spirit-manipulation",
+        "title": "Spirit Manipulation",
+        "description": "Interaction and control of spirits"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-spirit-thaumaturgy",
+        "title": "Spirit Thaumaturgy",
+        "description": "Necromantic-style spirit interaction"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-oneiromancy",
+        "title": "Oneiromancy",
+        "description": "Dream manipulation and prophetic visions"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-werewolf-gift-of-morpheus",
+        "title": "Gift of Morpheus",
+        "description": "Control over sleep and dreams"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-technomancy",
+        "title": "Path of Technomancy",
+        "description": "Control and manipulation of technology"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-shadowcrafting",
+        "title": "Path of Shadowcrafting",
+        "description": "Limited manipulation of shadows"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-warding",
+        "title": "Path of Warding",
+        "description": "Creation of magical defenses and traps"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-transmutation",
+        "title": "Path of Transmutation",
+        "description": "Altering the properties of matter"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-alchemy",
+        "title": "Alchemy",
+        "description": "Transformation of materials into other substances"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-levinbolt",
+        "title": "Path of the Levinbolt",
+        "description": "Generation of lightning and electricity"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-mars",
+        "title": "Path of Mars",
+        "description": "Enhancement of combat ability"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-mercury",
+        "title": "Path of Mercury",
+        "description": "Teleportation and rapid movement"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-hands-destruction",
+        "title": "Hands of Destruction",
+        "description": "Decay and disintegration through touch"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-power-mirror",
+        "title": "Power of the Mirror",
+        "description": "Manipulation of reflections and mirrors"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-hearth",
+        "title": "Hearth Path",
+        "description": "Protection and control over one's haven"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-prey-fear",
+        "title": "Prey on the Soul's Fear",
+        "description": "Inducing supernatural terror"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-soul-serpent",
+        "title": "Soul of the Serpent",
+        "description": "Serpentine transformation and perception"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-cammano",
+        "title": "Path of Cammano-deuonertos",
+        "description": "Druidic power drawing from ancient gods"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-perdo-magica",
+        "title": "Perdo Magica",
+        "description": "Counter-magic and dispelling"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-rego-magica",
+        "title": "Rego Magica",
+        "description": "Creation of new thaumaturgical effects"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-rego-mentem",
+        "title": "Rego Mentem",
+        "description": "Mental and spiritual command (archaic form)"
+      },
+
+      {
+        "id": "vampire-magic-thaumaturgy-transitus",
+        "title": "Transitus Velociter",
+        "description": "Enhancing travel speed over long distances"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-video-pellis",
+        "title": "Video Pellis",
+        "description": "Divination and mystical perception"
+      },
+      {
+        "id": "vampire-magic-thaumaturgy-vine-dionysus",
+        "title": "Vine of Dionysus",
+        "description": "Inducing altered physical and emotional states"
+      }
+    ]
+  }
+]
