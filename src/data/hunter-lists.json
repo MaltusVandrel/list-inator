@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hunter-creed",
+    "title": "Creed",
+    "items": [
+      {
+        "id": "creed-avenger",
+        "title": "Avenger",
+        "description": "Driven by the Virtue of Zeal, Avengers see the supernatural as an enemy to be destroyed. Their Edges enhance combat, allowing them to strike harder, track targets relentlessly, and inflict aggravated harm against monsters."
+      },
+      {
+        "id": "creed-defender",
+        "title": "Defender",
+        "description": "Guided by the Virtue of Charity, Defenders focus on protecting others. Their abilities create barriers, absorb damage, and prevent supernatural forces from reaching those under their protection."
+      },
+      {
+        "id": "creed-judge",
+        "title": "Judge",
+        "description": "Ruled by the Virtue of Justice, Judges seek truth and accountability. Their Edges reveal guilt, enforce supernatural 'sentences', and bind targets through mystical constraints resembling contracts or imposed consequences."
+      },
+      {
+        "id": "creed-martyr",
+        "title": "Martyr",
+        "description": "Driven by the Virtue of Faith, Martyrs endure suffering for others. Their powers allow them to take on wounds, convert pain into strength or healing, and reflect harm back onto aggressors."
+      },
+      {
+        "id": "creed-redeemer",
+        "title": "Redeemer",
+        "description": "Guided by the Virtue of Mercy, Redeemers believe monsters can be saved. Their Edges calm aggression, suppress violent urges, and weaken supernatural corruption, making targets easier to restrain or rehabilitate."
+      },
+      {
+        "id": "creed-innocent",
+        "title": "Innocent",
+        "description": "Defined by the Virtue of Mercy, Innocents rely on instinct and intuition. Their Edges manifest through light subtle miracles: improbable luck, passive protection, and the ability to unconsciously deny or disrupt supernatural effects directed at themselves or others."
+      },
+      {
+        "id": "creed-visionary",
+        "title": "Visionary",
+        "description": "Driven by the Virtue of Vision, Visionaries seek understanding of the supernatural. Their abilities grant visions of the future or past, reveal hidden entities, and expose illusions or concealed truths."
+      },
+      {
+        "id": "creed-hermit",
+        "title": "Hermit",
+        "description": "Also guided by the Virtue of Vision, Hermits turn inward to perceive truth. Their Edges heighten awareness, allow them to sense unseen presences, isolate supernatural influences, and resist mental or spiritual intrusion."
+      },
+      {
+        "id": "creed-wayward",
+        "title": "Wayward",
+        "description": "Guided by the Virtue of Courage, Waywards embrace chaos and unpredictability. Their powers manipulate chance, cause confusion, enable improbable escapes, and twist situations in their favor at critical moments."
+      }
+    ]
+  }
+]

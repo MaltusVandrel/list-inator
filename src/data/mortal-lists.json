@@ -1,0 +1,242 @@
+[
+  {
+    "id": "mortal-edge",
+    "title": "Supernatural Affinity",
+    "items": [
+      {
+        "id": "edge-null",
+        "title": "Null",
+        "description": "Supernaturally inert; resistant or invisible to mystical effects"
+      },
+      {
+        "id": "edge-fight-avatar",
+        "title": "Fight Avatar",
+        "description": "Has an stand, a fighting spirit, or a supernatural guardian that can manifest to fight with them"
+      },
+      {
+        "id": "edge-sweet-blood",
+        "title": "Sweet Blood",
+        "description": "Exceptionally appealing to vampires; vitae interaction is stronger or more addictive"
+      },
+      {
+        "id": "edge-lucky",
+        "title": "Lucky",
+        "description": "Unnaturally fortunate; coincidences tend to favor survival"
+      },
+      {
+        "id": "edge-strong-faith",
+        "title": "True Faith",
+        "description": "Possesses genuine faith capable of repelling or harming supernatural entities"
+      },
+
+      {
+        "id": "edge-psychic",
+        "title": "Psychic",
+        "description": "Displays innate extrasensory or mental abilities",
+        "triggers": [
+          {
+            "listDefs": "psi-power"
+          }
+        ]
+      },
+      {
+        "id": "edge-sorcerer",
+        "title": "Sorcerer",
+        "description": "Practices structured hedge magic or rituals",
+        "triggers": [
+          {
+            "listDefs": "vampire-magic-koldunic-way"
+          },
+          {
+            "listDefs": "vampire-magic-necromancy-path"
+          },
+          {
+            "listDefs": "vampire-magic-thin-blood-alchemy"
+          },
+          {
+            "listDefs": "vampire-magic-thaumaturgy-path"
+          }
+        ]
+      },
+
+      {
+        "id": "edge-wild-attuned",
+        "title": "Wild Attuned",
+        "description": "Naturally aligned with beasts and primal instincts",
+        "triggers": [
+          {
+            "listDefs": "werewolf-gift"
+          }
+        ]
+      },
+      {
+        "id": "edge-spirit-attuned",
+        "title": "Spirit Attuned",
+        "description": "Sensitive to spirits and the unseen world"
+      },
+      {
+        "id": "edge-wyrd-attuned",
+        "title": "Wyrd Attuned",
+        "description": "Connected to fate, destiny, or strange coincidences",
+        "triggers": [
+          {
+            "listDefs": "werewolf-gift-wyrm-gift"
+          }
+        ]
+      },
+      {
+        "id": "edge-fae-attuned",
+        "title": "Fae Attuned",
+        "description": "Sensitive to fae presence, glamour, and illusion"
+      },
+
+      {
+        "id": "edge-occult-initiate",
+        "title": "Occult Initiate",
+        "description": "Basic knowledge of supernatural lore and minor practices"
+      },
+      {
+        "id": "edge-medium",
+        "title": "Medium",
+        "description": "Can perceive or communicate with ghosts"
+      },
+      {
+        "id": "edge-dreamer",
+        "title": "Dreamer",
+        "description": "Experiences vivid or prophetic dreams tied to the supernatural"
+      },
+      {
+        "id": "edge-hunter-touched",
+        "title": "Hunter",
+        "description": "Instinctively aware of supernatural threats and driven to oppose them",
+        "triggers": [
+          {
+            "listDefs": "hunter-creed"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mortal-type",
+    "title": "Person Type",
+    "items": [
+      {
+        "id": "type-regular",
+        "title": "Regular",
+        "description": "Average individual with no standout traits"
+      },
+      {
+        "id": "type-normie",
+        "title": "Conformist",
+        "description": "Follows social norms, avoids risk and conflict"
+      },
+      {
+        "id": "type-charismatic",
+        "title": "Charismatic",
+        "description": "Naturally influential and socially magnetic"
+      },
+      {
+        "id": "type-strong-willed",
+        "title": "Strong-Willed",
+        "description": "Mentally resilient, difficult to influence or break"
+      },
+
+      {
+        "id": "type-specialist",
+        "title": "Specialist",
+        "description": "Highly skilled in a specific field or expertise"
+      },
+      {
+        "id": "type-hobbyist",
+        "title": "Hobbyist",
+        "description": "Driven by personal interests rather than necessity"
+      },
+      {
+        "id": "type-intellectual",
+        "title": "Intellectual",
+        "description": "Analytical, knowledge-driven, and thoughtful"
+      },
+      {
+        "id": "type-operator",
+        "title": "Operator",
+        "description": "Practical, efficient, and focused on getting things done"
+      },
+
+      {
+        "id": "type-criminal",
+        "title": "Criminal",
+        "description": "Engaged in illegal activities as a lifestyle"
+      },
+      {
+        "id": "type-gangster",
+        "title": "Gang Member",
+        "description": "Part of an organized street-level criminal group"
+      },
+      {
+        "id": "type-gang-leader",
+        "title": "Gang Leader",
+        "description": "Commands a criminal group with authority and fear"
+      },
+      {
+        "id": "type-fixer",
+        "title": "Fixer",
+        "description": "Connects people, deals, and resources in the shadows"
+      },
+
+      {
+        "id": "type-politician",
+        "title": "Politician",
+        "description": "Operates through influence, negotiation, and public image"
+      },
+      {
+        "id": "type-ideologue",
+        "title": "Ideologue",
+        "description": "Driven by strong beliefs or extremist views"
+      },
+
+      {
+        "id": "type-lunatic",
+        "title": "Unstable",
+        "description": "Erratic, unpredictable, or mentally unbalanced"
+      },
+      {
+        "id": "type-zealot",
+        "title": "Zealot",
+        "description": "Fanatically devoted to a cause or belief"
+      },
+
+      {
+        "id": "type-alpha",
+        "title": "Dominant",
+        "description": "Naturally assertive, takes control in social situations"
+      },
+      {
+        "id": "type-beta",
+        "title": "Submissive",
+        "description": "Avoids leadership, tends to follow stronger personalities"
+      },
+
+      {
+        "id": "type-survivor",
+        "title": "Survivor",
+        "description": "Adaptable and hardened by adversity"
+      },
+      {
+        "id": "type-opportunist",
+        "title": "Opportunist",
+        "description": "Exploits situations for personal gain"
+      },
+      {
+        "id": "type-manipulator",
+        "title": "Manipulator",
+        "description": "Controls others through subtle influence and deceit"
+      },
+      {
+        "id": "type-enforcer",
+        "title": "Enforcer",
+        "description": "Relies on intimidation or violence to achieve goals"
+      }
+    ]
+  }
+]

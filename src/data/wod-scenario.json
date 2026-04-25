@@ -3,493 +3,6 @@
   "title": "Vampire: The Masquerade",
   "lists": [
     {
-      "id": "mortal-type",
-      "title": "Person Type",
-      "items": [
-        {
-          "id": "type-regular",
-          "title": "Regular",
-          "description": "Average individual with no standout traits"
-        },
-        {
-          "id": "type-normie",
-          "title": "Conformist",
-          "description": "Follows social norms, avoids risk and conflict"
-        },
-        {
-          "id": "type-charismatic",
-          "title": "Charismatic",
-          "description": "Naturally influential and socially magnetic"
-        },
-        {
-          "id": "type-strong-willed",
-          "title": "Strong-Willed",
-          "description": "Mentally resilient, difficult to influence or break"
-        },
-
-        {
-          "id": "type-specialist",
-          "title": "Specialist",
-          "description": "Highly skilled in a specific field or expertise"
-        },
-        {
-          "id": "type-hobbyist",
-          "title": "Hobbyist",
-          "description": "Driven by personal interests rather than necessity"
-        },
-        {
-          "id": "type-intellectual",
-          "title": "Intellectual",
-          "description": "Analytical, knowledge-driven, and thoughtful"
-        },
-        {
-          "id": "type-operator",
-          "title": "Operator",
-          "description": "Practical, efficient, and focused on getting things done"
-        },
-
-        {
-          "id": "type-criminal",
-          "title": "Criminal",
-          "description": "Engaged in illegal activities as a lifestyle"
-        },
-        {
-          "id": "type-gangster",
-          "title": "Gang Member",
-          "description": "Part of an organized street-level criminal group"
-        },
-        {
-          "id": "type-gang-leader",
-          "title": "Gang Leader",
-          "description": "Commands a criminal group with authority and fear"
-        },
-        {
-          "id": "type-fixer",
-          "title": "Fixer",
-          "description": "Connects people, deals, and resources in the shadows"
-        },
-
-        {
-          "id": "type-politician",
-          "title": "Politician",
-          "description": "Operates through influence, negotiation, and public image"
-        },
-        {
-          "id": "type-ideologue",
-          "title": "Ideologue",
-          "description": "Driven by strong beliefs or extremist views"
-        },
-
-        {
-          "id": "type-lunatic",
-          "title": "Unstable",
-          "description": "Erratic, unpredictable, or mentally unbalanced"
-        },
-        {
-          "id": "type-zealot",
-          "title": "Zealot",
-          "description": "Fanatically devoted to a cause or belief"
-        },
-
-        {
-          "id": "type-alpha",
-          "title": "Dominant",
-          "description": "Naturally assertive, takes control in social situations"
-        },
-        {
-          "id": "type-beta",
-          "title": "Submissive",
-          "description": "Avoids leadership, tends to follow stronger personalities"
-        },
-
-        {
-          "id": "type-survivor",
-          "title": "Survivor",
-          "description": "Adaptable and hardened by adversity"
-        },
-        {
-          "id": "type-opportunist",
-          "title": "Opportunist",
-          "description": "Exploits situations for personal gain"
-        },
-        {
-          "id": "type-manipulator",
-          "title": "Manipulator",
-          "description": "Controls others through subtle influence and deceit"
-        },
-        {
-          "id": "type-enforcer",
-          "title": "Enforcer",
-          "description": "Relies on intimidation or violence to achieve goals"
-        }
-      ]
-    },
-    {
-      "id": "psionic-power",
-      "title": "Psionic Power",
-      "items": [
-        {
-          "id": "psi-mind-reading",
-          "title": "Mind Reading",
-          "description": "Read surface thoughts of others"
-        },
-        {
-          "id": "psi-deep-probe",
-          "title": "Deep Memory Probe",
-          "description": "Access hidden or long-term memories"
-        },
-        {
-          "id": "psi-mind-link",
-          "title": "Mind Link",
-          "description": "Establish two-way telepathic communication"
-        },
-        {
-          "id": "psi-mental-command",
-          "title": "Mental Command",
-          "description": "Implant simple commands into a target"
-        },
-        {
-          "id": "psi-memory-edit",
-          "title": "Memory Alteration",
-          "description": "Modify or erase memories"
-        },
-        {
-          "id": "psi-mental-shield",
-          "title": "Mental Shield",
-          "description": "Protect against telepathic intrusion"
-        },
-
-        {
-          "id": "psi-telekinesis",
-          "title": "Telekinesis",
-          "description": "Move objects with the mind"
-        },
-        {
-          "id": "psi-precision-control",
-          "title": "Fine Manipulation",
-          "description": "Perform delicate tasks telekinetically"
-        },
-        {
-          "id": "psi-force-push",
-          "title": "Force Push",
-          "description": "Project kinetic force outward"
-        },
-        {
-          "id": "psi-flight",
-          "title": "Levitation",
-          "description": "Lift oneself into the air"
-        },
-        {
-          "id": "psi-barrier",
-          "title": "Kinetic Barrier",
-          "description": "Create a protective force field"
-        },
-
-        {
-          "id": "psi-clairvoyance",
-          "title": "Clairvoyance",
-          "description": "See distant locations"
-        },
-        {
-          "id": "psi-precognition",
-          "title": "Precognition",
-          "description": "Glimpse possible future events"
-        },
-        {
-          "id": "psi-retrocognition",
-          "title": "Retrocognition",
-          "description": "Perceive past events"
-        },
-        {
-          "id": "psi-aura-reading",
-          "title": "Aura Reading",
-          "description": "Perceive emotions or supernatural states"
-        },
-
-        {
-          "id": "psi-psychometry",
-          "title": "Psychometry",
-          "description": "Read history from objects"
-        },
-        {
-          "id": "psi-imprint-sense",
-          "title": "Emotional Imprint Sense",
-          "description": "Detect lingering emotions in places"
-        },
-
-        {
-          "id": "psi-pyrokinesis",
-          "title": "Pyrokinesis",
-          "description": "Create and control fire"
-        },
-        {
-          "id": "psi-cryokinesis",
-          "title": "Cryokinesis",
-          "description": "Manipulate cold and ice"
-        },
-        {
-          "id": "psi-electrokinesis",
-          "title": "Electrokinesis",
-          "description": "Control electricity"
-        },
-
-        {
-          "id": "psi-healing",
-          "title": "Psychic Healing",
-          "description": "Accelerate healing of self or others"
-        },
-        {
-          "id": "psi-pain-inflict",
-          "title": "Pain Induction",
-          "description": "Cause intense pain mentally"
-        },
-        {
-          "id": "psi-enhance-body",
-          "title": "Physical Enhancement",
-          "description": "Boost strength, speed, or endurance"
-        },
-        {
-          "id": "psi-paralysis",
-          "title": "Paralysis",
-          "description": "Immobilize a target’s body"
-        },
-
-        {
-          "id": "psi-illusion",
-          "title": "Illusion Projection",
-          "description": "Create sensory illusions"
-        },
-        {
-          "id": "psi-invisibility",
-          "title": "Perceptual Cloak",
-          "description": "Avoid being noticed or perceived"
-        },
-        {
-          "id": "psi-hallucination",
-          "title": "Hallucination",
-          "description": "Force a target to perceive false realities"
-        },
-
-        {
-          "id": "psi-teleport",
-          "title": "Teleportation",
-          "description": "Instantly move between locations"
-        },
-        {
-          "id": "psi-phase",
-          "title": "Phasing",
-          "description": "Pass through solid matter"
-        },
-        {
-          "id": "psi-warp",
-          "title": "Spatial Distortion",
-          "description": "Bend space locally"
-        },
-
-        {
-          "id": "psi-time-slow",
-          "title": "Time Dilation",
-          "description": "Slow perception of time"
-        },
-        {
-          "id": "psi-time-stop",
-          "title": "Time Stop",
-          "description": "Temporarily halt time in a limited area"
-        },
-
-        {
-          "id": "psi-astral-projection",
-          "title": "Astral Projection",
-          "description": "Separate consciousness from the body"
-        },
-        {
-          "id": "psi-possession",
-          "title": "Possession",
-          "description": "Take control of another body"
-        },
-        {
-          "id": "psi-psi-drain",
-          "title": "Psychic Drain",
-          "description": "Absorb mental energy from others"
-        },
-        {
-          "id": "psi-null-field",
-          "title": "Null Field",
-          "description": "Suppress psychic or supernatural powers"
-        },
-        {
-          "id": "psi-reality-bend",
-          "title": "Reality Bending",
-          "description": "Warp reality through sheer mental force"
-        }
-      ]
-    },
-    {
-      "id": "hunter-creed",
-      "title": "Creed",
-      "items": [
-        {
-          "id": "creed-avenger",
-          "title": "Avenger",
-          "description": "Driven by the Virtue of Zeal, Avengers see the supernatural as an enemy to be destroyed. Their Edges enhance combat, allowing them to strike harder, track targets relentlessly, and inflict aggravated harm against monsters."
-        },
-        {
-          "id": "creed-defender",
-          "title": "Defender",
-          "description": "Guided by the Virtue of Charity, Defenders focus on protecting others. Their abilities create barriers, absorb damage, and prevent supernatural forces from reaching those under their protection."
-        },
-        {
-          "id": "creed-judge",
-          "title": "Judge",
-          "description": "Ruled by the Virtue of Justice, Judges seek truth and accountability. Their Edges reveal guilt, enforce supernatural 'sentences', and bind targets through mystical constraints resembling contracts or imposed consequences."
-        },
-        {
-          "id": "creed-martyr",
-          "title": "Martyr",
-          "description": "Driven by the Virtue of Faith, Martyrs endure suffering for others. Their powers allow them to take on wounds, convert pain into strength or healing, and reflect harm back onto aggressors."
-        },
-        {
-          "id": "creed-redeemer",
-          "title": "Redeemer",
-          "description": "Guided by the Virtue of Mercy, Redeemers believe monsters can be saved. Their Edges calm aggression, suppress violent urges, and weaken supernatural corruption, making targets easier to restrain or rehabilitate."
-        },
-        {
-          "id": "creed-innocent",
-          "title": "Innocent",
-          "description": "Defined by the Virtue of Mercy, Innocents rely on instinct and intuition. Their Edges manifest through light subtle miracles: improbable luck, passive protection, and the ability to unconsciously deny or disrupt supernatural effects directed at themselves or others."
-        },
-        {
-          "id": "creed-visionary",
-          "title": "Visionary",
-          "description": "Driven by the Virtue of Vision, Visionaries seek understanding of the supernatural. Their abilities grant visions of the future or past, reveal hidden entities, and expose illusions or concealed truths."
-        },
-        {
-          "id": "creed-hermit",
-          "title": "Hermit",
-          "description": "Also guided by the Virtue of Vision, Hermits turn inward to perceive truth. Their Edges heighten awareness, allow them to sense unseen presences, isolate supernatural influences, and resist mental or spiritual intrusion."
-        },
-        {
-          "id": "creed-wayward",
-          "title": "Wayward",
-          "description": "Guided by the Virtue of Courage, Waywards embrace chaos and unpredictability. Their powers manipulate chance, cause confusion, enable improbable escapes, and twist situations in their favor at critical moments."
-        }
-      ]
-    },
-    {
-      "id": "mortal-edge",
-      "title": "Supernatural Affinity",
-      "items": [
-        {
-          "id": "edge-null",
-          "title": "Null",
-          "description": "Supernaturally inert; resistant or invisible to mystical effects"
-        },
-
-        {
-          "id": "edge-sweet-blood",
-          "title": "Sweet Blood",
-          "description": "Exceptionally appealing to vampires; vitae interaction is stronger or more addictive"
-        },
-        {
-          "id": "edge-lucky",
-          "title": "Lucky",
-          "description": "Unnaturally fortunate; coincidences tend to favor survival"
-        },
-        {
-          "id": "edge-strong-faith",
-          "title": "True Faith",
-          "description": "Possesses genuine faith capable of repelling or harming supernatural entities"
-        },
-
-        {
-          "id": "edge-psychic",
-          "title": "Psychic",
-          "description": "Displays innate extrasensory or mental abilities",
-          "triggers": [
-            {
-              "listDefs": "psi-power"
-            }
-          ]
-        },
-        {
-          "id": "edge-sorcerer",
-          "title": "Sorcerer",
-          "description": "Practices structured hedge magic or rituals",
-          "triggers": [
-            {
-              "listDefs": "vampire-magic-koldunic-way"
-            },
-            {
-              "listDefs": "vampire-magic-necromancy-path"
-            },
-            {
-              "listDefs": "vampire-magic-thin-blood-alchemy"
-            },
-            {
-              "listDefs": "vampire-magic-thaumaturgy-path"
-            }
-          ]
-        },
-
-        {
-          "id": "edge-wild-attuned",
-          "title": "Wild Attuned",
-          "description": "Naturally aligned with beasts and primal instincts",
-          "triggers": [
-            {
-              "listDefs": "werewolf-gift"
-            }
-          ]
-        },
-        {
-          "id": "edge-spirit-attuned",
-          "title": "Spirit Attuned",
-          "description": "Sensitive to spirits and the unseen world"
-        },
-        {
-          "id": "edge-wyrd-attuned",
-          "title": "Wyrd Attuned",
-          "description": "Connected to fate, destiny, or strange coincidences",
-          "triggers": [
-            {
-              "listDefs": "werewolf-gift-wyrm-gift"
-            }
-          ]
-        },
-        {
-          "id": "edge-fae-attuned",
-          "title": "Fae Attuned",
-          "description": "Sensitive to fae presence, glamour, and illusion"
-        },
-
-        {
-          "id": "edge-occult-initiate",
-          "title": "Occult Initiate",
-          "description": "Basic knowledge of supernatural lore and minor practices"
-        },
-        {
-          "id": "edge-medium",
-          "title": "Medium",
-          "description": "Can perceive or communicate with ghosts"
-        },
-        {
-          "id": "edge-dreamer",
-          "title": "Dreamer",
-          "description": "Experiences vivid or prophetic dreams tied to the supernatural"
-        },
-        {
-          "id": "edge-hunter-touched",
-          "title": "Hunter",
-          "description": "Instinctively aware of supernatural threats and driven to oppose them",
-          "triggers": [
-            {
-              "listDefs": "hunter-creed"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "entity",
       "title": "Entity Type",
       "items": [
@@ -582,19 +95,115 @@
             },
             {
               "listDefs": "werewolf-gift"
-            },
-            {
-              "listDefs": "wod-advantage"
-            },
-            {
-              "listDefs": "wod-flaw"
             }
           ]
         },
         {
-          "id": "entity-creature",
-          "title": "Creature of the Night",
-          "description": "Something stranger and older"
+          "id": "Wraith",
+          "title": "Wraith",
+          "description": "A spirit of the dead, bound to the underworld by unfinished business or strong emotions",
+          "triggers": [
+            {
+              "listDefs": "wraith-deathmark"
+            },
+            {
+              "listDefs": "wraith-passion"
+            },
+            {
+              "listDefs": "wraith-fetter"
+            },
+            {
+              "listDefs": "wraith-guild"
+            },
+            {
+              "listDefs": "wraith-arcanos"
+            },
+            {
+              "listDefs": "shadow-archetype"
+            }
+          ]
+        },
+        {
+          "id": "Hollow",
+          "title": "Hollow",
+          "description": "A cursed spirit with a quasi-physical form, yet imperceptible for mortals, characterized by shadow bodies and a mask",
+          "triggers": [
+            {
+              "listDefs": "spirit-type"
+            },
+            {
+              "listDefs": "spirit-mask"
+            },
+            {
+              "listDefs": "spirit-origin"
+            },
+            {
+              "listDefs": "spirit-ability"
+            },
+            {
+              "listDefs": "spirit-ability"
+            },
+            {
+              "listDefs": "spirit-trait"
+            }
+          ]
+        },
+        {
+          "id": "entity-zombie",
+          "title": "Zombie",
+          "description": "A reanimated corpse due dark forces, random chance or intense emotion",
+          "triggers": [
+            {
+              "listDefs": "zombie-condition"
+            },
+            {
+              "listDefs": "zombie-trait"
+            },
+            {
+              "listDefs": "zombie-ability"
+            },
+            {
+              "listDefs": "zombie-origin"
+            }
+          ]
+        },
+        {
+          "id": "entity-created",
+          "title": "Created",
+          "description": "A being artificially created through science, magic, or a combination of both",
+          "triggers": [
+            {
+              "listDefs": "created-type"
+            },
+            {
+              "listDefs": "created-trait"
+            },
+            {
+              "listDefs": "created-ability"
+            },
+            {
+              "listDefs": "created-weakness"
+            }
+          ]
+        },
+        {
+          "id": "entity-mage",
+          "title": "Mage",
+          "description": "An awakened practitioner of magic, belonging to a specific tradition or order",
+          "triggers": [
+            {
+              "listDefs": "mage-faction"
+            },
+            {
+              "listDefs": "mage-sphere"
+            },
+            {
+              "listDefs": "mage-resonance"
+            },
+            {
+              "listDefs": "mage-instrument"
+            }
+          ]
         },
         {
           "id": "entity-changeling",
@@ -615,6 +224,82 @@
               "listDefs": "tarot-card"
             }
           ]
+        },
+        {
+          "id": "entity-demon",
+          "title": "Demon",
+          "description": "A being of dark origin, often serving malevolent forces or pursuing their own sinister agendas",
+          "triggers": [
+            {
+              "listDefs": "demon-house"
+            },
+            {
+              "listDefs": "demon-form"
+            },
+            {
+              "listDefs": "demon-form"
+            },
+            {
+              "listDefs": "demon-lore"
+            },
+            {
+              "listDefs": "power-influence"
+            },
+            {
+              "listDefs": "sin"
+            },
+            {
+              "listDefs": "demon-pact"
+            }
+          ]
+        },
+        {
+          "id": "entity-angel",
+          "title": "Angel",
+          "description": "A being of light, often serving the heavens choirs in their strife to help an godless world",
+          "triggers": [
+            {
+              "listDefs": "angel-position"
+            },
+            {
+              "listDefs": "angel-form"
+            },
+            {
+              "listDefs": "angel-form"
+            },
+            {
+              "listDefs": "angel-duty"
+            },
+            {
+              "listDefs": "angel-domain"
+            },
+            {
+              "listDefs": "virtue"
+            }
+          ]
+        },
+        {
+          "id": "criptid",
+          "title": "Cryptids",
+          "description": "Strange uncategorized creatures",
+          "triggers": [
+            {
+              "listDefs": "cryptid"
+            },
+            {
+              "listDefs": "entity-binding"
+            }
+          ]
+        },
+        {
+          "id": "other-beings",
+          "title": "Other being and minions",
+          "description": "A long sortment of creatures",
+          "triggers": [
+            {
+              "listDefs": "other-being"
+            }
+          ]
         }
       ]
     }
@@ -631,6 +316,11 @@
         "wod-flaw",
         "tarot-card"
       ]
+    },
+    {
+      "id": "quest-generator",
+      "title": "Quest Entity",
+      "listDefs": ["quest", "complication", "danger-level", "reward"]
     }
   ]
 }

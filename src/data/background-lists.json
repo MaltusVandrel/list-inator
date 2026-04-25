@@ -1,0 +1,188 @@
+[
+  {
+    "id": "wod-background",
+    "title": "Background",
+    "items": [
+      {
+        "id": "bg-regular-worker",
+        "title": "Minial Laborer",
+        "description": "Work with a back breaking or mind numbing job to survive"
+      },
+      {
+        "id": "bg-street-urchin",
+        "title": "Street Urchin",
+        "description": "Raised on the streets, surviving through wit, theft, and instinct"
+      },
+      {
+        "id": "bg-criminal",
+        "title": "Criminal Underworld",
+        "description": "Connected to gangs, organized crime, or illegal operations"
+      },
+      {
+        "id": "bg-homeless",
+        "title": "Homeless Drifter",
+        "description": "Living without stable shelter, moving from place to place"
+      },
+      {
+        "id": "bg-laborer",
+        "title": "Working Class Laborer",
+        "description": "Blue-collar worker with practical skills and endurance"
+      },
+      {
+        "id": "bg-soldier",
+        "title": "Soldier / Veteran",
+        "description": "Trained in combat, shaped by war or military service"
+      },
+      {
+        "id": "bg-police",
+        "title": "Law Enforcement",
+        "description": "Background in policing, investigation, or security"
+      },
+      {
+        "id": "bg-detective",
+        "title": "Investigator",
+        "description": "Skilled in uncovering secrets and solving mysteries"
+      },
+      {
+        "id": "bg-academic",
+        "title": "Academic Scholar",
+        "description": "Educated in universities, focused on knowledge and research"
+      },
+      {
+        "id": "bg-scientist",
+        "title": "Scientist",
+        "description": "Engaged in research, experimentation, or technical innovation"
+      },
+      {
+        "id": "bg-doctor",
+        "title": "Medical Professional",
+        "description": "Trained in medicine, anatomy, and healthcare"
+      },
+      {
+        "id": "bg-lawyer",
+        "title": "Legal Professional",
+        "description": "Experienced in law, courts, and legal manipulation"
+      },
+      {
+        "id": "bg-politician",
+        "title": "Politician",
+        "description": "Operates within systems of governance and public influence"
+      },
+      {
+        "id": "bg-aristocrat",
+        "title": "Aristocrat",
+        "description": "Born into wealth, status, and social privilege"
+      },
+      {
+        "id": "bg-entrepreneur",
+        "title": "Entrepreneur",
+        "description": "Built wealth through business ventures and risk-taking"
+      },
+      {
+        "id": "bg-celebrity",
+        "title": "Celebrity",
+        "description": "Public figure with fame and social visibility"
+      },
+      {
+        "id": "bg-artist",
+        "title": "Artist",
+        "description": "Creative individual expressing through art, music, or performance"
+      },
+      {
+        "id": "bg-journalist",
+        "title": "Journalist",
+        "description": "Seeker of truth, working in media or reporting"
+      },
+      {
+        "id": "bg-hacker",
+        "title": "Hacker",
+        "description": "Technically skilled in computers, networks, and digital intrusion"
+      },
+      {
+        "id": "bg-cultist",
+        "title": "Cult Member",
+        "description": "Part of a secretive or esoteric belief group"
+      },
+      {
+        "id": "bg-clergy",
+        "title": "Religious Clergy",
+        "description": "Raised or working within organized religion"
+      },
+      {
+        "id": "bg-occultist",
+        "title": "Occultist",
+        "description": "Student or practitioner of hidden and forbidden knowledge"
+      },
+      {
+        "id": "bg-conspiracy",
+        "title": "Conspiracy Insider",
+        "description": "Aware of hidden truths behind society or the supernatural"
+      },
+      {
+        "id": "bg-survivor",
+        "title": "Trauma Survivor",
+        "description": "Endured catastrophic events that shaped resilience"
+      },
+      {
+        "id": "bg-experiment",
+        "title": "Test Subject",
+        "description": "Used in scientific or supernatural experimentation"
+      },
+      {
+        "id": "bg-prisoner",
+        "title": "Ex-Convict",
+        "description": "Formerly imprisoned, shaped by incarceration"
+      },
+      {
+        "id": "bg-nomad",
+        "title": "Nomad",
+        "description": "Lives a transient lifestyle, never settling in one place"
+      },
+      {
+        "id": "bg-immigrant",
+        "title": "Immigrant",
+        "description": "Relocated from another country, navigating new culture"
+      },
+      {
+        "id": "bg-refugee",
+        "title": "Refugee",
+        "description": "Fled conflict or disaster, often with little left"
+      },
+      {
+        "id": "bg-orphan",
+        "title": "Orphan",
+        "description": "Grew up without parental support"
+      },
+      {
+        "id": "bg-family-business",
+        "title": "Family Business",
+        "description": "Raised within a family trade or enterprise"
+      },
+      {
+        "id": "bg-corporate",
+        "title": "Corporate Professional",
+        "description": "Worked within large organizations or corporations"
+      },
+      {
+        "id": "bg-fixer",
+        "title": "Fixer",
+        "description": "Middleman who connects people, deals, and opportunities"
+      },
+      {
+        "id": "bg-smuggler",
+        "title": "Smuggler",
+        "description": "Specializes in moving illegal goods or people"
+      },
+      {
+        "id": "bg-mercenary",
+        "title": "Mercenary",
+        "description": "Sells combat skills to the highest bidder"
+      },
+      {
+        "id": "bg-activist",
+        "title": "Activist",
+        "description": "Driven by ideology to enact social or political change"
+      }
+    ]
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "id": "spirit-type",
+    "title": "Entity Type",
+    "items": [
+      {
+        "id": "type-lost-soul",
+        "title": "Lost Soul",
+        "description": "A newly formed entity driven by a single unresolved emotion"
+      },
+      {
+        "id": "type-hollow",
+        "title": "Hollow",
+        "description": "Consumes others to fill its emptiness, developing a mask-like identity"
+      },
+      {
+        "id": "type-ghoul",
+        "title": "Devourer",
+        "description": "Feeds aggressively on other spirits, growing unstable and violent"
+      },
+      {
+        "id": "type-alpha",
+        "title": "Alpha Entity",
+        "description": "Self-aware predator with developed abilities and personality"
+      },
+      {
+        "id": "type-collective",
+        "title": "Collective",
+        "description": "Multiple souls fused into one chaotic consciousness"
+      },
+      {
+        "id": "type-lord",
+        "title": "Spirit Lord",
+        "description": "Highly evolved entity with control over territory and lesser spirits"
+      },
+      {
+        "id": "type-aberration",
+        "title": "Aberration",
+        "description": "Malformed being with unstable powers and distorted existence"
+      }
+    ]
+  },
+  {
+    "id": "spirit-mask",
+    "title": "Mask / Form",
+    "items": [
+      {
+        "id": "mask-bone",
+        "title": "Bone Mask",
+        "description": "Classic skull-like face with cracks or horns"
+      },
+      {
+        "id": "mask-animal",
+        "title": "Beast Mask",
+        "description": "Animalistic skull or hybrid form"
+      },
+      {
+        "id": "mask-blank",
+        "title": "Blank Mask",
+        "description": "Featureless, emotionless surface"
+      },
+      {
+        "id": "mask-grin",
+        "title": "Grinning Mask",
+        "description": "Permanent unnatural smile"
+      },
+      {
+        "id": "mask-fractured",
+        "title": "Fractured Mask",
+        "description": "Broken or incomplete identity"
+      },
+      {
+        "id": "mask-multiple",
+        "title": "Multi-Faced",
+        "description": "Several faces merged into one"
+      },
+      {
+        "id": "mask-organic",
+        "title": "Flesh Mask",
+        "description": "Living, shifting surface instead of bone"
+      }
+    ]
+  },
+  {
+    "id": "spirit-trait",
+    "title": "Trait",
+    "items": [
+      {
+        "id": "trait-hungry",
+        "title": "Insatiable",
+        "description": "Constant need to consume others"
+      },
+      {
+        "id": "trait-silent",
+        "title": "Silent",
+        "description": "Moves and acts without presence"
+      },
+      {
+        "id": "trait-erratic",
+        "title": "Erratic",
+        "description": "Unpredictable and unstable behavior"
+      },
+      {
+        "id": "trait-cunning",
+        "title": "Cunning",
+        "description": "Capable of planning and deception"
+      },
+      {
+        "id": "trait-territorial",
+        "title": "Territorial",
+        "description": "Defends a specific domain aggressively"
+      },
+      {
+        "id": "trait-obsessed",
+        "title": "Obsessed",
+        "description": "Fixated on a specific person or idea"
+      },
+      {
+        "id": "trait-cruel",
+        "title": "Cruel",
+        "description": "Takes pleasure in suffering"
+      },
+      {
+        "id": "trait-detached",
+        "title": "Detached",
+        "description": "Emotionally distant and alien"
+      }
+    ]
+  },
+  {
+    "id": "spirit-ability",
+    "title": "Ability",
+    "items": [
+      {
+        "id": "ability-devour",
+        "title": "Devour Essence",
+        "description": "Consumes other entities to grow stronger"
+      },
+      {
+        "id": "ability-regeneration",
+        "title": "Regeneration",
+        "description": "Rapidly heals from damage"
+      },
+      {
+        "id": "ability-cursed-aura",
+        "title": "Corrupting Aura",
+        "description": "Weakens and distorts nearby beings"
+      },
+
+      {
+        "id": "ability-energy-blast",
+        "title": "Energy Blast",
+        "description": "Fires concentrated destructive energy"
+      },
+      {
+        "id": "ability-body-shift",
+        "title": "Form Shift",
+        "description": "Alters body shape and structure"
+      },
+      {
+        "id": "ability-shadow-move",
+        "title": "Shadow Movement",
+        "description": "Moves through darkness or unseen paths"
+      },
+
+      {
+        "id": "ability-fear-field",
+        "title": "Fear Projection",
+        "description": "Induces terror in targets"
+      },
+      {
+        "id": "ability-mind-distort",
+        "title": "Mind Distortion",
+        "description": "Creates hallucinations or confusion"
+      },
+
+      {
+        "id": "ability-domain",
+        "title": "Domain Manifestation",
+        "description": "Creates a localized reality reflecting its nature"
+      },
+      {
+        "id": "ability-binding",
+        "title": "Binding Curse",
+        "description": "Restricts or traps enemies"
+      },
+
+      {
+        "id": "ability-teleport",
+        "title": "Blink Movement",
+        "description": "Instant short-distance movement"
+      },
+      {
+        "id": "ability-adaptation",
+        "title": "Adaptive Evolution",
+        "description": "Changes abilities based on threats"
+      }
+    ]
+  },
+  {
+    "id": "spirit-origin",
+    "title": "Origin",
+    "items": [
+      {
+        "id": "origin-fear",
+        "title": "Fear",
+        "description": "Born from deep, collective terror"
+      },
+      {
+        "id": "origin-hate",
+        "title": "Hatred",
+        "description": "Formed from intense resentment or rage"
+      },
+      {
+        "id": "origin-grief",
+        "title": "Grief",
+        "description": "Created from loss and mourning"
+      },
+      {
+        "id": "origin-isolation",
+        "title": "Isolation",
+        "description": "Manifestation of loneliness and abandonment"
+      },
+      {
+        "id": "origin-guilt",
+        "title": "Guilt",
+        "description": "Shaped by regret and self-loathing"
+      },
+      {
+        "id": "origin-obsession",
+        "title": "Obsession",
+        "description": "Driven by fixation or addiction"
+      },
+      {
+        "id": "origin-violence",
+        "title": "Violence",
+        "description": "Born from repeated acts of brutality"
+      },
+      {
+        "id": "origin-despair",
+        "title": "Despair",
+        "description": "Embodiment of hopelessness and nihilism"
+      }
+    ]
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "id": "mage-faction",
+    "title": "Faction",
+    "items": [
+      {
+        "id": "tradition-akashic",
+        "title": "Akashic Brotherhood",
+        "description": "Mystics focused on enlightenment through discipline and inner perfection"
+      },
+      {
+        "id": "tradition-celestial-chorus",
+        "title": "Celestial Chorus",
+        "description": "Faith-based mages channeling divine unity"
+      },
+      {
+        "id": "tradition-cult-ecstasy",
+        "title": "Cult of Ecstasy",
+        "description": "Seek transcendence through experience, time, and sensation"
+      },
+      {
+        "id": "tradition-dreamspeakers",
+        "title": "Dreamspeakers",
+        "description": "Spirit-talkers connected to primal forces and ancestors"
+      },
+      {
+        "id": "tradition-euthanatos",
+        "title": "Euthanatoi",
+        "description": "Agents of balance, death, and karmic cycles"
+      },
+      {
+        "id": "tradition-hermetic",
+        "title": "Order of Hermes",
+        "description": "Structured spellcasters using formal magic systems"
+      },
+      {
+        "id": "tradition-verbena",
+        "title": "Verbena",
+        "description": "Nature witches focused on life, blood, and cycles"
+      },
+      {
+        "id": "tradition-virtual-adepts",
+        "title": "Virtual Adepts",
+        "description": "Reality hackers manipulating digital and conceptual systems"
+      },
+      {
+        "id": "tradition-etherites",
+        "title": "Sons of Ether",
+        "description": "Mad scientists shaping reality through invention"
+      },
+
+      {
+        "id": "tech-iteration-x",
+        "title": "Iteration X",
+        "description": "Cybernetic perfection and machine integration"
+      },
+      {
+        "id": "tech-new-world-order",
+        "title": "New World Order",
+        "description": "Information control and surveillance"
+      },
+      {
+        "id": "tech-progenitors",
+        "title": "Progenitors",
+        "description": "Biological and genetic manipulation"
+      },
+      {
+        "id": "tech-syndicate",
+        "title": "Syndicate",
+        "description": "Control through economics and influence"
+      },
+      {
+        "id": "tech-void-engineers",
+        "title": "Void Engineers",
+        "description": "Exploration and defense of reality from beyond"
+      }
+    ]
+  },
+  {
+    "id": "mage-sphere",
+    "title": "Sphere",
+    "items": [
+      {
+        "id": "sphere-correspondence",
+        "title": "Correspondence",
+        "description": "Space, distance, and connection between locations"
+      },
+      {
+        "id": "sphere-entropy",
+        "title": "Entropy",
+        "description": "Chance, decay, fate, and probability"
+      },
+      {
+        "id": "sphere-forces",
+        "title": "Forces",
+        "description": "Energy, fire, light, electricity, and motion"
+      },
+      {
+        "id": "sphere-life",
+        "title": "Life",
+        "description": "Living organisms and biological processes"
+      },
+      {
+        "id": "sphere-matter",
+        "title": "Matter",
+        "description": "Inanimate physical substances"
+      },
+      {
+        "id": "sphere-mind",
+        "title": "Mind",
+        "description": "Thoughts, emotions, and consciousness"
+      },
+      {
+        "id": "sphere-prime",
+        "title": "Prime",
+        "description": "Raw magical energy and quintessence"
+      },
+      {
+        "id": "sphere-spirit",
+        "title": "Spirit",
+        "description": "Spirits, umbra, and otherworldly entities"
+      },
+      {
+        "id": "sphere-time",
+        "title": "Time",
+        "description": "Temporal flow, past, future, and causality"
+      }
+    ]
+  },
+  {
+    "id": "mage-resonance",
+    "title": "Resonance",
+    "items": [
+      {
+        "id": "resonance-dynamic",
+        "title": "Dynamic",
+        "description": "Chaotic, creative, ever-changing magic"
+      },
+      {
+        "id": "resonance-static",
+        "title": "Static",
+        "description": "Ordered, stable, controlled magic"
+      },
+      {
+        "id": "resonance-entropic",
+        "title": "Entropic",
+        "description": "Decay, corruption, inevitability"
+      },
+
+      {
+        "id": "resonance-dark",
+        "title": "Dark",
+        "description": "Oppressive, unsettling magical feel"
+      },
+      {
+        "id": "resonance-bright",
+        "title": "Bright",
+        "description": "Hopeful, radiant magical presence"
+      },
+      {
+        "id": "resonance-primal",
+        "title": "Primal",
+        "description": "Wild and instinctive power"
+      }
+    ]
+  },
+  {
+    "id": "mage-instrument",
+    "title": "Instrument",
+    "items": [
+      {
+        "id": "instrument-chant",
+        "title": "Chants",
+        "description": "Spoken words or incantations"
+      },
+      {
+        "id": "instrument-gesture",
+        "title": "Gestures",
+        "description": "Hand signs or body movement"
+      },
+      {
+        "id": "instrument-tool",
+        "title": "Tools",
+        "description": "Wands, devices, or objects"
+      },
+      {
+        "id": "instrument-symbol",
+        "title": "Symbols",
+        "description": "Runes, diagrams, sigils"
+      },
+      {
+        "id": "instrument-sacrifice",
+        "title": "Sacrifice",
+        "description": "Offering energy or material"
+      },
+      {
+        "id": "instrument-tech",
+        "title": "Technology",
+        "description": "Machines or digital systems"
+      },
+      {
+        "id": "instrument-drugs",
+        "title": "Altered State",
+        "description": "Substances or trance states"
+      },
+      {
+        "id": "instrument-music",
+        "title": "Music",
+        "description": "Sound and rhythm as focus"
+      }
+    ]
+  }
+]

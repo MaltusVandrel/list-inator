@@ -1,0 +1,171 @@
+[
+  {
+    "id": "zombie-condition",
+    "title": "Condition",
+    "items": [
+      {
+        "id": "condition-fresh",
+        "title": "Fresh Corpse",
+        "description": "Recently dead, mostly intact"
+      },
+      {
+        "id": "condition-rotting",
+        "title": "Rotting",
+        "description": "Visible decay and weakening structure"
+      },
+      {
+        "id": "condition-skeletal",
+        "title": "Skeletal",
+        "description": "Mostly bone, minimal flesh"
+      },
+      {
+        "id": "condition-bloated",
+        "title": "Bloated",
+        "description": "Swollen with gas or fluids"
+      },
+      {
+        "id": "condition-mutated",
+        "title": "Mutated",
+        "description": "Body warped or altered unnaturally"
+      },
+      {
+        "id": "condition-reinforced",
+        "title": "Reinforced",
+        "description": "Enhanced or stabilized by magic or tech"
+      }
+    ]
+  },
+  {
+    "id": "zombie-trait",
+    "title": "Trait",
+    "items": [
+      {
+        "id": "trait-mindless",
+        "title": "Mindless",
+        "description": "Acts purely on instinct"
+      },
+      {
+        "id": "trait-hungry",
+        "title": "Hungry",
+        "description": "Constant need to consume flesh or energy"
+      },
+      {
+        "id": "trait-loyal",
+        "title": "Bound Loyalty",
+        "description": "Obeys a master without question"
+      },
+      {
+        "id": "trait-vengeful",
+        "title": "Vengeful",
+        "description": "Targets specific individuals"
+      },
+      {
+        "id": "trait-decaying",
+        "title": "Decaying",
+        "description": "Body deteriorates over time"
+      },
+      {
+        "id": "trait-persistent",
+        "title": "Relentless",
+        "description": "Will not stop until destroyed"
+      },
+      {
+        "id": "trait-aware",
+        "title": "Self-Aware",
+        "description": "Retains partial consciousness"
+      },
+      {
+        "id": "trait-infectious",
+        "title": "Infectious",
+        "description": "Spreads condition to others"
+      }
+    ]
+  },
+  {
+    "id": "zombie-ability",
+    "title": "Ability",
+    "items": [
+      {
+        "id": "ability-regenerate",
+        "title": "Regeneration",
+        "description": "Repairs damage slowly over time"
+      },
+      {
+        "id": "ability-infect",
+        "title": "Infection",
+        "description": "Spreads corruption through bites or wounds"
+      },
+      {
+        "id": "ability-resist-pain",
+        "title": "Ignore Pain",
+        "description": "Unaffected by injury penalties"
+      },
+      {
+        "id": "ability-frenzy",
+        "title": "Frenzy",
+        "description": "Enters violent uncontrollable rage"
+      },
+      {
+        "id": "ability-grasp",
+        "title": "Grasping Hold",
+        "description": "Restrains victims with unnatural strength"
+      },
+      {
+        "id": "ability-toxin",
+        "title": "Toxic Rot",
+        "description": "Body emits poison or disease"
+      },
+      {
+        "id": "ability-reassemble",
+        "title": "Reassemble",
+        "description": "Body parts reattach or continue moving"
+      },
+      {
+        "id": "ability-commanded",
+        "title": "Command Link",
+        "description": "Receives orders from a controller"
+      }
+    ]
+  },
+  {
+    "id": "zombie-origin",
+    "title": "Origin",
+    "items": [
+      {
+        "id": "origin-necromancy",
+        "title": "Necromancy",
+        "description": "Raised through dark rituals or blood magic"
+      },
+      {
+        "id": "origin-wyrm",
+        "title": "Wyrm Corruption",
+        "description": "Animated through corruption and decay"
+      },
+      {
+        "id": "origin-virus",
+        "title": "Supernatural Plague",
+        "description": "Spread through infection or curse"
+      },
+      {
+        "id": "origin-spirit",
+        "title": "Spirit Possession",
+        "description": "Body controlled by a spirit or entity"
+      },
+      {
+        "id": "origin-curse",
+        "title": "Curse",
+        "description": "Bound to rise due to unresolved fate or magic"
+      },
+      {
+        "id": "origin-science",
+        "title": "Experiment",
+        "description": "Created through unnatural science or biotech"
+      },
+      {
+        "id": "origin-shadow",
+        "title": "Shadow Influence",
+        "description": "Driven by a darker aspect of the soul"
+      }
+    ]
+  }
+]

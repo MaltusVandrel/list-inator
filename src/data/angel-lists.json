@@ -1,0 +1,193 @@
+[
+  {
+    "id": "angel-position",
+    "title": "Angelic Position",
+    "items": [
+      {
+        "id": "pos-seraphim",
+        "title": "Seraphim",
+        "description": "Closest to the divine; embody purity, light, and burning devotion"
+      },
+      {
+        "id": "pos-cherubim",
+        "title": "Cherubim",
+        "description": "Guardians of sacred knowledge and divine mysteries"
+      },
+      {
+        "id": "pos-thrones",
+        "title": "Thrones",
+        "description": "Embodiments of divine justice and cosmic balance"
+      },
+
+      {
+        "id": "pos-dominions",
+        "title": "Dominions",
+        "description": "Oversee lesser angels and enforce divine order"
+      },
+      {
+        "id": "pos-virtues",
+        "title": "Virtues",
+        "description": "Channel divine power into miracles and blessings"
+      },
+      {
+        "id": "pos-powers",
+        "title": "Powers",
+        "description": "Warriors against chaos, maintaining cosmic stability"
+      },
+
+      {
+        "id": "pos-principalities",
+        "title": "Principalities",
+        "description": "Guardians of nations, cities, and large groups"
+      },
+      {
+        "id": "pos-archangels",
+        "title": "Archangels",
+        "description": "Messengers and leaders carrying divine will to the world"
+      },
+      {
+        "id": "pos-angels",
+        "title": "Angels",
+        "description": "Closest to humanity, guiding and protecting individuals"
+      }
+    ]
+  },
+  {
+    "id": "angel-domain",
+    "title": "Domain",
+    "items": [
+      {
+        "id": "domain-light",
+        "title": "Light",
+        "description": "Illumination, truth, and clarity"
+      },
+      {
+        "id": "domain-judgment",
+        "title": "Judgment",
+        "description": "Justice and moral evaluation"
+      },
+      {
+        "id": "domain-protection",
+        "title": "Protection",
+        "description": "Defense of others"
+      },
+      {
+        "id": "domain-healing",
+        "title": "Healing",
+        "description": "Restoration and renewal"
+      },
+      {
+        "id": "domain-war",
+        "title": "War",
+        "description": "Divine conflict and righteous battle"
+      },
+      {
+        "id": "domain-knowledge",
+        "title": "Knowledge",
+        "description": "Truth, memory, and understanding"
+      },
+      {
+        "id": "domain-order",
+        "title": "Order",
+        "description": "Structure and stability"
+      },
+      {
+        "id": "domain-time",
+        "title": "Time",
+        "description": "Flow of events and destiny"
+      },
+      {
+        "id": "domain-souls",
+        "title": "Souls",
+        "description": "Guidance and safeguarding of spirits"
+      }
+    ]
+  },
+  {
+    "id": "angel-duty",
+    "title": "Duty",
+    "items": [
+      {
+        "id": "duty-guardian",
+        "title": "Guardian",
+        "description": "Protects individuals or places"
+      },
+      {
+        "id": "duty-messenger",
+        "title": "Messenger",
+        "description": "Delivers divine will or warnings"
+      },
+      {
+        "id": "duty-judge",
+        "title": "Judge",
+        "description": "Evaluates actions and assigns consequence"
+      },
+      {
+        "id": "duty-healer",
+        "title": "Healer",
+        "description": "Restores life or spirit"
+      },
+      {
+        "id": "duty-warrior",
+        "title": "Warrior",
+        "description": "Fights threats to cosmic order"
+      },
+      {
+        "id": "duty-guide",
+        "title": "Guide",
+        "description": "Leads souls or individuals toward purpose"
+      },
+      {
+        "id": "duty-watcher",
+        "title": "Watcher",
+        "description": "Observes and records events"
+      },
+      {
+        "id": "duty-purifier",
+        "title": "Purifier",
+        "description": "Removes corruption or imbalance"
+      }
+    ]
+  },
+  {
+    "id": "angel-form",
+    "title": "Manifestation",
+    "items": [
+      {
+        "id": "form-radiant",
+        "title": "Radiant Humanoid",
+        "description": "Glowing human-like form with divine presence"
+      },
+      {
+        "id": "form-winged",
+        "title": "Winged Being",
+        "description": "Humanoid with large luminous wings"
+      },
+      {
+        "id": "form-flame",
+        "title": "Living Flame",
+        "description": "Body composed of divine fire"
+      },
+      {
+        "id": "form-eyes",
+        "title": "Many-Eyed",
+        "description": "Covered in eyes symbolizing awareness"
+      },
+      {
+        "id": "form-abstract",
+        "title": "Abstract Form",
+        "description": "Non-human, geometric or symbolic presence"
+      },
+      {
+        "id": "form-armor",
+        "title": "Armored Angel",
+        "description": "Warrior clad in celestial armor"
+      },
+      {
+        "id": "form-light",
+        "title": "Pure Light",
+        "description": "Form barely contained, overwhelming brightness"
+      }
+    ]
+  }
+]

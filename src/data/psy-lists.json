@@ -1,0 +1,202 @@
+[
+  {
+    "id": "psionic-power",
+    "title": "Psionic Power",
+    "items": [
+      {
+        "id": "psi-mind-reading",
+        "title": "Mind Reading",
+        "description": "Read surface thoughts of others"
+      },
+      {
+        "id": "psi-deep-probe",
+        "title": "Deep Memory Probe",
+        "description": "Access hidden or long-term memories"
+      },
+      {
+        "id": "psi-mind-link",
+        "title": "Mind Link",
+        "description": "Establish two-way telepathic communication"
+      },
+      {
+        "id": "psi-mental-command",
+        "title": "Mental Command",
+        "description": "Implant simple commands into a target"
+      },
+      {
+        "id": "psi-memory-edit",
+        "title": "Memory Alteration",
+        "description": "Modify or erase memories"
+      },
+      {
+        "id": "psi-mental-shield",
+        "title": "Mental Shield",
+        "description": "Protect against telepathic intrusion"
+      },
+
+      {
+        "id": "psi-telekinesis",
+        "title": "Telekinesis",
+        "description": "Move objects with the mind"
+      },
+      {
+        "id": "psi-precision-control",
+        "title": "Fine Manipulation",
+        "description": "Perform delicate tasks telekinetically"
+      },
+      {
+        "id": "psi-force-push",
+        "title": "Force Push",
+        "description": "Project kinetic force outward"
+      },
+      {
+        "id": "psi-flight",
+        "title": "Levitation",
+        "description": "Lift oneself into the air"
+      },
+      {
+        "id": "psi-barrier",
+        "title": "Kinetic Barrier",
+        "description": "Create a protective force field"
+      },
+
+      {
+        "id": "psi-clairvoyance",
+        "title": "Clairvoyance",
+        "description": "See distant locations"
+      },
+      {
+        "id": "psi-precognition",
+        "title": "Precognition",
+        "description": "Glimpse possible future events"
+      },
+      {
+        "id": "psi-retrocognition",
+        "title": "Retrocognition",
+        "description": "Perceive past events"
+      },
+      {
+        "id": "psi-aura-reading",
+        "title": "Aura Reading",
+        "description": "Perceive emotions or supernatural states"
+      },
+
+      {
+        "id": "psi-psychometry",
+        "title": "Psychometry",
+        "description": "Read history from objects"
+      },
+      {
+        "id": "psi-imprint-sense",
+        "title": "Emotional Imprint Sense",
+        "description": "Detect lingering emotions in places"
+      },
+
+      {
+        "id": "psi-pyrokinesis",
+        "title": "Pyrokinesis",
+        "description": "Create and control fire"
+      },
+      {
+        "id": "psi-cryokinesis",
+        "title": "Cryokinesis",
+        "description": "Manipulate cold and ice"
+      },
+      {
+        "id": "psi-electrokinesis",
+        "title": "Electrokinesis",
+        "description": "Control electricity"
+      },
+
+      {
+        "id": "psi-healing",
+        "title": "Psychic Healing",
+        "description": "Accelerate healing of self or others"
+      },
+      {
+        "id": "psi-pain-inflict",
+        "title": "Pain Induction",
+        "description": "Cause intense pain mentally"
+      },
+      {
+        "id": "psi-enhance-body",
+        "title": "Physical Enhancement",
+        "description": "Boost strength, speed, or endurance"
+      },
+      {
+        "id": "psi-paralysis",
+        "title": "Paralysis",
+        "description": "Immobilize a target’s body"
+      },
+
+      {
+        "id": "psi-illusion",
+        "title": "Illusion Projection",
+        "description": "Create sensory illusions"
+      },
+      {
+        "id": "psi-invisibility",
+        "title": "Perceptual Cloak",
+        "description": "Avoid being noticed or perceived"
+      },
+      {
+        "id": "psi-hallucination",
+        "title": "Hallucination",
+        "description": "Force a target to perceive false realities"
+      },
+
+      {
+        "id": "psi-teleport",
+        "title": "Teleportation",
+        "description": "Instantly move between locations"
+      },
+      {
+        "id": "psi-phase",
+        "title": "Phasing",
+        "description": "Pass through solid matter"
+      },
+      {
+        "id": "psi-warp",
+        "title": "Spatial Distortion",
+        "description": "Bend space locally"
+      },
+
+      {
+        "id": "psi-time-slow",
+        "title": "Time Dilation",
+        "description": "Slow perception of time"
+      },
+      {
+        "id": "psi-time-stop",
+        "title": "Time Stop",
+        "description": "Temporarily halt time in a limited area"
+      },
+
+      {
+        "id": "psi-astral-projection",
+        "title": "Astral Projection",
+        "description": "Separate consciousness from the body"
+      },
+      {
+        "id": "psi-possession",
+        "title": "Possession",
+        "description": "Take control of another body"
+      },
+      {
+        "id": "psi-psi-drain",
+        "title": "Psychic Drain",
+        "description": "Absorb mental energy from others"
+      },
+      {
+        "id": "psi-null-field",
+        "title": "Null Field",
+        "description": "Suppress psychic or supernatural powers"
+      },
+      {
+        "id": "psi-reality-bend",
+        "title": "Reality Bending",
+        "description": "Warp reality through sheer mental force"
+      }
+    ]
+  }
+]

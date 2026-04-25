@@ -1,0 +1,166 @@
+[
+  {
+    "id": "created-type",
+    "title": "Created Entity",
+    "items": [
+      {
+        "id": "created-homunculus",
+        "title": "Homunculus",
+        "description": "Artificial lifeform grown or crafted through alchemy or magic"
+      },
+      {
+        "id": "created-golem",
+        "title": "Golem",
+        "description": "Construct made from physical material and animated by ritual or spirit"
+      },
+      {
+        "id": "created-tulpa",
+        "title": "Tulpa",
+        "description": "Entity formed from concentrated thought, belief, or psychic projection"
+      },
+      {
+        "id": "created-construct",
+        "title": "Arcane Construct",
+        "description": "Magically assembled being designed for a specific function"
+      },
+      {
+        "id": "created-frankenstein",
+        "title": "Stitched Creation",
+        "description": "Body assembled from parts and brought to life artificially"
+      },
+      {
+        "id": "created-spirit-vessel",
+        "title": "Bound Vessel",
+        "description": "Artificial body housing a spirit or entity"
+      },
+      {
+        "id": "created-clone",
+        "title": "Clone",
+        "description": "Biological duplicate created through science or magic"
+      },
+      {
+        "id": "created-simulacrum",
+        "title": "Simulacrum",
+        "description": "Imperfect copy of a person, often lacking full autonomy"
+      },
+      {
+        "id": "created-idea",
+        "title": "Conceptual Being",
+        "description": "Embodiment of an idea or belief given form"
+      }
+    ]
+  },
+  {
+    "id": "created-trait",
+    "title": "Trait",
+    "items": [
+      {
+        "id": "trait-bound",
+        "title": "Bound",
+        "description": "Tied to creator or purpose"
+      },
+      {
+        "id": "trait-autonomous",
+        "title": "Autonomous",
+        "description": "Independent will and behavior"
+      },
+      {
+        "id": "trait-unstable",
+        "title": "Unstable",
+        "description": "Prone to breakdown or mutation"
+      },
+      {
+        "id": "trait-loyal",
+        "title": "Programmed Loyalty",
+        "description": "Obeys original commands"
+      },
+      {
+        "id": "trait-evolving",
+        "title": "Evolving",
+        "description": "Can grow beyond original design"
+      },
+      {
+        "id": "trait-hollow",
+        "title": "Hollow",
+        "description": "Lacks true emotion or soul"
+      },
+      {
+        "id": "trait-emergent",
+        "title": "Emergent Mind",
+        "description": "Developing consciousness"
+      }
+    ]
+  },
+  {
+    "id": "created-ability",
+    "title": "Ability",
+    "items": [
+      {
+        "id": "ability-repair",
+        "title": "Self-Repair",
+        "description": "Can restore its own form over time"
+      },
+      {
+        "id": "ability-adapt",
+        "title": "Adaptive Form",
+        "description": "Changes structure or abilities"
+      },
+      {
+        "id": "ability-obey",
+        "title": "Command Response",
+        "description": "Responds to creator commands"
+      },
+      {
+        "id": "ability-copy",
+        "title": "Imitation",
+        "description": "Mimics behavior or abilities"
+      },
+      {
+        "id": "ability-manifest",
+        "title": "Manifestation",
+        "description": "Appears or disappears at will"
+      },
+      {
+        "id": "ability-anchor",
+        "title": "Reality Anchor",
+        "description": "Stabilizes itself in existence"
+      },
+      {
+        "id": "ability-overload",
+        "title": "Overload",
+        "description": "Pushes beyond limits at cost of damage"
+      }
+    ]
+  },
+  {
+    "id": "created-weakness",
+    "title": "Weakness",
+    "items": [
+      {
+        "id": "weakness-creator",
+        "title": "Bound to Creator",
+        "description": "Fails or weakens if creator is gone"
+      },
+      {
+        "id": "weakness-focus",
+        "title": "Focus Dependency",
+        "description": "Requires sustained energy or belief"
+      },
+      {
+        "id": "weakness-instability",
+        "title": "Structural Instability",
+        "description": "Body or form degrades"
+      },
+      {
+        "id": "weakness-limit",
+        "title": "Limited Purpose",
+        "description": "Cannot act outside its function"
+      },
+      {
+        "id": "weakness-anchor",
+        "title": "Anchor Reliance",
+        "description": "Tied to object, place, or idea"
+      }
+    ]
+  }
+]

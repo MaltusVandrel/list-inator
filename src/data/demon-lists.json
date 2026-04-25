@@ -1,0 +1,296 @@
+[
+  {
+    "id": "demon-house",
+    "title": "House",
+    "items": [
+      {
+        "id": "house-devils",
+        "title": "Devils",
+        "description": "Tempters and rulers, focused on domination and desire"
+      },
+      {
+        "id": "house-scourges",
+        "title": "Scourges",
+        "description": "Agents of destruction and purification through pain"
+      },
+      {
+        "id": "house-malefactors",
+        "title": "Malefactors",
+        "description": "Creators and shapers of the physical world"
+      },
+      {
+        "id": "house-fiends",
+        "title": "Fiends",
+        "description": "Masters of flesh, transformation, and living beings"
+      },
+      {
+        "id": "house-defilers",
+        "title": "Defilers",
+        "description": "Manipulators of emotion, beauty, and desire"
+      },
+      {
+        "id": "house-slayers",
+        "title": "Slayers",
+        "description": "Harbingers of death and endings"
+      },
+      {
+        "id": "house-djinn",
+        "title": "Djinn",
+        "description": "Binders and keepers of oaths, contracts, and punishment"
+      }
+    ]
+  },
+  {
+    "id": "demon-lore",
+    "title": "Lore",
+    "items": [
+      {
+        "id": "lore-flame",
+        "title": "Lore of Flame",
+        "description": "Fire, destruction, and purification"
+      },
+      {
+        "id": "lore-radiance",
+        "title": "Lore of Radiance",
+        "description": "Light, truth, and revelation"
+      },
+      {
+        "id": "lore-celestials",
+        "title": "Lore of the Celestials",
+        "description": "Command over heavenly forces"
+      },
+
+      {
+        "id": "lore-earth",
+        "title": "Lore of Earth",
+        "description": "Stone, metal, and structure"
+      },
+      {
+        "id": "lore-paths",
+        "title": "Lore of Paths",
+        "description": "Movement, travel, and connections"
+      },
+      {
+        "id": "lore-realms",
+        "title": "Lore of Realms",
+        "description": "Control over space and domains"
+      },
+
+      {
+        "id": "lore-flesh",
+        "title": "Lore of Flesh",
+        "description": "Manipulation of living bodies"
+      },
+      {
+        "id": "lore-beasts",
+        "title": "Lore of Beasts",
+        "description": "Control over animals and instincts"
+      },
+
+      {
+        "id": "lore-desire",
+        "title": "Lore of Desire",
+        "description": "Emotion, attraction, and temptation"
+      },
+      {
+        "id": "lore-dreams",
+        "title": "Lore of Dreams",
+        "description": "Dreams, illusions, and subconscious"
+      },
+
+      {
+        "id": "lore-death",
+        "title": "Lore of Death",
+        "description": "Decay, endings, and the dead"
+      },
+      {
+        "id": "lore-spirits",
+        "title": "Lore of Spirits",
+        "description": "Interaction with souls and ghosts"
+      },
+
+      {
+        "id": "lore-chaos",
+        "title": "Lore of Chaos",
+        "description": "Entropy, randomness, and disruption"
+      },
+      {
+        "id": "lore-order",
+        "title": "Lore of Order",
+        "description": "Control, structure, and binding"
+      }
+    ]
+  },
+  {
+    "id": "demon-form",
+    "title": "Apocalyptic Trait",
+    "items": [
+      {
+        "id": "form-wings",
+        "title": "Wings",
+        "description": "Manifest wings of shadow, fire, or light"
+      },
+      {
+        "id": "form-horns",
+        "title": "Horns",
+        "description": "Symbol of power and authority"
+      },
+      {
+        "id": "form-claws",
+        "title": "Claws",
+        "description": "Natural weapons for combat"
+      },
+      {
+        "id": "form-eyes",
+        "title": "Burning Eyes",
+        "description": "Eyes radiate supernatural power"
+      },
+      {
+        "id": "form-aura",
+        "title": "Aura",
+        "description": "Presence distorts reality or emotions"
+      },
+      {
+        "id": "form-armor",
+        "title": "Natural Armor",
+        "description": "Body becomes resistant to damage"
+      },
+      {
+        "id": "form-voice",
+        "title": "Commanding Voice",
+        "description": "Speech compels obedience"
+      },
+      {
+        "id": "form-shadow",
+        "title": "Shadow Form",
+        "description": "Body becomes partially intangible or dark"
+      }
+    ]
+  },
+  {
+    "id": "demon-pact",
+    "title": "Pact",
+    "items": [
+      {
+        "id": "pact-power",
+        "title": "Power Exchange",
+        "description": "Grants power in exchange for service or devotion"
+      },
+      {
+        "id": "pact-soul",
+        "title": "Soul Pact",
+        "description": "Claims part or all of a mortal’s soul"
+      },
+      {
+        "id": "pact-protection",
+        "title": "Protection Pact",
+        "description": "Offers safety in exchange for loyalty"
+      },
+      {
+        "id": "pact-knowledge",
+        "title": "Knowledge Pact",
+        "description": "Trades secrets and forbidden knowledge"
+      },
+      {
+        "id": "pact-possession",
+        "title": "Possession",
+        "description": "Uses a mortal body as a vessel"
+      }
+    ]
+  },
+  {
+    "id": "power-influence",
+    "title": "Power / Influence",
+    "items": [
+      {
+        "id": "rank-commoner",
+        "title": "Commoner",
+        "description": "Little to no authority or influence"
+      },
+      {
+        "id": "rank-agent",
+        "title": "Agent",
+        "description": "Operates under someone else’s authority"
+      },
+      {
+        "id": "rank-knight",
+        "title": "Knight",
+        "description": "Enforcer or champion serving a higher power"
+      },
+
+      {
+        "id": "rank-lord",
+        "title": "Lord",
+        "description": "Controls territory, resources, or followers"
+      },
+      {
+        "id": "rank-lady",
+        "title": "Lady",
+        "description": "Holds influence through status, networks, or control"
+      },
+      {
+        "id": "rank-baron",
+        "title": "Baron",
+        "description": "Minor noble with localized authority"
+      },
+      {
+        "id": "rank-count",
+        "title": "Count",
+        "description": "Regional ruler with established power base"
+      },
+      {
+        "id": "rank-duke",
+        "title": "Duke",
+        "description": "High-ranking noble with vast influence"
+      },
+
+      {
+        "id": "rank-prince",
+        "title": "Prince",
+        "description": "Primary ruler of a domain or city"
+      },
+      {
+        "id": "rank-archon",
+        "title": "Archon",
+        "description": "Trusted enforcer of a greater ruler"
+      },
+      {
+        "id": "rank-regent",
+        "title": "Regent",
+        "description": "Rules on behalf of a higher authority"
+      },
+
+      {
+        "id": "rank-king",
+        "title": "King",
+        "description": "Sovereign ruler with absolute authority"
+      },
+      {
+        "id": "rank-queen",
+        "title": "Queen",
+        "description": "Sovereign ruler, often with influence over alliances and diplomacy"
+      },
+      {
+        "id": "rank-emperor",
+        "title": "Emperor",
+        "description": "Rules multiple domains or nations"
+      },
+
+      {
+        "id": "rank-tyrant",
+        "title": "Tyrant",
+        "description": "Rules through fear and oppression"
+      },
+      {
+        "id": "rank-shadow-ruler",
+        "title": "Shadow Ruler",
+        "description": "Controls power indirectly from behind the scenes"
+      },
+      {
+        "id": "rank-overlord",
+        "title": "Overlord",
+        "description": "Dominates others through raw power or presence"
+      }
+    ]
+  }
+]

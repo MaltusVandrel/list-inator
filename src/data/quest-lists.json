@@ -1,0 +1,463 @@
+[
+  {
+    "id": "quest",
+    "title": "Quest / Event",
+    "items": [
+      {
+        "id": "quest-drama",
+        "title": "Personal Drama",
+        "description": "Conflict between individuals threatens to escalate into something supernatural"
+      },
+      {
+        "id": "quest-betrayal",
+        "title": "Betrayal",
+        "description": "An ally turns against the group or hides dangerous secrets"
+      },
+      {
+        "id": "quest-power-struggle",
+        "title": "Power Struggle",
+        "description": "Rival factions compete for control over territory or influence"
+      },
+
+      {
+        "id": "quest-disappearance",
+        "title": "Disappearance",
+        "description": "Someone vanishes under strange circumstances"
+      },
+      {
+        "id": "quest-strange-sightings",
+        "title": "Strange Sightings",
+        "description": "Reports of unusual creatures or phenomena increase"
+      },
+      {
+        "id": "quest-hidden-truth",
+        "title": "Hidden Truth",
+        "description": "A secret lies beneath a seemingly normal situation"
+      },
+
+      {
+        "id": "quest-cleanup",
+        "title": "Cleanup",
+        "description": "Remove evidence of supernatural activity before exposure"
+      },
+      {
+        "id": "quest-coverup",
+        "title": "Cover-Up",
+        "description": "Manipulate events or information to maintain secrecy"
+      },
+      {
+        "id": "quest-containment",
+        "title": "Containment",
+        "description": "Prevent a threat from spreading or escalating"
+      },
+
+      {
+        "id": "quest-ritual",
+        "title": "Ritual Event",
+        "description": "A ritual is being performed, interrupted, or going wrong"
+      },
+      {
+        "id": "quest-manifestation",
+        "title": "Manifestation",
+        "description": "An entity appears or becomes active in the area"
+      },
+      {
+        "id": "quest-corruption",
+        "title": "Corruption Spread",
+        "description": "A force is slowly tainting people or environment"
+      },
+
+      {
+        "id": "quest-hunt",
+        "title": "Hunt",
+        "description": "Track and eliminate a dangerous entity"
+      },
+      {
+        "id": "quest-defense",
+        "title": "Defense",
+        "description": "Protect a person, place, or object from attack"
+      },
+      {
+        "id": "quest-ambush",
+        "title": "Ambush",
+        "description": "Prepare or survive a sudden attack"
+      },
+
+      {
+        "id": "quest-time-loop",
+        "title": "Time Loop",
+        "description": "Events repeat with subtle or escalating differences"
+      },
+      {
+        "id": "quest-reality-glitch",
+        "title": "Reality Glitch",
+        "description": "Physical laws behave inconsistently"
+      },
+      {
+        "id": "quest-liminal-space",
+        "title": "Liminal Intrusion",
+        "description": "A place becomes disconnected from normal reality"
+      },
+
+      {
+        "id": "quest-artifact",
+        "title": "Artifact Retrieval",
+        "description": "Recover or secure a powerful object"
+      },
+      {
+        "id": "quest-escort",
+        "title": "Escort",
+        "description": "Safely transport a person or item"
+      },
+      {
+        "id": "quest-theft",
+        "title": "Theft",
+        "description": "Steal or reclaim something valuable"
+      },
+
+      {
+        "id": "quest-haunting",
+        "title": "Haunting",
+        "description": "A location or person is plagued by a persistent presence"
+      },
+      {
+        "id": "quest-madness",
+        "title": "Madness",
+        "description": "People begin acting irrationally or dangerously"
+      },
+      {
+        "id": "quest-obsession",
+        "title": "Obsession",
+        "description": "An individual becomes fixated on something unnatural"
+      },
+
+      {
+        "id": "quest-outbreak",
+        "title": "Outbreak",
+        "description": "A condition or entity spreads rapidly"
+      },
+      {
+        "id": "quest-invasion",
+        "title": "Invasion",
+        "description": "Outside forces enter and disrupt the area"
+      },
+      {
+        "id": "quest-collapse",
+        "title": "Collapse",
+        "description": "A system, faction, or reality structure begins to fail"
+      }
+    ]
+  },
+  {
+    "id": "complication",
+    "title": "Complication",
+    "items": [
+      {
+        "id": "complication-bystanders",
+        "title": "Bystanders",
+        "description": "Civilians are present and at risk"
+      },
+      {
+        "id": "complication-authorities",
+        "title": "Authorities Involved",
+        "description": "Police or officials interfere or investigate"
+      },
+      {
+        "id": "complication-witness",
+        "title": "Witness",
+        "description": "Someone saw something they shouldn’t have"
+      },
+      {
+        "id": "complication-betrayal",
+        "title": "Internal Betrayal",
+        "description": "An ally is secretly working against the group"
+      },
+
+      {
+        "id": "complication-false-info",
+        "title": "False Information",
+        "description": "Key facts are wrong or misleading"
+      },
+      {
+        "id": "complication-missing-piece",
+        "title": "Missing Piece",
+        "description": "Critical information is unavailable"
+      },
+      {
+        "id": "complication-hidden-factor",
+        "title": "Hidden Factor",
+        "description": "An unknown element affects the situation"
+      },
+
+      {
+        "id": "complication-timer",
+        "title": "Time Limit",
+        "description": "The situation must be resolved quickly"
+      },
+      {
+        "id": "complication-escalation",
+        "title": "Escalation",
+        "description": "The problem worsens over time"
+      },
+      {
+        "id": "complication-recurrence",
+        "title": "Recurring Event",
+        "description": "The issue repeats in cycles"
+      },
+
+      {
+        "id": "complication-secondary-entity",
+        "title": "Secondary Entity",
+        "description": "Another creature is involved unexpectedly"
+      },
+      {
+        "id": "complication-corruption",
+        "title": "Corruption",
+        "description": "People or environment become tainted"
+      },
+      {
+        "id": "complication-uncontrolled-power",
+        "title": "Uncontrolled Power",
+        "description": "Magic or abilities behave unpredictably"
+      },
+
+      {
+        "id": "complication-hazard",
+        "title": "Environmental Hazard",
+        "description": "Dangerous surroundings complicate actions"
+      },
+      {
+        "id": "complication-isolation",
+        "title": "Isolation",
+        "description": "No communication or outside support"
+      },
+      {
+        "id": "complication-unstable-location",
+        "title": "Unstable Location",
+        "description": "The area itself is shifting or collapsing"
+      },
+
+      {
+        "id": "complication-injury",
+        "title": "Injury",
+        "description": "A character is physically compromised"
+      },
+      {
+        "id": "complication-emotional",
+        "title": "Emotional Trigger",
+        "description": "A situation affects someone psychologically"
+      },
+      {
+        "id": "complication-obsession",
+        "title": "Obsession",
+        "description": "A character becomes fixated on the situation"
+      },
+      {
+        "id": "complication-lack-resources",
+        "title": "Lack of Resources",
+        "description": "Equipment or tools are unavailable"
+      },
+      {
+        "id": "complication-damaged-tools",
+        "title": "Damaged Tools",
+        "description": "Gear fails or breaks"
+      },
+      {
+        "id": "complication-competition",
+        "title": "Competition",
+        "description": "Another group is pursuing the same goal"
+      },
+
+      {
+        "id": "complication-distortion",
+        "title": "Reality Distortion",
+        "description": "Perception or physics behave incorrectly"
+      },
+      {
+        "id": "complication-memory",
+        "title": "Memory Loss",
+        "description": "Events or knowledge are forgotten or altered"
+      },
+      {
+        "id": "complication-identity",
+        "title": "Identity Confusion",
+        "description": "People or entities are not what they seem"
+      },
+
+      {
+        "id": "complication-exposure",
+        "title": "Exposure Risk",
+        "description": "Supernatural secrecy is at risk"
+      },
+      {
+        "id": "complication-backlash",
+        "title": "Backlash",
+        "description": "Actions cause unintended consequences"
+      },
+      {
+        "id": "complication-persistent",
+        "title": "Persistent Effect",
+        "description": "The issue does not fully resolve"
+      }
+    ]
+  },
+  {
+    "id": "reward",
+    "title": "Reward",
+    "items": [
+      {
+        "id": "reward-money",
+        "title": "Money",
+        "description": "Direct financial gain or valuable currency"
+      },
+      {
+        "id": "reward-gear",
+        "title": "Equipment",
+        "description": "Weapons, tools, or specialized gear"
+      },
+      {
+        "id": "reward-artifact",
+        "title": "Artifact",
+        "description": "Rare or supernatural item"
+      },
+
+      {
+        "id": "reward-allies",
+        "title": "Allies",
+        "description": "New contacts or loyal supporters"
+      },
+      {
+        "id": "reward-status",
+        "title": "Status",
+        "description": "Recognition or elevated standing"
+      },
+      {
+        "id": "reward-favor",
+        "title": "Favor",
+        "description": "Owed debt from an influential figure"
+      },
+
+      {
+        "id": "reward-information",
+        "title": "Information",
+        "description": "Secrets, clues, or hidden truths"
+      },
+      {
+        "id": "reward-location",
+        "title": "Access",
+        "description": "Entry to restricted places or domains"
+      },
+      {
+        "id": "reward-lore",
+        "title": "Forbidden Lore",
+        "description": "Dangerous or rare knowledge"
+      },
+
+      {
+        "id": "reward-power",
+        "title": "Power",
+        "description": "Increase in supernatural ability or influence"
+      },
+      {
+        "id": "reward-blessing",
+        "title": "Blessing",
+        "description": "Temporary or permanent enhancement"
+      },
+      {
+        "id": "reward-bond",
+        "title": "Bond",
+        "description": "Connection to a spirit, entity, or force"
+      },
+
+      {
+        "id": "reward-territory",
+        "title": "Territory",
+        "description": "Control over a location or domain"
+      },
+      {
+        "id": "reward-resource",
+        "title": "Resource",
+        "description": "Ongoing access to materials or support"
+      },
+      {
+        "id": "reward-leverage",
+        "title": "Leverage",
+        "description": "Blackmail or control over others"
+      },
+
+      {
+        "id": "reward-closure",
+        "title": "Closure",
+        "description": "Resolution of personal story or trauma"
+      },
+      {
+        "id": "reward-redemption",
+        "title": "Redemption",
+        "description": "Chance to atone or improve"
+      },
+      {
+        "id": "reward-purpose",
+        "title": "New Purpose",
+        "description": "Clear direction or mission gained"
+      }
+    ]
+  },
+  {
+    "id": "danger-level",
+    "title": "Danger Level",
+    "items": [
+      {
+        "id": "danger-mortal",
+        "title": "Mortal",
+        "description": "Normal human-level threat",
+        "reference": "Hunter / Mortal"
+      },
+      {
+        "id": "danger-ghoul",
+        "title": "Enhanced",
+        "description": "Slightly supernatural or augmented threat",
+        "reference": "Ghoul / Kinfolk"
+      },
+
+      {
+        "id": "danger-neonate",
+        "title": "Neonate",
+        "description": "Entry-level supernatural entity",
+        "reference": "Young Vampire / Low Rank Garou"
+      },
+      {
+        "id": "danger-adept",
+        "title": "Adept",
+        "description": "Competent and dangerous supernatural",
+        "reference": "Mage Adept / Mid Rank Garou"
+      },
+
+      {
+        "id": "danger-elder",
+        "title": "Elder",
+        "description": "Highly experienced and powerful entity",
+        "reference": "Elder Vampire / High Rank Garou"
+      },
+      {
+        "id": "danger-ancient",
+        "title": "Ancient",
+        "description": "Very old and extremely dangerous",
+        "reference": "Methuselah / Ancient Spirit"
+      },
+
+      {
+        "id": "danger-antagonist",
+        "title": "Monstrous",
+        "description": "Overwhelming threat requiring coordination",
+        "reference": "Antediluvian Fragment / Incarna-level spirit"
+      },
+
+      {
+        "id": "danger-apocalyptic",
+        "title": "Apocalyptic",
+        "description": "World-altering or catastrophic threat",
+        "reference": "Wyrm Avatar / Celestial-level entity"
+      }
+    ]
+  }
+]

@@ -293,5 +293,164 @@
         "description": "Upright: Completion, achievement, fulfillment. Reversed: Incompletion, delay."
       }
     ]
+  },
+  {
+    "id": "sin",
+    "title": "Sin",
+    "items": [
+      {
+        "id": "sin-pride",
+        "title": "Pride",
+        "description": "Excessive belief in one’s own superiority"
+      },
+      {
+        "id": "sin-greed",
+        "title": "Greed",
+        "description": "Insatiable desire for wealth or power"
+      },
+      {
+        "id": "sin-wrath",
+        "title": "Wrath",
+        "description": "Uncontrolled anger and vengeance"
+      },
+      {
+        "id": "sin-envy",
+        "title": "Envy",
+        "description": "Resentment toward others’ success or possessions"
+      },
+      {
+        "id": "sin-lust",
+        "title": "Lust",
+        "description": "Obsession with desire or pleasure"
+      },
+      {
+        "id": "sin-gluttony",
+        "title": "Gluttony",
+        "description": "Overconsumption without restraint"
+      },
+      {
+        "id": "sin-sloth",
+        "title": "Sloth",
+        "description": "Avoidance of effort, apathy, or stagnation"
+      },
+
+      {
+        "id": "sin-obsession",
+        "title": "Obsession",
+        "description": "Fixation on a single idea or goal"
+      },
+      {
+        "id": "sin-cruelty",
+        "title": "Cruelty",
+        "description": "Taking pleasure in suffering"
+      },
+      {
+        "id": "sin-control",
+        "title": "Control",
+        "description": "Need to dominate others or situations"
+      },
+      {
+        "id": "sin-deceit",
+        "title": "Deceit",
+        "description": "Habitual lying and manipulation"
+      },
+      {
+        "id": "sin-ambition",
+        "title": "Ambition",
+        "description": "Relentless pursuit of power at any cost"
+      },
+      {
+        "id": "sin-despair",
+        "title": "Despair",
+        "description": "Loss of hope, spreading hopelessness to others"
+      },
+      {
+        "id": "sin-corruption",
+        "title": "Corruption",
+        "description": "Twisting purity into something darker"
+      },
+      {
+        "id": "sin-indulgence",
+        "title": "Indulgence",
+        "description": "Constant surrender to impulses and excess"
+      },
+      {
+        "id": "sin-nihilism",
+        "title": "Nihilism",
+        "description": "Belief that nothing has meaning or value"
+      },
+      {
+        "id": "sin-domination",
+        "title": "Domination",
+        "description": "Desire to control and subjugate others completely"
+      }
+    ]
+  },
+  {
+    "id": "virtue",
+    "title": "Virtue",
+    "items": [
+      {
+        "id": "virtue-humility",
+        "title": "Humility",
+        "description": "Freedom from pride and ego"
+      },
+      {
+        "id": "virtue-charity",
+        "title": "Charity",
+        "description": "Selfless love and compassion"
+      },
+      {
+        "id": "virtue-patience",
+        "title": "Patience",
+        "description": "Endurance without anger"
+      },
+      {
+        "id": "virtue-kindness",
+        "title": "Kindness",
+        "description": "Active goodwill toward others"
+      },
+      {
+        "id": "virtue-temperance",
+        "title": "Temperance",
+        "description": "Balance and self-restraint"
+      },
+      {
+        "id": "virtue-diligence",
+        "title": "Diligence",
+        "description": "Persistence and dedication"
+      },
+
+      {
+        "id": "virtue-justice",
+        "title": "Justice",
+        "description": "Fairness and rightful balance"
+      },
+      {
+        "id": "virtue-mercy",
+        "title": "Mercy",
+        "description": "Compassion over punishment"
+      },
+      {
+        "id": "virtue-faith",
+        "title": "Faith",
+        "description": "Unwavering trust in divine order"
+      },
+      {
+        "id": "virtue-hope",
+        "title": "Hope",
+        "description": "Inspiration and future promise"
+      },
+      {
+        "id": "virtue-wisdom",
+        "title": "Wisdom",
+        "description": "Deep understanding beyond knowledge"
+      },
+      {
+        "id": "virtue-purity",
+        "title": "Purity",
+        "description": "Freedom from corruption or distortion"
+      }
+    ]
   }
 ]

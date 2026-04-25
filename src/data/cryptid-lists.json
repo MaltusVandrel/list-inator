@@ -1,0 +1,323 @@
+[
+  {
+    "id": "cryptid",
+    "title": "Cryptid",
+    "items": [
+      {
+        "id": "cryptid-not-a-deer",
+        "title": "Not a Deer",
+        "description": "Animals, usually deer but any kind of prey sufices, they have faint humanoid characteristic and a very high and dark inteligence."
+      },
+      {
+        "id": "cryptid-slenderman",
+        "title": "Slenderman",
+        "description": "Supernatural creature of non finite power but criptic rules."
+      },
+      {
+        "id": "cryptid-bigfoot",
+        "title": "Bigfoot / Sasquatch",
+        "description": "Large, ape-like humanoid said to inhabit forests and wilderness areas"
+      },
+      {
+        "id": "cryptid-yeti",
+        "title": "Yeti",
+        "description": "Himalayan counterpart to Bigfoot, associated with snow and mountains"
+      },
+      {
+        "id": "cryptid-chupacabra",
+        "title": "Chupacabra",
+        "description": "Creature blamed for draining blood from livestock"
+      },
+      {
+        "id": "cryptid-mothman",
+        "title": "Mothman",
+        "description": "Winged humanoid associated with omens and disasters"
+      },
+      {
+        "id": "cryptid-jersey-devil",
+        "title": "Jersey Devil",
+        "description": "Winged, horse-headed creature said to haunt forests"
+      },
+      {
+        "id": "cryptid-wendigo",
+        "title": "Wendigo",
+        "description": "Gaunt, monstrous being tied to hunger, cold, and cannibalism"
+      },
+      {
+        "id": "cryptid-skinwalker",
+        "title": "Skinwalker",
+        "description": "Shapeshifting entity from folklore, often mimicking humans or animals"
+      },
+      {
+        "id": "cryptid-goatman",
+        "title": "Goatman",
+        "description": "Humanoid with goat-like features, often linked to rural legends"
+      },
+
+      {
+        "id": "cryptid-loch-ness",
+        "title": "Loch Ness Monster",
+        "description": "Large aquatic creature said to inhabit a Scottish lake"
+      },
+      {
+        "id": "cryptid-champ",
+        "title": "Champ",
+        "description": "Lake monster reported in North American waters"
+      },
+      {
+        "id": "cryptid-ogopogo",
+        "title": "Ogopogo",
+        "description": "Serpentine lake creature from Canadian folklore"
+      },
+
+      {
+        "id": "cryptid-thunderbird",
+        "title": "Thunderbird",
+        "description": "Massive bird associated with storms and power"
+      },
+      {
+        "id": "cryptid-ropen",
+        "title": "Ropen",
+        "description": "Flying creature said to glow in the dark"
+      },
+
+      {
+        "id": "cryptid-dogman",
+        "title": "Dogman",
+        "description": "Wolf-like humanoid seen walking upright"
+      },
+      {
+        "id": "cryptid-lizardman",
+        "title": "Lizardman",
+        "description": "Reptilian humanoid associated with swamps"
+      },
+
+      {
+        "id": "cryptid-shadow-people",
+        "title": "Shadow People",
+        "description": "Dark humanoid figures seen at the edge of perception"
+      },
+      {
+        "id": "cryptid-black-eyed-children",
+        "title": "Black-Eyed Children",
+        "description": "Strange childlike figures with entirely black eyes"
+      },
+
+      {
+        "id": "cryptid-flatwoods",
+        "title": "Flatwoods Monster",
+        "description": "Alien-like entity with unusual shape and glowing features"
+      },
+      {
+        "id": "cryptid-fresno-nightcrawler",
+        "title": "Fresno Nightcrawler",
+        "description": "Minimalistic humanoid figure with long legs and no visible arms"
+      },
+      {
+        "id": "cryptid-fresno-nightcrawler",
+        "title": "Fresno Nightcrawler",
+        "description": "Minimalistic humanoid figure with long legs and no visible arms"
+      },
+      {
+        "id": "arg-mandela-catalog",
+        "title": "Mandela Catalogue",
+        "description": "World plagued by 'Alternates'—entities that mimic humans and psychologically torment victims"
+      },
+      {
+        "id": "arg-local58",
+        "title": "Local 58",
+        "description": "Broadcast signal hijacked by cosmic or lunar influence causing paranoia and mass manipulation"
+      },
+      {
+        "id": "arg-gemini-home",
+        "title": "Gemini Home Entertainment",
+        "description": "Nature and space corrupted by alien entities infiltrating reality through media"
+      },
+      {
+        "id": "arg-monument-mythos",
+        "title": "The Monument Mythos",
+        "description": "Distorted alternate history with living monuments and hidden cosmic forces"
+      },
+      {
+        "id": "arg-walten-files",
+        "title": "The Walten Files",
+        "description": "Haunted animatronics and fragmented memories tied to disappearances"
+      },
+      {
+        "id": "arg-backrooms",
+        "title": "The Backrooms",
+        "description": "Endless liminal space filled with entities and psychological decay"
+      },
+      {
+        "id": "arg-meat-park",
+        "title": "Meat Park",
+        "description": "Grotesque theme park blending flesh, identity loss, and surreal transformation"
+      },
+      {
+        "id": "arg-angel-hare",
+        "title": "Angel Hare",
+        "description": "Religious-themed series with unsettling undertones and hidden corruption"
+      },
+      {
+        "id": "arg-white-stag",
+        "title": "The White Stag Education",
+        "description": "Educational system masking deeper psychological manipulation and control"
+      },
+      {
+        "id": "arg-kraina-grzybow",
+        "title": "Kraina Grzybów (Mushroom Land)",
+        "description": "Psychedelic children’s media hiding disturbing and surreal undertones"
+      },
+      {
+        "id": "arg-daisy-brown",
+        "title": "Daisy Brown",
+        "description": "Lonely girl documenting strange creature development and isolation"
+      },
+      {
+        "id": "arg-this-house",
+        "title": "This House Has People In It",
+        "description": "Surveillance-style horror revealing hidden abnormalities in everyday life"
+      },
+      {
+        "id": "arg-petscop",
+        "title": "Petscop",
+        "description": "Disturbing game uncovering trauma, hidden messages, and lost children"
+      },
+      {
+        "id": "arg-smile-tapes",
+        "title": "The Smile Tapes",
+        "description": "Infection spread through media causing psychological and physical breakdown"
+      },
+      {
+        "id": "arg-woodlands",
+        "title": "Woodlands National Park",
+        "description": "Park broadcasts hiding disappearances and unnatural wildlife"
+      },
+      {
+        "id": "cryptid-angelogy",
+        "title": "Angelogy",
+        "description": "Strange rules for beings made for guilty people and their yearning for punishment"
+      },
+      {
+        "id": "cryptid-existential-terror",
+        "title": "Existential Terror",
+        "description": "Unavoidable and uncaring event, a creeping doom took shape."
+      },
+      {
+        "id": "cryptid-eldrich-horror",
+        "title": "Eldrich Horror",
+        "description": "An unknoable entity touches reality with curiosity or cruelty"
+      }
+    ]
+  },
+  {
+    "id": "entity-binding",
+    "title": "Binding / Correlation",
+    "items": [
+      {
+        "id": "bind-self",
+        "title": "Self-Sustained",
+        "description": "Exists independently without needing external anchors"
+      },
+
+      {
+        "id": "bind-object",
+        "title": "Object-Bound",
+        "description": "Tied to a specific item or artifact"
+      },
+      {
+        "id": "bind-memento",
+        "title": "Memento-Bound",
+        "description": "Anchored to an object with emotional or symbolic significance"
+      },
+
+      {
+        "id": "bind-place",
+        "title": "Place-Bound",
+        "description": "Linked to a specific location or territory"
+      },
+      {
+        "id": "bind-territory",
+        "title": "Territory-Bound",
+        "description": "Influence extends across a defined area it controls"
+      },
+
+      {
+        "id": "bind-person",
+        "title": "Person-Bound",
+        "description": "Attached to a specific individual"
+      },
+      {
+        "id": "bind-bloodline",
+        "title": "Bloodline-Bound",
+        "description": "Connected to a family or lineage"
+      },
+
+      {
+        "id": "bind-ritual",
+        "title": "Ritual-Bound",
+        "description": "Sustained by an ongoing or completed ritual"
+      },
+      {
+        "id": "bind-contract",
+        "title": "Contract-Bound",
+        "description": "Exists through a pact, deal, or agreement"
+      },
+
+      {
+        "id": "bind-belief",
+        "title": "Belief-Bound",
+        "description": "Sustained by faith, myth, or collective belief"
+      },
+      {
+        "id": "bind-cult",
+        "title": "Cult-Bound",
+        "description": "Maintained by a group of followers or worshippers"
+      },
+
+      {
+        "id": "bind-emotion",
+        "title": "Emotion-Bound",
+        "description": "Feeds on or is sustained by a specific emotion"
+      },
+      {
+        "id": "bind-trauma",
+        "title": "Trauma-Bound",
+        "description": "Tied to a specific event of suffering or tragedy"
+      },
+
+      {
+        "id": "bind-event",
+        "title": "Event-Bound",
+        "description": "Linked to a recurring or significant event"
+      },
+      {
+        "id": "bind-time",
+        "title": "Time-Bound",
+        "description": "Only manifests under certain temporal conditions"
+      },
+
+      {
+        "id": "bind-medium",
+        "title": "Medium-Bound",
+        "description": "Exists through a specific medium (TV, radio, internet)"
+      },
+      {
+        "id": "bind-signal",
+        "title": "Signal-Bound",
+        "description": "Spreads through transmissions or information channels"
+      },
+
+      {
+        "id": "bind-threshold",
+        "title": "Threshold-Bound",
+        "description": "Tied to boundaries like doors, crossings, or liminal spaces"
+      },
+      {
+        "id": "bind-path",
+        "title": "Path-Bound",
+        "description": "Moves along specific routes or patterns"
+      }
+    ]
+  }
+]

@@ -232,6 +232,612 @@
         "id": "adv-reputation",
         "title": "Reputation",
         "description": "A widely known identity within Kindred society"
+      },
+      {
+        "id": "char-strong",
+        "title": "Strong",
+        "description": "Above-average physical strength"
+      },
+      {
+        "id": "char-agile",
+        "title": "Agile",
+        "description": "Quick and flexible movement"
+      },
+      {
+        "id": "char-tough",
+        "title": "Tough",
+        "description": "Resistant to injury and fatigue"
+      },
+
+      {
+        "id": "char-perceptive",
+        "title": "Perceptive",
+        "description": "Notices details others miss"
+      },
+      {
+        "id": "char-intelligent",
+        "title": "Intelligent",
+        "description": "Analytical and quick-thinking"
+      },
+      {
+        "id": "char-intuitive",
+        "title": "Intuitive",
+        "description": "Relies on instinct and gut feeling"
+      },
+
+      {
+        "id": "char-charismatic",
+        "title": "Charismatic",
+        "description": "Naturally persuasive and likable"
+      },
+      {
+        "id": "char-intimidating",
+        "title": "Intimidating",
+        "description": "Commands fear or respect"
+      },
+      {
+        "id": "char-composed",
+        "title": "Composed",
+        "description": "Maintains calm under pressure"
+      },
+
+      {
+        "id": "char-determined",
+        "title": "Determined",
+        "description": "Pushes forward despite obstacles"
+      },
+      {
+        "id": "char-adaptable",
+        "title": "Adaptable",
+        "description": "Adjusts quickly to new situations"
+      },
+      {
+        "id": "char-observant",
+        "title": "Observant",
+        "description": "Constantly aware of surroundings"
+      },
+      {
+        "id": "adv-allies",
+        "title": "Allies",
+        "description": "Reliable people who provide assistance"
+      },
+      {
+        "id": "adv-contacts",
+        "title": "Contacts",
+        "description": "Network of information sources"
+      },
+      {
+        "id": "adv-resources",
+        "title": "Resources",
+        "description": "Access to money, gear, or assets"
+      },
+
+      {
+        "id": "adv-safehouse",
+        "title": "Safehouse",
+        "description": "Secure place to hide or recover"
+      },
+      {
+        "id": "adv-gear",
+        "title": "Specialized Gear",
+        "description": "Access to rare or powerful equipment"
+      },
+      {
+        "id": "adv-training",
+        "title": "Training",
+        "description": "Formal instruction in useful skills"
+      },
+
+      {
+        "id": "adv-iron-will",
+        "title": "Iron Will",
+        "description": "Resistant to fear and mental influence"
+      },
+      {
+        "id": "adv-lucky",
+        "title": "Lucky",
+        "description": "Fortune favors this individual"
+      },
+      {
+        "id": "adv-fast-learner",
+        "title": "Fast Learner",
+        "description": "Improves skills quickly"
+      },
+
+      {
+        "id": "adv-streetwise",
+        "title": "Streetwise",
+        "description": "Knows how to survive in dangerous environments"
+      },
+      {
+        "id": "adv-investigator",
+        "title": "Investigator",
+        "description": "Skilled at uncovering hidden truths"
+      },
+      {
+        "id": "adv-medic",
+        "title": "Medic",
+        "description": "Able to treat injuries effectively"
+      },
+
+      {
+        "id": "adv-hunter-instinct",
+        "title": "Hunter Instinct",
+        "description": "Natural sense for detecting supernatural threats"
+      },
+      {
+        "id": "adv-true-faith",
+        "title": "True Faith",
+        "description": "Faith provides protection against supernatural forces"
+      },
+      {
+        "id": "adv-edge-access",
+        "title": "Edge User",
+        "description": "Access to minor supernatural hunter abilities"
+      },
+      {
+        "id": "char-primal",
+        "title": "Primal",
+        "description": "Strong connection to instinct and the wild"
+      },
+      {
+        "id": "char-ferocious",
+        "title": "Ferocious",
+        "description": "Naturally aggressive and deadly in combat"
+      },
+      {
+        "id": "char-enduring",
+        "title": "Enduring",
+        "description": "Exceptional stamina and resilience"
+      },
+
+      {
+        "id": "char-keen-senses",
+        "title": "Keen Senses",
+        "description": "Heightened perception beyond human limits"
+      },
+      {
+        "id": "char-spirit-aware",
+        "title": "Spirit-Aware",
+        "description": "Sensitive to spirits and the Umbra"
+      },
+      {
+        "id": "char-instinctive",
+        "title": "Instinctive",
+        "description": "Acts quickly on gut reactions"
+      },
+
+      {
+        "id": "char-alpha",
+        "title": "Alpha Presence",
+        "description": "Naturally dominant and commanding"
+      },
+      {
+        "id": "char-pack-bonded",
+        "title": "Pack-Bonded",
+        "description": "Strong loyalty and coordination with allies"
+      },
+      {
+        "id": "char-territorial",
+        "title": "Territorial",
+        "description": "Deep attachment to land or domain"
+      },
+
+      {
+        "id": "char-spiritual",
+        "title": "Spiritual",
+        "description": "Strong connection to Gaia and spirit world"
+      },
+      {
+        "id": "char-adaptive",
+        "title": "Adaptive Shifter",
+        "description": "Efficiently uses multiple forms"
+      },
+      {
+        "id": "char-persistent",
+        "title": "Relentless",
+        "description": "Refuses to give up once engaged"
+      },
+      {
+        "id": "adv-pack",
+        "title": "Pack Support",
+        "description": "Part of a coordinated and loyal pack"
+      },
+      {
+        "id": "adv-totem",
+        "title": "Totem Bond",
+        "description": "Spiritual patron grants guidance and power"
+      },
+      {
+        "id": "adv-rites",
+        "title": "Rite Knowledge",
+        "description": "Access to sacred rituals and traditions"
+      },
+
+      {
+        "id": "adv-gifts",
+        "title": "Gifted",
+        "description": "Access to supernatural Gifts"
+      },
+      {
+        "id": "adv-rage-control",
+        "title": "Rage Control",
+        "description": "Better control over berserk states"
+      },
+      {
+        "id": "adv-fast-healing",
+        "title": "Regeneration",
+        "description": "Rapid healing even in combat"
+      },
+
+      {
+        "id": "adv-umbra",
+        "title": "Umbra Walker",
+        "description": "Moves easily between worlds"
+      },
+      {
+        "id": "adv-spirit-ally",
+        "title": "Spirit Ally",
+        "description": "Allied spirit provides assistance"
+      },
+      {
+        "id": "adv-territory",
+        "title": "Territory",
+        "description": "Controls or protects a domain"
+      },
+
+      {
+        "id": "adv-kinfolk",
+        "title": "Kinfolk Network",
+        "description": "Support from human or wolf relatives"
+      },
+      {
+        "id": "adv-warrior",
+        "title": "Battle-Hardened",
+        "description": "Experienced in combat against threats"
+      },
+      {
+        "id": "adv-pure-breed",
+        "title": "Pure Breed",
+        "description": "Strong lineage recognized by other Garou"
+      },
+      {
+        "id": "char-anchored",
+        "title": "Strongly Anchored",
+        "description": "Deep connection to the living world"
+      },
+      {
+        "id": "char-driven",
+        "title": "Driven",
+        "description": "Powered by intense passions"
+      },
+      {
+        "id": "char-resilient",
+        "title": "Resilient Psyche",
+        "description": "Resists Shadow influence"
+      },
+
+      {
+        "id": "char-perceptive",
+        "title": "Death-Sight",
+        "description": "Keen awareness of souls and decay"
+      },
+      {
+        "id": "char-empathic",
+        "title": "Empathic",
+        "description": "Strongly feels emotions of others"
+      },
+      {
+        "id": "char-obsessive",
+        "title": "Obsessive",
+        "description": "Fixates intensely on goals or ties"
+      },
+
+      {
+        "id": "char-subtle",
+        "title": "Subtle",
+        "description": "Moves unseen and unnoticed"
+      },
+      {
+        "id": "char-manifest",
+        "title": "Manifesting",
+        "description": "Easier interaction with the living world"
+      },
+
+      {
+        "id": "char-spiritual",
+        "title": "Spirit-Touched",
+        "description": "Strong connection to the Underworld"
+      },
+      {
+        "id": "char-adapted",
+        "title": "Underworld Adapted",
+        "description": "Comfortable navigating the deadlands"
+      },
+      {
+        "id": "char-relentless",
+        "title": "Relentless",
+        "description": "Persists despite damage or despair"
+      },
+      {
+        "id": "adv-fetters",
+        "title": "Strong Fetters",
+        "description": "Stable anchors to the living world"
+      },
+      {
+        "id": "adv-passions",
+        "title": "Intense Passions",
+        "description": "Powerful emotional drives fuel existence"
+      },
+      {
+        "id": "adv-pathos",
+        "title": "Pathos Reserve",
+        "description": "Greater energy for powers and actions"
+      },
+
+      {
+        "id": "adv-arcanoi",
+        "title": "Arcanoi Mastery",
+        "description": "Skilled use of supernatural abilities"
+      },
+      {
+        "id": "adv-manifest",
+        "title": "Manifestation",
+        "description": "Can interact with the physical world"
+      },
+      {
+        "id": "adv-haunt",
+        "title": "Haunting Presence",
+        "description": "Strong influence over a location or target"
+      },
+
+      {
+        "id": "adv-guild",
+        "title": "Guild Affiliation",
+        "description": "Support and training from a guild"
+      },
+      {
+        "id": "adv-allies",
+        "title": "Underworld Allies",
+        "description": "Connections among other wraiths"
+      },
+      {
+        "id": "adv-relic",
+        "title": "Relic Possession",
+        "description": "Owns useful objects from the deadlands"
+      },
+
+      {
+        "id": "adv-shadow-control",
+        "title": "Shadow Control",
+        "description": "Better ability to resist or manage Shadow"
+      },
+      {
+        "id": "adv-tempest",
+        "title": "Tempest Navigator",
+        "description": "Moves safely through the Tempest"
+      },
+      {
+        "id": "adv-memory",
+        "title": "Memory Stability",
+        "description": "Retains identity and past clearly"
+      },
+      {
+        "id": "char-radiant",
+        "title": "Radiant",
+        "description": "Emits a powerful and inspiring presence"
+      },
+      {
+        "id": "char-serene",
+        "title": "Serene",
+        "description": "Calm and emotionally controlled"
+      },
+      {
+        "id": "char-resolute",
+        "title": "Resolute",
+        "description": "Unwavering in purpose and duty"
+      },
+
+      {
+        "id": "char-perceptive",
+        "title": "All-Seeing",
+        "description": "Sees truth beyond illusion"
+      },
+      {
+        "id": "char-wise",
+        "title": "Wise",
+        "description": "Deep understanding of reality and purpose"
+      },
+      {
+        "id": "char-judging",
+        "title": "Judging",
+        "description": "Naturally evaluates morality and action"
+      },
+
+      {
+        "id": "char-commanding",
+        "title": "Commanding",
+        "description": "Authority recognized instinctively"
+      },
+      {
+        "id": "char-protective",
+        "title": "Protective",
+        "description": "Driven to defend others"
+      },
+      {
+        "id": "char-pure",
+        "title": "Pure",
+        "description": "Uncorrupted and aligned with higher order"
+      },
+
+      {
+        "id": "char-structured",
+        "title": "Structured",
+        "description": "Acts within defined roles and systems"
+      },
+      {
+        "id": "char-eternal",
+        "title": "Eternal",
+        "description": "Detached from mortal concerns"
+      },
+      {
+        "id": "adv-divine-purpose",
+        "title": "Divine Purpose",
+        "description": "Clear mission grants power and focus"
+      },
+      {
+        "id": "adv-grace",
+        "title": "Grace",
+        "description": "Source of celestial power and resilience"
+      },
+      {
+        "id": "adv-aura",
+        "title": "Holy Aura",
+        "description": "Presence inspires or repels others"
+      },
+
+      {
+        "id": "adv-miracles",
+        "title": "Miracles",
+        "description": "Can perform supernatural acts aligned with purpose"
+      },
+      {
+        "id": "adv-healing",
+        "title": "Healing Touch",
+        "description": "Restores body and spirit"
+      },
+      {
+        "id": "adv-judgment",
+        "title": "Divine Judgment",
+        "description": "Can discern truth and guilt"
+      },
+
+      {
+        "id": "adv-flight",
+        "title": "Wings of Light",
+        "description": "Flight or rapid movement"
+      },
+      {
+        "id": "adv-protection",
+        "title": "Sanctuary",
+        "description": "Creates safe or sacred spaces"
+      },
+
+      {
+        "id": "adv-host",
+        "title": "Celestial Host",
+        "description": "Supported by other angels or divine forces"
+      },
+      {
+        "id": "adv-faith",
+        "title": "Faith Empowerment",
+        "description": "Strength increases with belief of others"
+      },
+      {
+        "id": "char-tempting",
+        "title": "Tempting",
+        "description": "Naturally manipulates desire"
+      },
+      {
+        "id": "char-passionate",
+        "title": "Passionate",
+        "description": "Driven by intense emotion"
+      },
+      {
+        "id": "char-willful",
+        "title": "Willful",
+        "description": "Strong independent will"
+      },
+
+      {
+        "id": "char-cunning",
+        "title": "Cunning",
+        "description": "Skilled in manipulation and strategy"
+      },
+      {
+        "id": "char-predatory",
+        "title": "Predatory",
+        "description": "Sees others as targets or tools"
+      },
+      {
+        "id": "char-charismatic",
+        "title": "Charismatic",
+        "description": "Draws others in easily"
+      },
+
+      {
+        "id": "char-dominant",
+        "title": "Dominant",
+        "description": "Seeks control and authority"
+      },
+      {
+        "id": "char-corrupting",
+        "title": "Corrupting",
+        "description": "Twists others over time"
+      },
+      {
+        "id": "char-adaptive",
+        "title": "Adaptive",
+        "description": "Quickly changes behavior or form"
+      },
+
+      {
+        "id": "char-rebellious",
+        "title": "Rebellious",
+        "description": "Rejects imposed structure"
+      },
+      {
+        "id": "char-obsessive",
+        "title": "Obsessive",
+        "description": "Fixates on goals or desires"
+      },
+      {
+        "id": "adv-torment",
+        "title": "Torment Power",
+        "description": "Greater destructive or corruptive ability"
+      },
+      {
+        "id": "adv-pact",
+        "title": "Pact Maker",
+        "description": "Can bind mortals through deals"
+      },
+      {
+        "id": "adv-possession",
+        "title": "Possession",
+        "description": "Uses mortal bodies as vessels"
+      },
+
+      {
+        "id": "adv-influence",
+        "title": "Influence",
+        "description": "Manipulates individuals or groups"
+      },
+      {
+        "id": "adv-corruption",
+        "title": "Corruption",
+        "description": "Gradually twists others to their will"
+      },
+
+      {
+        "id": "adv-apocalyptic",
+        "title": "Apocalyptic Form",
+        "description": "Transforms into true demonic shape"
+      },
+      {
+        "id": "adv-resilience",
+        "title": "Infernal Resilience",
+        "description": "Hard to destroy permanently"
+      },
+
+      {
+        "id": "adv-cult",
+        "title": "Cult Following",
+        "description": "Supported by devoted followers"
+      },
+      {
+        "id": "adv-fear",
+        "title": "Fear Aura",
+        "description": "Instills dread in others"
       }
     ]
   },
@@ -239,6 +845,218 @@
     "id": "wod-flaw",
     "title": "Flaw",
     "items": [
+      {
+        "id": "flaw-bound-duty",
+        "title": "Bound by Duty",
+        "description": "Cannot act outside divine purpose"
+      },
+      {
+        "id": "flaw-inflexible",
+        "title": "Inflexible",
+        "description": "Struggles to adapt to unexpected situations"
+      },
+      {
+        "id": "flaw-distant",
+        "title": "Distant",
+        "description": "Detached from human emotion"
+      },
+
+      {
+        "id": "flaw-restricted",
+        "title": "Restricted Power",
+        "description": "Limited in how power can be used"
+      },
+      {
+        "id": "flaw-faith-dependent",
+        "title": "Faith Dependent",
+        "description": "Weakens without belief or purpose"
+      },
+
+      {
+        "id": "flaw-mercy-conflict",
+        "title": "Mercy Conflict",
+        "description": "Struggles between justice and compassion"
+      },
+      {
+        "id": "flaw-fall-risk",
+        "title": "Fall Risk",
+        "description": "Can become corrupted if deviating from purpose"
+      },
+
+      {
+        "id": "flaw-oathbound",
+        "title": "Oathbound",
+        "description": "Restricted by sacred promises"
+      },
+      {
+        "id": "flaw-torment",
+        "title": "High Torment",
+        "description": "Powers become unstable and destructive"
+      },
+      {
+        "id": "flaw-addicted",
+        "title": "Addicted",
+        "description": "Dependent on emotions, faith, or souls"
+      },
+      {
+        "id": "flaw-obsession",
+        "title": "Obsessive",
+        "description": "Fixated on a specific desire"
+      },
+
+      {
+        "id": "flaw-bound",
+        "title": "Bound",
+        "description": "Restricted by summoning, pact, or object"
+      },
+      {
+        "id": "flaw-ban",
+        "title": "Ban",
+        "description": "Limited by specific weaknesses or rules"
+      },
+
+      {
+        "id": "flaw-unstable",
+        "title": "Unstable Form",
+        "description": "Difficulty maintaining control over true form"
+      },
+      {
+        "id": "flaw-hunted",
+        "title": "Hunted",
+        "description": "Targeted by hunters or angels"
+      },
+
+      {
+        "id": "flaw-fractured",
+        "title": "Fractured Identity",
+        "description": "Struggles with conflicting desires or memories"
+      },
+      {
+        "id": "flaw-weak-fetters",
+        "title": "Weak Fetters",
+        "description": "Unstable connection to the living world"
+      },
+      {
+        "id": "flaw-fading",
+        "title": "Fading",
+        "description": "Gradually losing presence and identity"
+      },
+      {
+        "id": "flaw-forgotten",
+        "title": "Forgotten",
+        "description": "No one remembers them, weakening existence"
+      },
+
+      {
+        "id": "flaw-shadow-strong",
+        "title": "Dominant Shadow",
+        "description": "Shadow frequently interferes"
+      },
+      {
+        "id": "flaw-harrowed",
+        "title": "Harrowed Mind",
+        "description": "Traumatized by inner torment"
+      },
+      {
+        "id": "flaw-obsession",
+        "title": "Obsessive",
+        "description": "Cannot let go of a specific fixation"
+      },
+
+      {
+        "id": "flaw-bound",
+        "title": "Over-Bound",
+        "description": "Cannot leave a specific location or object"
+      },
+      {
+        "id": "flaw-haunted",
+        "title": "Haunted Echoes",
+        "description": "Relives moments from life repeatedly"
+      },
+      {
+        "id": "flaw-identity-loss",
+        "title": "Identity Loss",
+        "description": "Memories and personality degrade"
+      },
+
+      {
+        "id": "flaw-tempest",
+        "title": "Tempest Marked",
+        "description": "Attracts storms or dangers in the Tempest"
+      },
+      {
+        "id": "flaw-enemy",
+        "title": "Underworld Enemy",
+        "description": "Hunted by other wraiths or spectres"
+      },
+      {
+        "id": "flaw-oblivion",
+        "title": "Oblivion Touched",
+        "description": "Drawn toward destruction and annihilation"
+      },
+      {
+        "id": "flaw-rageful",
+        "title": "Uncontrolled Rage",
+        "description": "Prone to losing control in combat"
+      },
+      {
+        "id": "flaw-frenzy",
+        "title": "Frenzy-Prone",
+        "description": "Easily enters berserk states"
+      },
+      {
+        "id": "flaw-bloodthirsty",
+        "title": "Bloodthirsty",
+        "description": "Struggles to stop once violence begins"
+      },
+
+      {
+        "id": "flaw-wyrm-taint",
+        "title": "Wyrm-Tainted",
+        "description": "Carries corruption that others can sense"
+      },
+      {
+        "id": "flaw-harbored-hate",
+        "title": "Hatred",
+        "description": "Driven by intense prejudice or anger"
+      },
+      {
+        "id": "flaw-cursed-lineage",
+        "title": "Cursed Lineage",
+        "description": "Ancestral weakness or stigma"
+      },
+
+      {
+        "id": "flaw-lone-wolf",
+        "title": "Lone Wolf",
+        "description": "Struggles to function within a pack"
+      },
+      {
+        "id": "flaw-outcast",
+        "title": "Outcast",
+        "description": "Rejected or distrusted by Garou society"
+      },
+      {
+        "id": "flaw-oathbound",
+        "title": "Oathbound",
+        "description": "Restricted by strict vows or duties"
+      },
+
+      {
+        "id": "flaw-spirit-ban",
+        "title": "Spirit Ban",
+        "description": "Bound by supernatural restriction or taboo"
+      },
+      {
+        "id": "flaw-territorial",
+        "title": "Over-Territorial",
+        "description": "Cannot leave or abandon claimed land"
+      },
+      {
+        "id": "flaw-hunted",
+        "title": "Hunted",
+        "description": "Targeted by enemies or hunters"
+      },
       {
         "id": "flaw-bane",
         "title": "Bane",
@@ -476,192 +1294,85 @@
         "id": "flaw-spirit-tied",
         "title": "Spirit-Tied",
         "description": "You are bound to a supernatural entity"
-      }
-    ]
-  },
-  {
-    "id": "wod-background",
-    "title": "Background",
-    "items": [
-      {
-        "id": "bg-regular-worker",
-        "title": "Minial Laborer",
-        "description": "Work with a back breaking or mind numbing job to survive"
       },
       {
-        "id": "bg-street-urchin",
-        "title": "Street Urchin",
-        "description": "Raised on the streets, surviving through wit, theft, and instinct"
+        "id": "flaw-weak",
+        "title": "Physically Weak",
+        "description": "Below-average strength"
       },
       {
-        "id": "bg-criminal",
-        "title": "Criminal Underworld",
-        "description": "Connected to gangs, organized crime, or illegal operations"
+        "id": "flaw-fragile",
+        "title": "Fragile",
+        "description": "Easily injured or fatigued"
       },
       {
-        "id": "bg-homeless",
-        "title": "Homeless Drifter",
-        "description": "Living without stable shelter, moving from place to place"
+        "id": "flaw-clumsy",
+        "title": "Clumsy",
+        "description": "Poor coordination"
+      },
+
+      {
+        "id": "flaw-naive",
+        "title": "Naive",
+        "description": "Too trusting or inexperienced"
       },
       {
-        "id": "bg-laborer",
-        "title": "Working Class Laborer",
-        "description": "Blue-collar worker with practical skills and endurance"
+        "id": "flaw-paranoid",
+        "title": "Paranoid",
+        "description": "Distrusts others excessively"
       },
       {
-        "id": "bg-soldier",
-        "title": "Soldier / Veteran",
-        "description": "Trained in combat, shaped by war or military service"
+        "id": "flaw-impulsive",
+        "title": "Impulsive",
+        "description": "Acts without thinking"
+      },
+
+      {
+        "id": "flaw-addiction",
+        "title": "Addiction",
+        "description": "Dependent on a substance or behavior"
       },
       {
-        "id": "bg-police",
-        "title": "Law Enforcement",
-        "description": "Background in policing, investigation, or security"
+        "id": "flaw-obsessed",
+        "title": "Obsessed",
+        "description": "Fixated on a specific goal or idea"
       },
       {
-        "id": "bg-detective",
-        "title": "Investigator",
-        "description": "Skilled in uncovering secrets and solving mysteries"
+        "id": "flaw-guilt",
+        "title": "Guilt-Ridden",
+        "description": "Haunted by past actions"
+      },
+
+      {
+        "id": "flaw-hunted",
+        "title": "Hunted",
+        "description": "Targeted by enemies or supernatural forces"
       },
       {
-        "id": "bg-academic",
-        "title": "Academic Scholar",
-        "description": "Educated in universities, focused on knowledge and research"
+        "id": "flaw-marked",
+        "title": "Marked",
+        "description": "Easily detectable by supernatural entities"
       },
       {
-        "id": "bg-scientist",
-        "title": "Scientist",
-        "description": "Engaged in research, experimentation, or technical innovation"
+        "id": "flaw-cursed",
+        "title": "Cursed",
+        "description": "Affected by ongoing bad luck or supernatural effects"
+      },
+
+      {
+        "id": "flaw-lone-wolf",
+        "title": "Lone Wolf",
+        "description": "Struggles to work with others"
       },
       {
-        "id": "bg-doctor",
-        "title": "Medical Professional",
-        "description": "Trained in medicine, anatomy, and healthcare"
+        "id": "flaw-dependent",
+        "title": "Dependent",
+        "description": "Relies heavily on others or something external"
       },
       {
-        "id": "bg-lawyer",
-        "title": "Legal Professional",
-        "description": "Experienced in law, courts, and legal manipulation"
-      },
-      {
-        "id": "bg-politician",
-        "title": "Politician",
-        "description": "Operates within systems of governance and public influence"
-      },
-      {
-        "id": "bg-aristocrat",
-        "title": "Aristocrat",
-        "description": "Born into wealth, status, and social privilege"
-      },
-      {
-        "id": "bg-entrepreneur",
-        "title": "Entrepreneur",
-        "description": "Built wealth through business ventures and risk-taking"
-      },
-      {
-        "id": "bg-celebrity",
-        "title": "Celebrity",
-        "description": "Public figure with fame and social visibility"
-      },
-      {
-        "id": "bg-artist",
-        "title": "Artist",
-        "description": "Creative individual expressing through art, music, or performance"
-      },
-      {
-        "id": "bg-journalist",
-        "title": "Journalist",
-        "description": "Seeker of truth, working in media or reporting"
-      },
-      {
-        "id": "bg-hacker",
-        "title": "Hacker",
-        "description": "Technically skilled in computers, networks, and digital intrusion"
-      },
-      {
-        "id": "bg-cultist",
-        "title": "Cult Member",
-        "description": "Part of a secretive or esoteric belief group"
-      },
-      {
-        "id": "bg-clergy",
-        "title": "Religious Clergy",
-        "description": "Raised or working within organized religion"
-      },
-      {
-        "id": "bg-occultist",
-        "title": "Occultist",
-        "description": "Student or practitioner of hidden and forbidden knowledge"
-      },
-      {
-        "id": "bg-conspiracy",
-        "title": "Conspiracy Insider",
-        "description": "Aware of hidden truths behind society or the supernatural"
-      },
-      {
-        "id": "bg-survivor",
-        "title": "Trauma Survivor",
-        "description": "Endured catastrophic events that shaped resilience"
-      },
-      {
-        "id": "bg-experiment",
-        "title": "Test Subject",
-        "description": "Used in scientific or supernatural experimentation"
-      },
-      {
-        "id": "bg-prisoner",
-        "title": "Ex-Convict",
-        "description": "Formerly imprisoned, shaped by incarceration"
-      },
-      {
-        "id": "bg-nomad",
-        "title": "Nomad",
-        "description": "Lives a transient lifestyle, never settling in one place"
-      },
-      {
-        "id": "bg-immigrant",
-        "title": "Immigrant",
-        "description": "Relocated from another country, navigating new culture"
-      },
-      {
-        "id": "bg-refugee",
-        "title": "Refugee",
-        "description": "Fled conflict or disaster, often with little left"
-      },
-      {
-        "id": "bg-orphan",
-        "title": "Orphan",
-        "description": "Grew up without parental support"
-      },
-      {
-        "id": "bg-family-business",
-        "title": "Family Business",
-        "description": "Raised within a family trade or enterprise"
-      },
-      {
-        "id": "bg-corporate",
-        "title": "Corporate Professional",
-        "description": "Worked within large organizations or corporations"
-      },
-      {
-        "id": "bg-fixer",
-        "title": "Fixer",
-        "description": "Middleman who connects people, deals, and opportunities"
-      },
-      {
-        "id": "bg-smuggler",
-        "title": "Smuggler",
-        "description": "Specializes in moving illegal goods or people"
-      },
-      {
-        "id": "bg-mercenary",
-        "title": "Mercenary",
-        "description": "Sells combat skills to the highest bidder"
-      },
-      {
-        "id": "bg-activist",
-        "title": "Activist",
-        "description": "Driven by ideology to enact social or political change"
+        "id": "flaw-exposed",
+        "title": "Exposed",
+        "description": "Identity or activities are at risk of being revealed"
       }
     ]
   }

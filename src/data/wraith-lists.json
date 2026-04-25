@@ -1,0 +1,308 @@
+[
+  {
+    "id": "wraith-guild",
+    "title": "Guild",
+    "items": [
+      {
+        "id": "guild-artificers",
+        "title": "Artificers",
+        "description": "Craft relics and objects from soulstuff"
+      },
+      {
+        "id": "guild-ushers",
+        "title": "Usurers",
+        "description": "Manipulate passions and emotional energy"
+      },
+      {
+        "id": "guild-masquers",
+        "title": "Masquers",
+        "description": "Alter appearance and identity"
+      },
+      {
+        "id": "guild-pardoners",
+        "title": "Pardoners",
+        "description": "Study and manage Shadows"
+      },
+      {
+        "id": "guild-harbingers",
+        "title": "Harbingers",
+        "description": "Seek knowledge of Oblivion and the end of all things"
+      },
+      {
+        "id": "guild-oracles",
+        "title": "Oracles",
+        "description": "See the future and hidden truths"
+      },
+      {
+        "id": "guild-sandmen",
+        "title": "Sandmen",
+        "description": "Influence dreams and the sleeping"
+      },
+      {
+        "id": "guild-haunters",
+        "title": "Haunters",
+        "description": "Interact with and manipulate the living world"
+      },
+      {
+        "id": "guild-spooks",
+        "title": "Spooks",
+        "description": "Gather secrets and spy on others"
+      },
+      {
+        "id": "guild-monitors",
+        "title": "Monitors",
+        "description": "Maintain order and oversee other wraiths"
+      },
+      {
+        "id": "guild-mnemoi",
+        "title": "Mnemoi",
+        "description": "Preserve and manipulate memory"
+      }
+    ]
+  },
+  {
+    "id": "wraith-arcanos",
+    "title": "Arcanos",
+    "items": [
+      {
+        "id": "arcanoi-puppetry",
+        "title": "Puppetry",
+        "description": "Possess and control living beings"
+      },
+      {
+        "id": "arcanoi-inhabit",
+        "title": "Inhabit",
+        "description": "Control machines and objects"
+      },
+      {
+        "id": "arcanoi-embody",
+        "title": "Embody",
+        "description": "Manifest physically in the living world"
+      },
+      {
+        "id": "arcanoi-outrage",
+        "title": "Outrage",
+        "description": "Manipulate objects with force"
+      },
+
+      {
+        "id": "arcanoi-phantasm",
+        "title": "Phantasm",
+        "description": "Enter and shape dreams"
+      },
+      {
+        "id": "arcanoi-castigate",
+        "title": "Castigate",
+        "description": "Control or suppress the Shadow"
+      },
+      {
+        "id": "arcanoi-pandemonium",
+        "title": "Pandemonium",
+        "description": "Manipulate chaos and the environment"
+      },
+
+      {
+        "id": "arcanoi-argosy",
+        "title": "Argos",
+        "description": "Travel through the Tempest"
+      },
+      {
+        "id": "arcanoi-moliate",
+        "title": "Moliate",
+        "description": "Shape soulstuff and form"
+      },
+      {
+        "id": "arcanoi-usury",
+        "title": "Usury",
+        "description": "Transfer and manipulate Pathos"
+      },
+
+      {
+        "id": "arcanoi-fatalism",
+        "title": "Fatalism",
+        "description": "See fate and possible futures"
+      },
+      {
+        "id": "arcanoi-lifeweb",
+        "title": "Lifeweb",
+        "description": "Sense and manipulate Fetters"
+      },
+      {
+        "id": "arcanoi-keening",
+        "title": "Keening",
+        "description": "Channel emotion into destructive sound"
+      },
+
+      {
+        "id": "arcanoi-mnemosynis",
+        "title": "Mnemosynis",
+        "description": "Manipulate memory and identity"
+      }
+    ]
+  },
+  {
+    "id": "shadow-archetype",
+    "title": "Shadow Archetype",
+    "items": [
+      {
+        "id": "shadow-monster",
+        "title": "The Monster",
+        "description": "Urges violence and destruction"
+      },
+      {
+        "id": "shadow-tempter",
+        "title": "The Tempter",
+        "description": "Encourages corruption and indulgence"
+      },
+      {
+        "id": "shadow-critic",
+        "title": "The Critic",
+        "description": "Undermines confidence and self-worth"
+      },
+      {
+        "id": "shadow-judge",
+        "title": "The Judge",
+        "description": "Obsesses over guilt and punishment"
+      },
+      {
+        "id": "shadow-parasite",
+        "title": "The Parasite",
+        "description": "Drains energy and hope"
+      },
+      {
+        "id": "shadow-trickster",
+        "title": "The Trickster",
+        "description": "Causes chaos and misdirection"
+      },
+      {
+        "id": "shadow-beast",
+        "title": "The Beast",
+        "description": "Drives instinct and primal urges"
+      },
+      {
+        "id": "shadow-nemesis",
+        "title": "The Nemesis",
+        "description": "Seeks self-destruction and downfall"
+      }
+    ]
+  },
+  {
+    "id": "wraith-passion",
+    "title": "Passion",
+    "items": [
+      {
+        "id": "passion-love",
+        "title": "Love",
+        "description": "Devotion to a person or ideal"
+      },
+      {
+        "id": "passion-revenge",
+        "title": "Revenge",
+        "description": "Desire for vengeance"
+      },
+      {
+        "id": "passion-guilt",
+        "title": "Guilt",
+        "description": "Need for redemption or forgiveness"
+      },
+      {
+        "id": "passion-ambition",
+        "title": "Ambition",
+        "description": "Desire to achieve or complete something"
+      },
+      {
+        "id": "passion-protection",
+        "title": "Protection",
+        "description": "Need to safeguard someone or something"
+      },
+      {
+        "id": "passion-hate",
+        "title": "Hatred",
+        "description": "Strong negative emotional fixation"
+      },
+      {
+        "id": "passion-curiosity",
+        "title": "Curiosity",
+        "description": "Desire to understand or uncover truth"
+      },
+      {
+        "id": "passion-justice",
+        "title": "Justice",
+        "description": "Need to correct wrongs"
+      }
+    ]
+  },
+  {
+    "id": "wraith-fetter",
+    "title": "Fetter",
+    "items": [
+      {
+        "id": "fetter-person",
+        "title": "Loved One",
+        "description": "A person the wraith is emotionally tied to"
+      },
+      {
+        "id": "fetter-object",
+        "title": "Personal Object",
+        "description": "An important possession from life"
+      },
+      {
+        "id": "fetter-place",
+        "title": "Location",
+        "description": "A meaningful place from life"
+      },
+      {
+        "id": "fetter-duty",
+        "title": "Unfinished Duty",
+        "description": "A responsibility left incomplete"
+      },
+      {
+        "id": "fetter-secret",
+        "title": "Hidden Secret",
+        "description": "A truth tied to their existence"
+      },
+      {
+        "id": "fetter-memory",
+        "title": "Memory",
+        "description": "A defining moment that anchors them"
+      }
+    ]
+  },
+  {
+    "id": "wraith-deathmark",
+    "title": "Deathmark",
+    "items": [
+      {
+        "id": "death-violence",
+        "title": "Murder",
+        "description": "Killed by another person"
+      },
+      {
+        "id": "death-accident",
+        "title": "Accident",
+        "description": "Unexpected fatal incident"
+      },
+      {
+        "id": "death-suicide",
+        "title": "Suicide",
+        "description": "Took their own life"
+      },
+      {
+        "id": "death-illness",
+        "title": "Illness",
+        "description": "Died from disease or condition"
+      },
+      { "id": "death-war", "title": "War", "description": "Died in conflict" },
+      {
+        "id": "death-betrayal",
+        "title": "Betrayal",
+        "description": "Killed by someone trusted"
+      },
+      {
+        "id": "death-sacrifice",
+        "title": "Sacrifice",
+        "description": "Died for a cause or others"
+      }
+    ]
+  }
+]

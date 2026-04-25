@@ -1,0 +1,185 @@
+[
+  {
+    "id": "other-being",
+    "title": "Other Being",
+    "items": [
+      {
+        "id": "being-mutant",
+        "title": "Mutant",
+        "description": "Human altered by radiation, magic, or supernatural influence"
+      },
+      {
+        "id": "being-enhanced-human",
+        "title": "Enhanced Human",
+        "description": "Augmented through science, magic, or experimentation"
+      },
+      {
+        "id": "being-failed-experiment",
+        "title": "Failed Experiment",
+        "description": "Unstable being resulting from unnatural creation"
+      },
+
+      {
+        "id": "being-vampire-hound",
+        "title": "Vampire Hound",
+        "description": "Ghoul-like tracker or enforcer bound to a vampire"
+      },
+      {
+        "id": "being-demon-hound",
+        "title": "Demon Hound",
+        "description": "Infernal beast serving a demonic entity"
+      },
+      {
+        "id": "being-spirit-hound",
+        "title": "Spirit Hound",
+        "description": "Otherworldly tracker tied to spirits or the umbra"
+      },
+      {
+        "id": "being-blood-servitor",
+        "title": "Blood Servitor",
+        "description": "Lesser being sustained by vitae or supernatural essence"
+      },
+      {
+        "id": "being-hunter-hound",
+        "title": "Hunter Hound",
+        "description": "A mortal animal, usually pet, imbued with hunter powers"
+      },
+
+      {
+        "id": "being-fomor",
+        "title": "Fomori",
+        "description": "Human or animal corrupted and possessed by Wyrm entities"
+      },
+      {
+        "id": "being-blighted-creature",
+        "title": "Blighted Creature",
+        "description": "Animal or being warped by corruption or decay"
+      },
+      {
+        "id": "being-tainted-hybrid",
+        "title": "Tainted Hybrid",
+        "description": "Mixed being altered beyond natural form"
+      },
+
+      {
+        "id": "being-demonic-fauna",
+        "title": "Demonic Fauna",
+        "description": "Animals twisted by infernal influence"
+      },
+      {
+        "id": "being-spirit-fauna",
+        "title": "Spirit Fauna",
+        "description": "Animal-like spirits manifesting in the physical or umbral world"
+      },
+      {
+        "id": "being-ghost-fauna",
+        "title": "Ghost Fauna",
+        "description": "Echoes of animals lingering after death"
+      },
+      {
+        "id": "being-chimerical-animal",
+        "title": "Chimerical Animal",
+        "description": "Dream-born or fae-touched creature"
+      },
+
+      {
+        "id": "being-strange-flora",
+        "title": "Strange Flora",
+        "description": "Plants with unusual or supernatural properties"
+      },
+      {
+        "id": "being-carnivorous-flora",
+        "title": "Carnivorous Flora",
+        "description": "Plants that actively hunt or consume prey"
+      },
+      {
+        "id": "being-corrupted-flora",
+        "title": "Corrupted Flora",
+        "description": "Vegetation warped by dark forces"
+      },
+      {
+        "id": "being-sentient-plant",
+        "title": "Sentient Plant",
+        "description": "Plant life with awareness or intelligence"
+      },
+
+      {
+        "id": "being-parasite",
+        "title": "Supernatural Parasite",
+        "description": "Entity that feeds on hosts physically or spiritually"
+      },
+      {
+        "id": "being-symbiote",
+        "title": "Symbiotic Entity",
+        "description": "Lives with a host, granting power at a cost"
+      },
+      {
+        "id": "being-infestation",
+        "title": "Infestation",
+        "description": "Swarm or collective of lesser creatures acting as one"
+      },
+      {
+        "id": "being-mage-familiar",
+        "title": "Mage Familiar",
+        "description": "An lower being touched by gnosis or magic, bonded to a mage or sorcerer"
+      },
+      {
+        "id": "being-angelic-kin",
+        "title": "Angelic Kin",
+        "description": "An lower being adapted or evolved from angelic origins planes"
+      },
+      {
+        "id": "being-vampire-kin",
+        "title": "Vampire Kin",
+        "description": "An lower being adapted or evolved from vampiric origins or experiments"
+      },
+      {
+        "id": "being-demonic-kin",
+        "title": "Demonic Kin",
+        "description": "An lower being adapted or evolved from demonic origins planes"
+      },
+      {
+        "id": "being-ghost-kin",
+        "title": "Ghost Fauna",
+        "description": "An lower being adapted or evolved from umbral origins"
+      },
+      {
+        "id": "being-liminal-entity",
+        "title": "Liminal Entity",
+        "description": "Exists in transitional or boundary spaces"
+      },
+      {
+        "id": "being-echo",
+        "title": "Echo Being",
+        "description": "Residual presence repeating actions or patterns"
+      },
+      {
+        "id": "being-anomaly",
+        "title": "Anomalous Being",
+        "description": "Defies normal classification or rules of reality"
+      },
+
+      {
+        "id": "being-prototype",
+        "title": "Prototype Entity",
+        "description": "Early-stage or experimental creation"
+      },
+      {
+        "id": "being-autonomous-construct",
+        "title": "Autonomous Construct",
+        "description": "Artificial being acting independently"
+      },
+
+      {
+        "id": "being-territorial-entity",
+        "title": "Territorial Entity",
+        "description": "Embodiment of a specific place or domain"
+      },
+      {
+        "id": "being-weather-entity",
+        "title": "Weather Entity",
+        "description": "Linked to storms or environmental phenomena"
+      }
+    ]
+  }
+]
