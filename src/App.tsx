@@ -91,6 +91,7 @@ function App() {
 
     // Save result to campaign
     if (activeCampaign) {
+      /*
       const result = {
         id: generateResultId(),
         contextId: activeContext.id,
@@ -98,10 +99,11 @@ function App() {
         timestamp: Date.now(),
         rolls,
       };
-      saveCampaignResult(activeCampaign.id, result);
+      //saveCampaignResult(activeCampaign.id, result);
       // Refresh campaign to reflect new result
       const updated = getCampaignById(activeCampaign.id);
       if (updated) setActiveCampaign(updated);
+      */
     }
   };
 
@@ -427,6 +429,9 @@ function App() {
   };
 
   const renderCampaignHistory = () => {
+    return;
+    /*
+
     if (!activeCampaign || activeCampaign.results.length === 0) {
       return null;
     }
@@ -469,6 +474,7 @@ function App() {
         )}
       </div>
     );
+    */
   };
 
   return (
