@@ -5,7 +5,7 @@ import type {
   NestedRoll,
   Context,
   List,
-  CampaignResult,
+  // CampaignResult,
 } from "./types/index";
 import {
   getScenarioById,
@@ -19,12 +19,12 @@ import {
   getItemIdsFromRollTree,
 } from "./lib/roller";
 import {
-  saveCampaignResult,
+  //saveCampaignResult,
   getCampaignById,
   createCampaign,
   getCampaigns,
   deleteCampaign,
-  generateResultId,
+  //  generateResultId,
 } from "./lib/campaign-storage";
 
 function App() {
@@ -38,7 +38,7 @@ function App() {
   const [scenarioInput, setScenarioInput] = useState(scenarios[0].id);
   const [showForm, setShowForm] = useState(false);
   const [campaigns, setCampaigns] = useState<Campaign[]>(getCampaigns());
-  const [historyExpanded, setHistoryExpanded] = useState(false);
+  //const [historyExpanded, setHistoryExpanded] = useState(false);
 
   // Get current scenario from active campaign
   const scenario = activeCampaign
